@@ -1,0 +1,329 @@
+Cosine Similarity between 0_des.txt and 0_rev.txt: 0.598161
+Cosine Similarity between 1_des.txt and 1_rev.txt: 0.645103
+Cosine Similarity between 2_des.txt and 2_rev.txt: 0.610867
+Cosine Similarity between 3_des.txt and 3_rev.txt: 0.482707
+Cosine Similarity between 4_des.txt and 4_rev.txt: 0.503556
+
+Cosine Similarity between 5_des.txt and 5_rev.txt: 0.486716
+Cosine Similarity between 6_des.txt and 6_rev.txt: 0.485002
+Cosine Similarity between 7_des.txt and 7_rev.txt: 0.421371
+Cosine Similarity between 8_des.txt and 8_rev.txt: 0.462235
+Cosine Similarity between 9_des.txt and 9_rev.txt: 0.512468
+
+Cosine Similarity between 10_des.txt and 10_rev.txt: 0.519861
+Cosine Similarity between 11_des.txt and 11_rev.txt: 0.481306
+Cosine Similarity between 12_des.txt and 12_rev.txt: 0.493133
+Cosine Similarity between 13_des.txt and 13_rev.txt: 0.519278
+Cosine Similarity between 14_des.txt and 14_rev.txt: 0.548320
+
+Cosine Similarity between 15_des.txt and 15_rev.txt: 0.524374
+Cosine Similarity between 16_des.txt and 16_rev.txt: 0.525801
+Cosine Similarity between 17_des.txt and 17_rev.txt: 0.546446
+Cosine Similarity between 18_des.txt and 18_rev.txt: 0.464965
+Cosine Similarity between 19_des.txt and 19_rev.txt: 0.549791
+
+Cosine Similarity between 20_des.txt and 20_rev.txt: 0.484294
+Cosine Similarity between 21_des.txt and 21_rev.txt: 0.428172
+Cosine Similarity between 22_des.txt and 22_rev.txt: 0.522641
+Cosine Similarity between 23_des.txt and 23_rev.txt: 0.404093
+Cosine Similarity between 24_des.txt and 24_rev.txt: 0.551730
+
+Cosine Similarity between 25_des.txt and 25_rev.txt: 0.509868
+Cosine Similarity between 26_des.txt and 26_rev.txt: 0.522238
+Cosine Similarity between 27_des.txt and 27_rev.txt: 0.476598
+Cosine Similarity between 28_des.txt and 28_rev.txt: 0.646173
+Cosine Similarity between 29_des.txt and 29_rev.txt: 0.488036
+
+Cosine Similarity between 30_des.txt and 30_rev.txt: 0.509534
+Cosine Similarity between 31_des.txt and 31_rev.txt: 0.587652
+Cosine Similarity between 32_des.txt and 32_rev.txt: 0.530251
+Cosine Similarity between 33_des.txt and 33_rev.txt: 0.605034
+Cosine Similarity between 34_des.txt and 34_rev.txt: 0.282865
+
+Cosine Similarity between 35_des.txt and 35_rev.txt: 0.548449
+Cosine Similarity between 36_des.txt and 36_rev.txt: 0.523195
+Cosine Similarity between 37_des.txt and 37_rev.txt: 0.498689
+Cosine Similarity between 38_des.txt and 38_rev.txt: 0.499538
+Cosine Similarity between 39_des.txt and 39_rev.txt: 0.566720
+
+Cosine Similarity between 40_des.txt and 40_rev.txt: 0.408953
+Cosine Similarity between 41_des.txt and 41_rev.txt: 0.540771
+Cosine Similarity between 42_des.txt and 42_rev.txt: 0.489841
+Cosine Similarity between 43_des.txt and 43_rev.txt: 0.509534
+Cosine Similarity between 44_des.txt and 44_rev.txt: 0.448343
+
+Cosine Similarity between 45_des.txt and 45_rev.txt: 0.328700
+Cosine Similarity between 46_des.txt and 46_rev.txt: 0.574333
+Cosine Similarity between 47_des.txt and 47_rev.txt: 0.349863
+Cosine Similarity between 48_des.txt and 48_rev.txt: 0.492926
+Cosine Similarity between 49_des.txt and 49_rev.txt: 0.499823
+
+Cosine Similarity between 50_des.txt and 50_rev.txt: 0.587964
+Cosine Similarity between 51_des.txt and 51_rev.txt: 0.508446
+Cosine Similarity between 52_des.txt and 52_rev.txt: 0.511266
+Cosine Similarity between 53_des.txt and 53_rev.txt: 0.486882
+Cosine Similarity between 54_des.txt and 54_rev.txt: 0.404093
+
+Cosine Similarity between 55_des.txt and 55_rev.txt: 0.462102
+Cosine Similarity between 56_des.txt and 56_rev.txt: 0.539883
+Cosine Similarity between 57_des.txt and 57_rev.txt: 0.417900
+Cosine Similarity between 58_des.txt and 58_rev.txt: 0.545502
+Cosine Similarity between 59_des.txt and 59_rev.txt: 0.426468
+
+Cosine Similarity between 60_des.txt and 60_rev.txt: 0.552374
+Cosine Similarity between 61_des.txt and 61_rev.txt: 0.557101
+Cosine Similarity between 62_des.txt and 62_rev.txt: 0.508851
+Cosine Similarity between 63_des.txt and 63_rev.txt: 0.483236
+Cosine Similarity between 64_des.txt and 64_rev.txt: 0.519861
+
+Cosine Similarity between 65_des.txt and 65_rev.txt: 0.525683
+Cosine Similarity between 66_des.txt and 66_rev.txt: 0.513844
+Cosine Similarity between 67_des.txt and 67_rev.txt: 0.470931
+Cosine Similarity between 68_des.txt and 68_rev.txt: 0.566720
+Cosine Similarity between 69_des.txt and 69_rev.txt: 0.503689
+
+Cosine Similarity between 70_des.txt and 70_rev.txt: 0.263621
+Cosine Similarity between 71_des.txt and 71_rev.txt: 0.562389
+Cosine Similarity between 72_des.txt and 72_rev.txt: 0.601354
+Cosine Similarity between 73_des.txt and 73_rev.txt: 0.464081
+Cosine Similarity between 74_des.txt and 74_rev.txt: 0.345791
+
+Cosine Similarity between 75_des.txt and 75_rev.txt: 0.442323
+Cosine Similarity between 76_des.txt and 76_rev.txt: 0.398327
+Cosine Similarity between 77_des.txt and 77_rev.txt: 0.422844
+Cosine Similarity between 78_des.txt and 78_rev.txt: 0.412023
+Cosine Similarity between 79_des.txt and 79_rev.txt: 0.264853
+
+Cosine Similarity between 80_des.txt and 80_rev.txt: 0.509984
+Cosine Similarity between 81_des.txt and 81_rev.txt: 0.526627
+Cosine Similarity between 82_des.txt and 82_rev.txt: 0.441805
+Cosine Similarity between 83_des.txt and 83_rev.txt: 0.530452
+Cosine Similarity between 84_des.txt and 84_rev.txt: 0.505294
+
+Cosine Similarity between 85_des.txt and 85_rev.txt: 0.523566
+Cosine Similarity between 86_des.txt and 86_rev.txt: 0.513844
+Cosine Similarity between 87_des.txt and 87_rev.txt: 0.602659
+Cosine Similarity between 88_des.txt and 88_rev.txt: 0.565427
+Cosine Similarity between 89_des.txt and 89_rev.txt: 0.566720
+
+Cosine Similarity between 90_des.txt and 90_rev.txt: 0.354638
+Cosine Similarity between 91_des.txt and 91_rev.txt: 0.548449
+Cosine Similarity between 92_des.txt and 92_rev.txt: 0.520974
+Cosine Similarity between 93_des.txt and 93_rev.txt: 0.468627
+Cosine Similarity between 94_des.txt and 94_rev.txt: 0.558353
+
+Cosine Similarity between 95_des.txt and 95_rev.txt: 0.587798
+Cosine Similarity between 96_des.txt and 96_rev.txt: 0.533823
+Cosine Similarity between 97_des.txt and 97_rev.txt: 0.557369
+Cosine Similarity between 98_des.txt and 98_rev.txt: 0.486256
+Cosine Similarity between 99_des.txt and 99_rev.txt: 0.540086
+
+Cosine Similarity between 100_des.txt and 100_rev.txt: 0.547516
+Cosine Similarity between 101_des.txt and 101_rev.txt: 0.493227
+Cosine Similarity between 102_des.txt and 102_rev.txt: 0.473592
+Cosine Similarity between 103_des.txt and 103_rev.txt: 0.491754
+Cosine Similarity between 104_des.txt and 104_rev.txt: 0.522360
+
+Cosine Similarity between 105_des.txt and 105_rev.txt: 0.550442
+Cosine Similarity between 106_des.txt and 106_rev.txt: 0.541172
+Cosine Similarity between 107_des.txt and 107_rev.txt: 0.464075
+Cosine Similarity between 108_des.txt and 108_rev.txt: 0.524441
+Cosine Similarity between 109_des.txt and 109_rev.txt: 0.541653
+
+Cosine Similarity between 110_des.txt and 110_rev.txt: 0.548449
+Cosine Similarity between 111_des.txt and 111_rev.txt: 0.561148
+Cosine Similarity between 112_des.txt and 112_rev.txt: 0.566836
+Cosine Similarity between 113_des.txt and 113_rev.txt: 0.498689
+Cosine Similarity between 114_des.txt and 114_rev.txt: 0.560782
+
+Cosine Similarity between 115_des.txt and 115_rev.txt: 0.623531
+Cosine Similarity between 116_des.txt and 116_rev.txt: 0.614992
+Cosine Similarity between 117_des.txt and 117_rev.txt: 0.617539
+Cosine Similarity between 118_des.txt and 118_rev.txt: 0.577438
+Cosine Similarity between 119_des.txt and 119_rev.txt: 0.560037
+
+Cosine Similarity between 120_des.txt and 120_rev.txt: 0.263621
+Cosine Similarity between 121_des.txt and 121_rev.txt: 0.311461
+Cosine Similarity between 122_des.txt and 122_rev.txt: 0.308310
+Cosine Similarity between 123_des.txt and 123_rev.txt: 0.500879
+Cosine Similarity between 124_des.txt and 124_rev.txt: 0.429628
+
+Cosine Similarity between 125_des.txt and 125_rev.txt: 0.701058
+Cosine Similarity between 126_des.txt and 126_rev.txt: 0.476147
+Cosine Similarity between 127_des.txt and 127_rev.txt: 0.616536
+Cosine Similarity between 128_des.txt and 128_rev.txt: 0.447328
+Cosine Similarity between 129_des.txt and 129_rev.txt: 0.552332
+
+Cosine Similarity between 130_des.txt and 130_rev.txt: 0.477688
+Cosine Similarity between 131_des.txt and 131_rev.txt: 0.474709
+Cosine Similarity between 132_des.txt and 132_rev.txt: 0.446630
+Cosine Similarity between 133_des.txt and 133_rev.txt: 0.570003
+Cosine Similarity between 134_des.txt and 134_rev.txt: 0.497757
+
+Cosine Similarity between 135_des.txt and 135_rev.txt: 0.551445
+Cosine Similarity between 136_des.txt and 136_rev.txt: 0.548685
+Cosine Similarity between 137_des.txt and 137_rev.txt: 0.521807
+Cosine Similarity between 138_des.txt and 138_rev.txt: 0.437328
+Cosine Similarity between 139_des.txt and 139_rev.txt: 0.365341
+
+Cosine Similarity between 140_des.txt and 140_rev.txt: 0.581578
+Cosine Similarity between 141_des.txt and 141_rev.txt: 0.533557
+Cosine Similarity between 142_des.txt and 142_rev.txt: 0.650353
+Cosine Similarity between 143_des.txt and 143_rev.txt: 0.596395
+Cosine Similarity between 144_des.txt and 144_rev.txt: 0.617230
+
+Cosine Similarity between 145_des.txt and 145_rev.txt: 0.491754
+Cosine Similarity between 146_des.txt and 146_rev.txt: 0.523733
+Cosine Similarity between 147_des.txt and 147_rev.txt: 0.513844
+Cosine Similarity between 148_des.txt and 148_rev.txt: 0.602659
+Cosine Similarity between 149_des.txt and 149_rev.txt: 0.565427
+
+Cosine Similarity between 150_des.txt and 150_rev.txt: 0.549676
+Cosine Similarity between 151_des.txt and 151_rev.txt: 0.587751
+Cosine Similarity between 152_des.txt and 152_rev.txt: 0.424785
+Cosine Similarity between 153_des.txt and 153_rev.txt: 0.529802
+Cosine Similarity between 154_des.txt and 154_rev.txt: 0.546446
+
+Cosine Similarity between 155_des.txt and 155_rev.txt: 0.345507
+Cosine Similarity between 156_des.txt and 156_rev.txt: 0.554217
+Cosine Similarity between 157_des.txt and 157_rev.txt: 0.469889
+Cosine Similarity between 158_des.txt and 158_rev.txt: 0.547395
+Cosine Similarity between 159_des.txt and 159_rev.txt: 0.498475
+
+Cosine Similarity between 160_des.txt and 160_rev.txt: 0.513844
+Cosine Similarity between 161_des.txt and 161_rev.txt: 0.470931
+Cosine Similarity between 162_des.txt and 162_rev.txt: 0.566720
+Cosine Similarity between 163_des.txt and 163_rev.txt: 0.566744
+Cosine Similarity between 164_des.txt and 164_rev.txt: 0.503689
+
+Cosine Similarity between 165_des.txt and 165_rev.txt: 0.383876
+Cosine Similarity between 166_des.txt and 166_rev.txt: 0.327196
+Cosine Similarity between 167_des.txt and 167_rev.txt: 0.432320
+Cosine Similarity between 168_des.txt and 168_rev.txt: 0.506860
+Cosine Similarity between 169_des.txt and 169_rev.txt: 0.239674
+
+Cosine Similarity between 170_des.txt and 170_rev.txt: 0.559087
+Cosine Similarity between 171_des.txt and 171_rev.txt: 0.492979
+Cosine Similarity between 172_des.txt and 172_rev.txt: 0.526687
+Cosine Similarity between 173_des.txt and 173_rev.txt: 0.502206
+Cosine Similarity between 174_des.txt and 174_rev.txt: 0.647365
+
+Cosine Similarity between 175_des.txt and 175_rev.txt: 0.642004
+Cosine Similarity between 176_des.txt and 176_rev.txt: 0.564913
+Cosine Similarity between 177_des.txt and 177_rev.txt: 0.486746
+Cosine Similarity between 178_des.txt and 178_rev.txt: 0.517705
+Cosine Similarity between 179_des.txt and 179_rev.txt: 0.477408
+
+Cosine Similarity between 180_des.txt and 180_rev.txt: 0.540771
+Cosine Similarity between 181_des.txt and 181_rev.txt: 0.566543
+Cosine Similarity between 182_des.txt and 182_rev.txt: 0.584613
+Cosine Similarity between 183_des.txt and 183_rev.txt: 0.520006
+Cosine Similarity between 184_des.txt and 184_rev.txt: 0.499670
+
+Cosine Similarity between 185_des.txt and 185_rev.txt: 0.484294
+Cosine Similarity between 186_des.txt and 186_rev.txt: 0.486519
+Cosine Similarity between 187_des.txt and 187_rev.txt: 0.504233
+Cosine Similarity between 188_des.txt and 188_rev.txt: 0.407652
+Cosine Similarity between 189_des.txt and 189_rev.txt: 0.441805
+
+Cosine Similarity between 190_des.txt and 190_rev.txt: 0.557369
+Cosine Similarity between 191_des.txt and 191_rev.txt: 0.501448
+Cosine Similarity between 192_des.txt and 192_rev.txt: 0.534205
+Cosine Similarity between 193_des.txt and 193_rev.txt: 0.632568
+Cosine Similarity between 194_des.txt and 194_rev.txt: 0.471128
+
+Cosine Similarity between 195_des.txt and 195_rev.txt: 0.537687
+Cosine Similarity between 196_des.txt and 196_rev.txt: 0.444058
+Cosine Similarity between 197_des.txt and 197_rev.txt: 0.394661
+Cosine Similarity between 198_des.txt and 198_rev.txt: 0.437328
+Cosine Similarity between 199_des.txt and 199_rev.txt: 0.550395
+
+Cosine Similarity between 200_des.txt and 200_rev.txt: 0.513095
+Cosine Similarity between 201_des.txt and 201_rev.txt: 0.498230
+Cosine Similarity between 202_des.txt and 202_rev.txt: 0.382174
+Cosine Similarity between 203_des.txt and 203_rev.txt: 0.526538
+Cosine Similarity between 204_des.txt and 204_rev.txt: 0.535772
+
+Cosine Similarity between 205_des.txt and 205_rev.txt: 0.500824
+Cosine Similarity between 206_des.txt and 206_rev.txt: 0.441229
+Cosine Similarity between 207_des.txt and 207_rev.txt: 0.550457
+Cosine Similarity between 208_des.txt and 208_rev.txt: 0.544325
+Cosine Similarity between 209_des.txt and 209_rev.txt: 0.395154
+
+Cosine Similarity between 210_des.txt and 210_rev.txt: 0.412743
+Cosine Similarity between 211_des.txt and 211_rev.txt: 0.471922
+Cosine Similarity between 212_des.txt and 212_rev.txt: 0.437328
+Cosine Similarity between 213_des.txt and 213_rev.txt: 0.365341
+Cosine Similarity between 214_des.txt and 214_rev.txt: 0.544859
+
+Cosine Similarity between 215_des.txt and 215_rev.txt: 0.547516
+Cosine Similarity between 216_des.txt and 216_rev.txt: 0.493227
+Cosine Similarity between 217_des.txt and 217_rev.txt: 0.473592
+Cosine Similarity between 218_des.txt and 218_rev.txt: 0.518910
+Cosine Similarity between 219_des.txt and 219_rev.txt: 0.491754
+
+Cosine Similarity between 220_des.txt and 220_rev.txt: 0.541027
+Cosine Similarity between 221_des.txt and 221_rev.txt: 0.496539
+Cosine Similarity between 222_des.txt and 222_rev.txt: 0.477250
+Cosine Similarity between 223_des.txt and 223_rev.txt: 0.497589
+Cosine Similarity between 224_des.txt and 224_rev.txt: 0.458701
+
+Cosine Similarity between 225_des.txt and 225_rev.txt: 0.442323
+Cosine Similarity between 226_des.txt and 226_rev.txt: 0.398327
+Cosine Similarity between 227_des.txt and 227_rev.txt: 0.422844
+Cosine Similarity between 228_des.txt and 228_rev.txt: 0.412023
+Cosine Similarity between 229_des.txt and 229_rev.txt: 0.264853
+
+Cosine Similarity between 230_des.txt and 230_rev.txt: 0.541027
+Cosine Similarity between 231_des.txt and 231_rev.txt: 0.542991
+Cosine Similarity between 232_des.txt and 232_rev.txt: 0.619062
+Cosine Similarity between 233_des.txt and 233_rev.txt: 0.444058
+Cosine Similarity between 234_des.txt and 234_rev.txt: 0.472762
+
+Cosine Similarity between 235_des.txt and 235_rev.txt: 0.508561
+Cosine Similarity between 236_des.txt and 236_rev.txt: 0.498230
+Cosine Similarity between 237_des.txt and 237_rev.txt: 0.382174
+Cosine Similarity between 238_des.txt and 238_rev.txt: 0.526538
+Cosine Similarity between 239_des.txt and 239_rev.txt: 0.535772
+
+Cosine Similarity between 240_des.txt and 240_rev.txt: 0.571923
+Cosine Similarity between 241_des.txt and 241_rev.txt: 0.448343
+Cosine Similarity between 242_des.txt and 242_rev.txt: 0.405534
+Cosine Similarity between 243_des.txt and 243_rev.txt: 0.499538
+Cosine Similarity between 244_des.txt and 244_rev.txt: 0.515177
+
+Cosine Similarity between 245_des.txt and 245_rev.txt: 0.498475
+Cosine Similarity between 246_des.txt and 246_rev.txt: 0.516265
+Cosine Similarity between 247_des.txt and 247_rev.txt: 0.560474
+Cosine Similarity between 248_des.txt and 248_rev.txt: 0.556183
+Cosine Similarity between 249_des.txt and 249_rev.txt: 0.558770
+
+Cosine Similarity between 250_des.txt and 250_rev.txt: 0.518910
+Cosine Similarity between 251_des.txt and 251_rev.txt: 0.513844
+Cosine Similarity between 252_des.txt and 252_rev.txt: 0.566720
+Cosine Similarity between 253_des.txt and 253_rev.txt: 0.503689
+Cosine Similarity between 254_des.txt and 254_rev.txt: 0.496611
+
+Cosine Similarity between 255_des.txt and 255_rev.txt: 0.519861
+Cosine Similarity between 256_des.txt and 256_rev.txt: 0.481306
+Cosine Similarity between 257_des.txt and 257_rev.txt: 0.548320
+Cosine Similarity between 258_des.txt and 258_rev.txt: 0.478452
+Cosine Similarity between 259_des.txt and 259_rev.txt: 0.442187
+
+Cosine Similarity between 260_des.txt and 260_rev.txt: 0.415304
+Cosine Similarity between 261_des.txt and 261_rev.txt: 0.485000
+Cosine Similarity between 262_des.txt and 262_rev.txt: 0.521097
+Cosine Similarity between 263_des.txt and 263_rev.txt: 0.504493
+Cosine Similarity between 264_des.txt and 264_rev.txt: 0.580985
+
+Cosine Similarity between 265_des.txt and 265_rev.txt: 0.534628
+Cosine Similarity between 266_des.txt and 266_rev.txt: 0.383908
+Cosine Similarity between 267_des.txt and 267_rev.txt: 0.550024
+Cosine Similarity between 268_des.txt and 268_rev.txt: 0.409853
+Cosine Similarity between 269_des.txt and 269_rev.txt: 0.392640
+
+Cosine Similarity between 270_des.txt and 270_rev.txt: 0.354638
+Cosine Similarity between 271_des.txt and 271_rev.txt: 0.548449
+Cosine Similarity between 272_des.txt and 272_rev.txt: 0.520974
+Cosine Similarity between 273_des.txt and 273_rev.txt: 0.468627
+Cosine Similarity between 274_des.txt and 274_rev.txt: 0.558353
