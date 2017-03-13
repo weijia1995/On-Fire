@@ -120,7 +120,3 @@ def index(request):
         
     return render(request, 'home.html', context)
 
-
-def general(request):
-    context = {}
-    return render(request, 'general.html', context)
