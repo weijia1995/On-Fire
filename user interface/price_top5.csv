@@ -1,0 +1,1376 @@
+,category,brand_name,name,price,rating,num_review,score,similarity_score,word,dfidf
+0,Face Brushes,Hourglass,Vanish Foundation Brush,$46.00,4.7319,1412.0,377.0,0.5981609999999999,dense,0.24777730253611657
+1,Face Brushes,Hourglass,Vanish Foundation Brush,$46.00,4.7319,1412.0,377.0,0.5981609999999999,bristles,0.457884511353139
+2,Face Brushes,Hourglass,Vanish Foundation Brush,$46.00,4.7319,1412.0,377.0,0.5981609999999999,hourglass,0.4872234444124197
+3,Face Brushes,Hourglass,Vanish Foundation Brush,$46.00,4.7319,1412.0,377.0,0.5981609999999999,brushes,0.26852940027113587
+4,Face Brushes,Hourglass,Vanish Foundation Brush,$46.00,4.7319,1412.0,377.0,0.5981609999999999,vanish,0.5121983063363164
+5,Face Brushes,Kat Von D,Lock-It Edge Concealer Brush,$24.00,4.6057,1266.0,329.5,0.645103,dense,0.15826840632501987
+6,Face Brushes,Kat Von D,Lock-It Edge Concealer Brush,$24.00,4.6057,1266.0,329.5,0.645103,brushes,0.3241801021196763
+7,Face Brushes,Kat Von D,Lock-It Edge Concealer Brush,$24.00,4.6057,1266.0,329.5,0.645103,blending,0.2895971995472302
+8,Face Brushes,Kat Von D,Lock-It Edge Concealer Brush,$24.00,4.6057,1266.0,329.5,0.645103,lock,0.31606679150353717
+9,Face Brushes,Kat Von D,Lock-It Edge Concealer Brush,$24.00,4.6057,1266.0,329.5,0.645103,bristles,0.675617113266062
+10,Face Brushes,Kat Von D,Lock-It Setting Powder Brush,$38.00,4.7728,1206.0,321.5,0.610867,bristles,0.4848852198069924
+11,Face Brushes,Kat Von D,Lock-It Setting Powder Brush,$38.00,4.7728,1206.0,321.5,0.610867,brushes,0.3240726509761862
+12,Face Brushes,Kat Von D,Lock-It Setting Powder Brush,$38.00,4.7728,1206.0,321.5,0.610867,setting,0.622590245269579
+13,Face Brushes,Kat Von D,Lock-It Setting Powder Brush,$38.00,4.7728,1206.0,321.5,0.610867,lock,0.17841334195191114
+14,Face Brushes,Kat Von D,Lock-It Setting Powder Brush,$38.00,4.7728,1206.0,321.5,0.610867,fluffy,0.216478390470776
+15,Face Brushes,tarte,Airbrush Finish Bamboo Foundation Brush,$34.00,4.6829,1158.0,307.5,0.482707,bristles,0.6445521015774067
+16,Face Brushes,tarte,Airbrush Finish Bamboo Foundation Brush,$34.00,4.6829,1158.0,307.5,0.482707,airbrushed,0.23281941014163304
+17,Face Brushes,tarte,Airbrush Finish Bamboo Foundation Brush,$34.00,4.6829,1158.0,307.5,0.482707,brushes,0.3845051007526604
+18,Face Brushes,tarte,Airbrush Finish Bamboo Foundation Brush,$34.00,4.6829,1158.0,307.5,0.482707,clay,0.2082740533729665
+19,Face Brushes,tarte,Airbrush Finish Bamboo Foundation Brush,$34.00,4.6829,1158.0,307.5,0.482707,tarte,0.31029607462832803
+20,Face Brushes,SEPHORA COLLECTION,PRO Flawless Airbrush #56,$32.00,4.7554,739.0,201.75,0.503556,bristles,0.474857014847583
+21,Face Brushes,SEPHORA COLLECTION,PRO Flawless Airbrush #56,$32.00,4.7554,739.0,201.75,0.503556,airbrushed,0.2999144460121919
+22,Face Brushes,SEPHORA COLLECTION,PRO Flawless Airbrush #56,$32.00,4.7554,739.0,201.75,0.503556,brushes,0.5416293274369498
+23,Face Brushes,SEPHORA COLLECTION,PRO Flawless Airbrush #56,$32.00,4.7554,739.0,201.75,0.503556,airbrush,0.28904340034200704
+24,Face Brushes,SEPHORA COLLECTION,PRO Flawless Airbrush #56,$32.00,4.7554,739.0,201.75,0.503556,foundations,0.21706595483273008
+25,Fine Lines & Wrinkles,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,$57.00,4.2723,1537.0,413.75,0.486716,wrinkles,0.6088021080439103
+26,Fine Lines & Wrinkles,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,$57.00,4.2723,1537.0,413.75,0.486716,shiseido,0.31083843116620374
+27,Fine Lines & Wrinkles,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,$57.00,4.2723,1537.0,413.75,0.486716,jar,0.15442287373080318
+28,Fine Lines & Wrinkles,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,$57.00,4.2723,1537.0,413.75,0.486716,circles,0.34905421352399457
+29,Fine Lines & Wrinkles,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,$57.00,4.2723,1537.0,413.75,0.486716,wrinkle,0.1808292945010616
+30,Fine Lines & Wrinkles,philosophy,Miracle Worker™ Miraculous Anti-aging Retinoid Pads and Solution,$75.00,4.1531,1208.0,340.5,0.48500200000000004,wrinkles,0.12258058738135631
+31,Fine Lines & Wrinkles,philosophy,Miracle Worker™ Miraculous Anti-aging Retinoid Pads and Solution,$75.00,4.1531,1208.0,340.5,0.48500200000000004,pad,0.14978357157044236
+32,Fine Lines & Wrinkles,philosophy,Miracle Worker™ Miraculous Anti-aging Retinoid Pads and Solution,$75.00,4.1531,1208.0,340.5,0.48500200000000004,philosophy,0.2885694862804034
+33,Fine Lines & Wrinkles,philosophy,Miracle Worker™ Miraculous Anti-aging Retinoid Pads and Solution,$75.00,4.1531,1208.0,340.5,0.48500200000000004,retinol,0.143326723874134
+34,Fine Lines & Wrinkles,philosophy,Miracle Worker™ Miraculous Anti-aging Retinoid Pads and Solution,$75.00,4.1531,1208.0,340.5,0.48500200000000004,pads,0.8492616192322876
+35,Fine Lines & Wrinkles,philosophy,Help Me,$49.00,4.3736,1143.0,311.25,0.421371,wrinkles,0.2243271891526551
+36,Fine Lines & Wrinkles,philosophy,Help Me,$49.00,4.3736,1143.0,311.25,0.421371,philosophy,0.3810478640880953
+37,Fine Lines & Wrinkles,philosophy,Help Me,$49.00,4.3736,1143.0,311.25,0.421371,scars,0.13856293869588715
+38,Fine Lines & Wrinkles,philosophy,Help Me,$49.00,4.3736,1143.0,311.25,0.421371,retinol,0.7153785943261909
+39,Fine Lines & Wrinkles,philosophy,Help Me,$49.00,4.3736,1143.0,311.25,0.421371,aging,0.12778182090286486
+40,Fine Lines & Wrinkles,philosophy,Miraculous Anti-wrinkle Miracle Worker,$60.0,4.3136,1113.0,309.25,0.46223500000000006,absorbs,0.20705960432812584
+41,Fine Lines & Wrinkles,philosophy,Miraculous Anti-wrinkle Miracle Worker,$60.0,4.3136,1113.0,309.25,0.46223500000000006,wrinkles,0.15891506731365404
+42,Fine Lines & Wrinkles,philosophy,Miraculous Anti-wrinkle Miracle Worker,$60.0,4.3136,1113.0,309.25,0.46223500000000006,philosophy,0.5321618527448922
+43,Fine Lines & Wrinkles,philosophy,Miraculous Anti-wrinkle Miracle Worker,$60.0,4.3136,1113.0,309.25,0.46223500000000006,aging,0.2286478694400972
+44,Fine Lines & Wrinkles,philosophy,Miraculous Anti-wrinkle Miracle Worker,$60.0,4.3136,1113.0,309.25,0.46223500000000006,jar,0.6035532582277497
+45,Fine Lines & Wrinkles,Perricone MD,Face Finishing Moisturizer,$75.00,4.2627,1021.0,293.75,0.512468,moisturizers,0.29110862163175105
+46,Fine Lines & Wrinkles,Perricone MD,Face Finishing Moisturizer,$75.00,4.2627,1021.0,293.75,0.512468,roses,0.3223558566961354
+47,Fine Lines & Wrinkles,Perricone MD,Face Finishing Moisturizer,$75.00,4.2627,1021.0,293.75,0.512468,rose,0.4132547263439798
+48,Fine Lines & Wrinkles,Perricone MD,Face Finishing Moisturizer,$75.00,4.2627,1021.0,293.75,0.512468,absorbs,0.3309594638945387
+49,Fine Lines & Wrinkles,Perricone MD,Face Finishing Moisturizer,$75.00,4.2627,1021.0,293.75,0.512468,jar,0.28241505965773855
+50,Men's,Bite Beauty,Agave Lip Mask,$26.00,4.4234,2845.0,725.25,0.519861,balm,0.1257169412386178
+51,Men's,Bite Beauty,Agave Lip Mask,$26.00,4.4234,2845.0,725.25,0.519861,lip,0.4115077466363798
+52,Men's,Bite Beauty,Agave Lip Mask,$26.00,4.4234,2845.0,725.25,0.519861,chapped,0.15679834384210192
+53,Men's,Bite Beauty,Agave Lip Mask,$26.00,4.4234,2845.0,725.25,0.519861,lipstick,0.08318894824746693
+54,Men's,Bite Beauty,Agave Lip Mask,$26.00,4.4234,2845.0,725.25,0.519861,lips,0.8613191214564919
+55,Men's,Jack Black,Intense Therapy Lip Balm SPF 25,$7.50,4.6912,2647.0,666.25,0.48130600000000007,lip,0.4631158382523593
+56,Men's,Jack Black,Intense Therapy Lip Balm SPF 25,$7.50,4.6912,2647.0,666.25,0.48130600000000007,mint,0.17581898091599696
+57,Men's,Jack Black,Intense Therapy Lip Balm SPF 25,$7.50,4.6912,2647.0,666.25,0.48130600000000007,balm,0.4704814479604858
+58,Men's,Jack Black,Intense Therapy Lip Balm SPF 25,$7.50,4.6912,2647.0,666.25,0.48130600000000007,lips,0.6787775385294588
+59,Men's,Jack Black,Intense Therapy Lip Balm SPF 25,$7.50,4.6912,2647.0,666.25,0.48130600000000007,balms,0.16136695870055687
+60,Men's,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493133,wavy,0.42381145222509825
+61,Men's,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493133,waves,0.5470840686186736
+62,Men's,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493133,wave,0.2250600584740967
+63,Men's,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493133,beach,0.23915002015392187
+64,Men's,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493133,beachy,0.22637961460083048
+65,Men's,boscia,Detoxifying Black Cleanser,$10.0,4.2863,1920.0,486.0,0.519278,sensation,0.15241622454645495
+66,Men's,boscia,Detoxifying Black Cleanser,$10.0,4.2863,1920.0,486.0,0.519278,cleansers,0.1154341877372458
+67,Men's,boscia,Detoxifying Black Cleanser,$10.0,4.2863,1920.0,486.0,0.519278,boscia,0.16903511734918958
+68,Men's,boscia,Detoxifying Black Cleanser,$10.0,4.2863,1920.0,486.0,0.519278,warming,0.4318993084345559
+69,Men's,boscia,Detoxifying Black Cleanser,$10.0,4.2863,1920.0,486.0,0.519278,cleanser,0.8120165970151293
+70,Men's,Perfekt,Skin Perfection Gel,$19.5,4.0603,1742.0,446.0,0.54832,perfection,0.18656719058484386
+71,Men's,Perfekt,Skin Perfection Gel,$19.5,4.0603,1742.0,446.0,0.54832,tinted,0.295851060598653
+72,Men's,Perfekt,Skin Perfection Gel,$19.5,4.0603,1742.0,446.0,0.54832,radiant,0.30601136584991384
+73,Men's,Perfekt,Skin Perfection Gel,$19.5,4.0603,1742.0,446.0,0.54832,redness,0.21483494673406262
+74,Men's,Perfekt,Skin Perfection Gel,$19.5,4.0603,1742.0,446.0,0.54832,pump,0.40577919089215425
+75,Makeup Removers,Lancôme,BI-FACIL - Double-Action Eye Makeup Remover,$15.0,4.6813,2984.0,754.5,0.524374,removes,0.20108839424349842
+76,Makeup Removers,Lancôme,BI-FACIL - Double-Action Eye Makeup Remover,$15.0,4.6813,2984.0,754.5,0.524374,mascara,0.253020663904934
+77,Makeup Removers,Lancôme,BI-FACIL - Double-Action Eye Makeup Remover,$15.0,4.6813,2984.0,754.5,0.524374,removing,0.13713490912533044
+78,Makeup Removers,Lancôme,BI-FACIL - Double-Action Eye Makeup Remover,$15.0,4.6813,2984.0,754.5,0.524374,remover,0.8019064357931981
+79,Makeup Removers,Lancôme,BI-FACIL - Double-Action Eye Makeup Remover,$15.0,4.6813,2984.0,754.5,0.524374,waterproof,0.35716899618586173
+80,Makeup Removers,SEPHORA COLLECTION,Waterproof Eye Makeup Remover,$7.5,4.4093,2896.0,728.5,0.5258010000000001,removes,0.17571093029214133
+81,Makeup Removers,SEPHORA COLLECTION,Waterproof Eye Makeup Remover,$7.5,4.4093,2896.0,728.5,0.5258010000000001,mascara,0.3421836958163184
+82,Makeup Removers,SEPHORA COLLECTION,Waterproof Eye Makeup Remover,$7.5,4.4093,2896.0,728.5,0.5258010000000001,remover,0.6704191664396757
+83,Makeup Removers,SEPHORA COLLECTION,Waterproof Eye Makeup Remover,$7.5,4.4093,2896.0,728.5,0.5258010000000001,waterproof,0.5483718541993644
+84,Makeup Removers,SEPHORA COLLECTION,Waterproof Eye Makeup Remover,$7.5,4.4093,2896.0,728.5,0.5258010000000001,cotton,0.1447605025875257
+85,Makeup Removers,boscia,MakeUp-BreakUp Cool Cleansing Oil,$10.0,4.4689,2174.0,549.5,0.546446,cleansing,0.40102032464643145
+86,Makeup Removers,boscia,MakeUp-BreakUp Cool Cleansing Oil,$10.0,4.4689,2174.0,549.5,0.546446,removes,0.3167552925593896
+87,Makeup Removers,boscia,MakeUp-BreakUp Cool Cleansing Oil,$10.0,4.4689,2174.0,549.5,0.546446,waterproof,0.2917862845996466
+88,Makeup Removers,boscia,MakeUp-BreakUp Cool Cleansing Oil,$10.0,4.4689,2174.0,549.5,0.546446,remover,0.3589589452653772
+89,Makeup Removers,boscia,MakeUp-BreakUp Cool Cleansing Oil,$10.0,4.4689,2174.0,549.5,0.546446,cleanser,0.47234771366346723
+90,Makeup Removers,CLINIQUE,"Take The Day Off Makeup Remover For Lids, Lashes & Lips",$9.5,4.5712,2097.0,529.75,0.46496499999999996,removes,0.22540190610724223
+91,Makeup Removers,CLINIQUE,"Take The Day Off Makeup Remover For Lids, Lashes & Lips",$9.5,4.5712,2097.0,529.75,0.46496499999999996,mascara,0.35962422520141507
+92,Makeup Removers,CLINIQUE,"Take The Day Off Makeup Remover For Lids, Lashes & Lips",$9.5,4.5712,2097.0,529.75,0.46496499999999996,eyeliner,0.1836434739656536
+93,Makeup Removers,CLINIQUE,"Take The Day Off Makeup Remover For Lids, Lashes & Lips",$9.5,4.5712,2097.0,529.75,0.46496499999999996,remover,0.7315850664627754
+94,Makeup Removers,CLINIQUE,"Take The Day Off Makeup Remover For Lids, Lashes & Lips",$9.5,4.5712,2097.0,529.75,0.46496499999999996,waterproof,0.3578259542209014
+95,Makeup Removers,MAKE UP FOR EVER,Sens’Eyes - Waterproof Sensitive Eye Cleanser,$11.0,4.414,1993.0,504.75,0.549791,removes,0.20175091526652633
+96,Makeup Removers,MAKE UP FOR EVER,Sens’Eyes - Waterproof Sensitive Eye Cleanser,$11.0,4.414,1993.0,504.75,0.549791,mascara,0.3740356491629906
+97,Makeup Removers,MAKE UP FOR EVER,Sens’Eyes - Waterproof Sensitive Eye Cleanser,$11.0,4.414,1993.0,504.75,0.549791,eyeliner,0.1705381448630243
+98,Makeup Removers,MAKE UP FOR EVER,Sens’Eyes - Waterproof Sensitive Eye Cleanser,$11.0,4.414,1993.0,504.75,0.549791,remover,0.6367592935627432
+99,Makeup Removers,MAKE UP FOR EVER,Sens’Eyes - Waterproof Sensitive Eye Cleanser,$11.0,4.414,1993.0,504.75,0.549791,waterproof,0.5028466251171503
+100,Face Masks,GLAMGLOW,SUPERMUD® Clearing Treatment,$69.00,4.2119,3495.0,909.25,0.48429399999999995,clearing,0.15416645149833794
+101,Face Masks,GLAMGLOW,SUPERMUD® Clearing Treatment,$69.00,4.2119,3495.0,909.25,0.48429399999999995,masks,0.34929186382350697
+102,Face Masks,GLAMGLOW,SUPERMUD® Clearing Treatment,$69.00,4.2119,3495.0,909.25,0.48429399999999995,mud,0.2422556428410373
+103,Face Masks,GLAMGLOW,SUPERMUD® Clearing Treatment,$69.00,4.2119,3495.0,909.25,0.48429399999999995,blackheads,0.4585081587334471
+104,Face Masks,GLAMGLOW,SUPERMUD® Clearing Treatment,$69.00,4.2119,3495.0,909.25,0.48429399999999995,jar,0.17909116256909047
+105,Face Masks,boscia,Luminizing Black Mask,$34.00,3.9049,3450.0,880.25,0.42817200000000005,peeled,0.1857474254502986
+106,Face Masks,boscia,Luminizing Black Mask,$34.00,3.9049,3450.0,880.25,0.42817200000000005,pore,0.20622286991699268
+107,Face Masks,boscia,Luminizing Black Mask,$34.00,3.9049,3450.0,880.25,0.42817200000000005,peel,0.5517524358231256
+108,Face Masks,boscia,Luminizing Black Mask,$34.00,3.9049,3450.0,880.25,0.42817200000000005,heads,0.21783734600999974
+109,Face Masks,boscia,Luminizing Black Mask,$34.00,3.9049,3450.0,880.25,0.42817200000000005,blackheads,0.48465048641619307
+110,Face Masks,Origins,Clear Improvement® Active Charcoal Mask to Clear Pores,$4.0,4.3336,2825.0,709.25,0.522641,origins,0.19985424473371505
+111,Face Masks,Origins,Clear Improvement® Active Charcoal Mask to Clear Pores,$4.0,4.3336,2825.0,709.25,0.522641,cleared,0.1407327382014628
+112,Face Masks,Origins,Clear Improvement® Active Charcoal Mask to Clear Pores,$4.0,4.3336,2825.0,709.25,0.522641,charcoal,0.4735241847624321
+113,Face Masks,Origins,Clear Improvement® Active Charcoal Mask to Clear Pores,$4.0,4.3336,2825.0,709.25,0.522641,blackheads,0.5658090949059003
+114,Face Masks,Origins,Clear Improvement® Active Charcoal Mask to Clear Pores,$4.0,4.3336,2825.0,709.25,0.522641,masks,0.34526242652042066
+115,Face Masks,GLAMGLOW,YOUTHMUD™ Tinglexfoliate Treatment,$22.0,4.0597,1938.0,496.5,0.404093,masks,0.3285971166640029
+116,Face Masks,GLAMGLOW,YOUTHMUD™ Tinglexfoliate Treatment,$22.0,4.0597,1938.0,496.5,0.404093,mud,0.2858406112005046
+117,Face Masks,GLAMGLOW,YOUTHMUD™ Tinglexfoliate Treatment,$22.0,4.0597,1938.0,496.5,0.404093,tingling,0.30256874011562496
+118,Face Masks,GLAMGLOW,YOUTHMUD™ Tinglexfoliate Treatment,$22.0,4.0597,1938.0,496.5,0.404093,tingle,0.3723544707355968
+119,Face Masks,GLAMGLOW,YOUTHMUD™ Tinglexfoliate Treatment,$22.0,4.0597,1938.0,496.5,0.404093,sensation,0.25365314245384424
+120,Face Masks,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.55173,korres,0.2788354258156361
+121,Face Masks,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.55173,brighter,0.18853037796715302
+122,Face Masks,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.55173,rose,0.6693093061092842
+123,Face Masks,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.55173,roses,0.2508739675565781
+124,Face Masks,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.55173,sleeping,0.20561821369066813
+125,Lipstick,Kat Von D,Everlasting Liquid Lipstick,$20.00,4.305,10138.0,2545.5,0.509868,lip,0.20801766072757025
+126,Lipstick,Kat Von D,Everlasting Liquid Lipstick,$20.00,4.305,10138.0,2545.5,0.509868,colors,0.20158626687249115
+127,Lipstick,Kat Von D,Everlasting Liquid Lipstick,$20.00,4.305,10138.0,2545.5,0.509868,lipstick,0.5915108115627008
+128,Lipstick,Kat Von D,Everlasting Liquid Lipstick,$20.00,4.305,10138.0,2545.5,0.509868,lips,0.4759870007275335
+129,Lipstick,Kat Von D,Everlasting Liquid Lipstick,$20.00,4.305,10138.0,2545.5,0.509868,lipsticks,0.39001365835775886
+130,Lipstick,SEPHORA COLLECTION,Cream Lip Stain,$7.0,4.3426,6158.0,1544.0,0.522238,lip,0.4544051220127374
+131,Lipstick,SEPHORA COLLECTION,Cream Lip Stain,$7.0,4.3426,6158.0,1544.0,0.522238,lipstick,0.3914479348240964
+132,Lipstick,SEPHORA COLLECTION,Cream Lip Stain,$7.0,4.3426,6158.0,1544.0,0.522238,lips,0.4417357195043899
+133,Lipstick,SEPHORA COLLECTION,Cream Lip Stain,$7.0,4.3426,6158.0,1544.0,0.522238,stain,0.3433270454595474
+134,Lipstick,SEPHORA COLLECTION,Cream Lip Stain,$7.0,4.3426,6158.0,1544.0,0.522238,colors,0.28109070223014887
+135,Lipstick,NARS,Lipstick,$28.00,4.437,6015.0,1518.75,0.47659799999999997,lipsticks,0.2310193865168068
+136,Lipstick,NARS,Lipstick,$28.00,4.437,6015.0,1518.75,0.47659799999999997,nars,0.24488142911416366
+137,Lipstick,NARS,Lipstick,$28.00,4.437,6015.0,1518.75,0.47659799999999997,lipstick,0.7636205275630209
+138,Lipstick,NARS,Lipstick,$28.00,4.437,6015.0,1518.75,0.47659799999999997,lips,0.33976343926200603
+139,Lipstick,NARS,Lipstick,$28.00,4.437,6015.0,1518.75,0.47659799999999997,lip,0.21509691070878742
+140,Lipstick,NARS,Velvet Matte Lip Pencil,$27.00,4.4782,4282.0,1085.0,0.646173,pencil,0.5039028725862151
+141,Lipstick,NARS,Velvet Matte Lip Pencil,$27.00,4.4782,4282.0,1085.0,0.646173,lip,0.5385941400046336
+142,Lipstick,NARS,Velvet Matte Lip Pencil,$27.00,4.4782,4282.0,1085.0,0.646173,nars,0.16725098454933124
+143,Lipstick,NARS,Velvet Matte Lip Pencil,$27.00,4.4782,4282.0,1085.0,0.646173,lipstick,0.3125561312897357
+144,Lipstick,NARS,Velvet Matte Lip Pencil,$27.00,4.4782,4282.0,1085.0,0.646173,lips,0.43269908629647735
+145,Lipstick,Bite Beauty,Amuse Bouche Lipstick,$26.00,4.6529,4176.0,1058.0,0.48803599999999997,lipsticks,0.3501544246094286
+146,Lipstick,Bite Beauty,Amuse Bouche Lipstick,$26.00,4.6529,4176.0,1058.0,0.48803599999999997,lipstick,0.7033641189105587
+147,Lipstick,Bite Beauty,Amuse Bouche Lipstick,$26.00,4.6529,4176.0,1058.0,0.48803599999999997,lips,0.34379261847919446
+148,Lipstick,Bite Beauty,Amuse Bouche Lipstick,$26.00,4.6529,4176.0,1058.0,0.48803599999999997,bite,0.29579396699935284
+149,Lipstick,Bite Beauty,Amuse Bouche Lipstick,$26.00,4.6529,4176.0,1058.0,0.48803599999999997,lip,0.17293160369430405
+150,Lotions & Oils,philosophy,Amazing Grace Firming Body Emulsion,$37.0,4.621,1266.0,336.0,0.509534,lotions,0.13304820155752922
+151,Lotions & Oils,philosophy,Amazing Grace Firming Body Emulsion,$37.0,4.621,1266.0,336.0,0.509534,perfume,0.29707036358469946
+152,Lotions & Oils,philosophy,Amazing Grace Firming Body Emulsion,$37.0,4.621,1266.0,336.0,0.509534,philosophy,0.24126641743410554
+153,Lotions & Oils,philosophy,Amazing Grace Firming Body Emulsion,$37.0,4.621,1266.0,336.0,0.509534,firming,0.5266246696233834
+154,Lotions & Oils,philosophy,Amazing Grace Firming Body Emulsion,$37.0,4.621,1266.0,336.0,0.509534,grace,0.641506542549459
+155,Lotions & Oils,Viktor & Rolf,Flowerbomb Precious Oil,$75.00,4.7357,454.0,152.0,0.5876520000000001,flower,0.15602567339622528
+156,Lotions & Oils,Viktor & Rolf,Flowerbomb Precious Oil,$75.00,4.7357,454.0,152.0,0.5876520000000001,perfume,0.8697098226893258
+157,Lotions & Oils,Viktor & Rolf,Flowerbomb Precious Oil,$75.00,4.7357,454.0,152.0,0.5876520000000001,perfumes,0.1287215248331579
+158,Lotions & Oils,Viktor & Rolf,Flowerbomb Precious Oil,$75.00,4.7357,454.0,152.0,0.5876520000000001,floral,0.25935888258718315
+159,Lotions & Oils,Viktor & Rolf,Flowerbomb Precious Oil,$75.00,4.7357,454.0,152.0,0.5876520000000001,sweet,0.12925356337983226
+160,Lotions & Oils,philosophy,Pure Grace Perfumed Body Lotion,$37.0,4.5159,347.0,106.25,0.530251,perfume,0.1744672642298316
+161,Lotions & Oils,philosophy,Pure Grace Perfumed Body Lotion,$37.0,4.5159,347.0,106.25,0.530251,philosophy,0.2782161934717786
+162,Lotions & Oils,philosophy,Pure Grace Perfumed Body Lotion,$37.0,4.5159,347.0,106.25,0.530251,grace,0.7846943899099762
+163,Lotions & Oils,philosophy,Pure Grace Perfumed Body Lotion,$37.0,4.5159,347.0,106.25,0.530251,pure,0.3656565065071585
+164,Lotions & Oils,philosophy,Pure Grace Perfumed Body Lotion,$37.0,4.5159,347.0,106.25,0.530251,lotions,0.12966906413457596
+165,Lotions & Oils,philosophy,Unconditional Love Firming Body Emulsion,$37.00,4.6169,248.0,81.5,0.605034,sweet,0.24646322409941632
+166,Lotions & Oils,philosophy,Unconditional Love Firming Body Emulsion,$37.00,4.6169,248.0,81.5,0.605034,perfume,0.2063861707112226
+167,Lotions & Oils,philosophy,Unconditional Love Firming Body Emulsion,$37.00,4.6169,248.0,81.5,0.605034,philosophy,0.4539531561504087
+168,Lotions & Oils,philosophy,Unconditional Love Firming Body Emulsion,$37.00,4.6169,248.0,81.5,0.605034,firming,0.6515744251266853
+169,Lotions & Oils,philosophy,Unconditional Love Firming Body Emulsion,$37.00,4.6169,248.0,81.5,0.605034,grace,0.2424907968833521
+170,Lotions & Oils,HERMÈS,Eau des Merveilles  Eau des Merveilles Perfumed  Cream,$132.00,2.3333,3.0,67.25,0.28286500000000003,layering,0.35212693675167395
+171,Lotions & Oils,HERMÈS,Eau des Merveilles  Eau des Merveilles Perfumed  Cream,$132.00,2.3333,3.0,67.25,0.28286500000000003,expense,0.5294758364782007
+172,Lotions & Oils,HERMÈS,Eau des Merveilles  Eau des Merveilles Perfumed  Cream,$132.00,2.3333,3.0,67.25,0.28286500000000003,scents,0.3590819152630425
+173,Lotions & Oils,HERMÈS,Eau des Merveilles  Eau des Merveilles Perfumed  Cream,$132.00,2.3333,3.0,67.25,0.28286500000000003,faint,0.3504295952625432
+174,Lotions & Oils,HERMÈS,Eau des Merveilles  Eau des Merveilles Perfumed  Cream,$132.00,2.3333,3.0,67.25,0.28286500000000003,unscented,0.4849843114823181
+175,Hair Oil,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,josie,0.2800041928500464
+176,Hair Oil,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,drops,0.4691472885671971
+177,Hair Oil,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,cuticles,0.23307789054733238
+178,Hair Oil,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,argan,0.5541904852587284
+179,Hair Oil,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,maran,0.22049245902721815
+180,Hair Oil,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1335.0,345.75,0.523195,wavy,0.19213920613609778
+181,Hair Oil,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1335.0,345.75,0.523195,frizz,0.49737669423839104
+182,Hair Oil,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1335.0,345.75,0.523195,frizzy,0.3759095416801378
+183,Hair Oil,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1335.0,345.75,0.523195,curly,0.2808599991921255
+184,Hair Oil,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1335.0,345.75,0.523195,bumble,0.3965624091021766
+185,Hair Oil,Josie Maran,100 percent Pure Argan Oil Light,$16.0,4.3986,1280.0,329.0,0.49868900000000005,josie,0.27169784649585477
+186,Hair Oil,Josie Maran,100 percent Pure Argan Oil Light,$16.0,4.3986,1280.0,329.0,0.49868900000000005,drops,0.4345377248248667
+187,Hair Oil,Josie Maran,100 percent Pure Argan Oil Light,$16.0,4.3986,1280.0,329.0,0.49868900000000005,cuticles,0.17362055418328265
+188,Hair Oil,Josie Maran,100 percent Pure Argan Oil Light,$16.0,4.3986,1280.0,329.0,0.49868900000000005,argan,0.5807111552650438
+189,Hair Oil,Josie Maran,100 percent Pure Argan Oil Light,$16.0,4.3986,1280.0,329.0,0.49868900000000005,maran,0.20186090575918872
+190,Hair Oil,Caudalie,Divine Oil,$32.0,4.4566,867.0,233.75,0.49953800000000004,floral,0.17014265496310396
+191,Hair Oil,Caudalie,Divine Oil,$32.0,4.4566,867.0,233.75,0.49953800000000004,divine,0.592074271970304
+192,Hair Oil,Caudalie,Divine Oil,$32.0,4.4566,867.0,233.75,0.49953800000000004,caudalie,0.4175826680734888
+193,Hair Oil,Caudalie,Divine Oil,$32.0,4.4566,867.0,233.75,0.49953800000000004,legs,0.14751803788780005
+194,Hair Oil,Caudalie,Divine Oil,$32.0,4.4566,867.0,233.75,0.49953800000000004,absorbs,0.26953282649336
+195,Hair Oil,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,frizz,0.5926659088921936
+196,Hair Oil,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,frizzy,0.3462716429415043
+197,Hair Oil,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,mist,0.3483505891875959
+198,Hair Oil,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,curly,0.19571394420666638
+199,Hair Oil,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,weigh,0.19778444549471438
+200,Bath & Body,LAVANILA,The Healthy Deodorant,$8.0,3.7761,3893.0,978.0,0.408953,sweat,0.4136916359815433
+201,Bath & Body,LAVANILA,The Healthy Deodorant,$8.0,3.7761,3893.0,978.0,0.408953,odor,0.26731916469605194
+202,Bath & Body,LAVANILA,The Healthy Deodorant,$8.0,3.7761,3893.0,978.0,0.408953,vanilla,0.7236007536602821
+203,Bath & Body,LAVANILA,The Healthy Deodorant,$8.0,3.7761,3893.0,978.0,0.408953,lavender,0.20872320719378593
+204,Bath & Body,LAVANILA,The Healthy Deodorant,$8.0,3.7761,3893.0,978.0,0.408953,lemon,0.15781129342505495
+205,Bath & Body,L’Occitane,Hand Creams,$12.0,4.545,1551.0,394.75,0.540771,butter,0.5939183855002916
+206,Bath & Body,L’Occitane,Hand Creams,$12.0,4.545,1551.0,394.75,0.540771,purse,0.26720635989164493
+207,Bath & Body,L’Occitane,Hand Creams,$12.0,4.545,1551.0,394.75,0.540771,lavender,0.32733073804519425
+208,Bath & Body,L’Occitane,Hand Creams,$12.0,4.545,1551.0,394.75,0.540771,almond,0.34839288465242635
+209,Bath & Body,L’Occitane,Hand Creams,$12.0,4.545,1551.0,394.75,0.540771,absorbs,0.24492676979341563
+210,Bath & Body,philosophy,"Amazing Grace Shampoo, Bath & Shower Gel",$25.0,4.6498,1342.0,349.0,0.48984099999999997,feminine,0.192921013778536
+211,Bath & Body,philosophy,"Amazing Grace Shampoo, Bath & Shower Gel",$25.0,4.6498,1342.0,349.0,0.48984099999999997,bath,0.3587814788788159
+212,Bath & Body,philosophy,"Amazing Grace Shampoo, Bath & Shower Gel",$25.0,4.6498,1342.0,349.0,0.48984099999999997,philosophy,0.3110088325207304
+213,Bath & Body,philosophy,"Amazing Grace Shampoo, Bath & Shower Gel",$25.0,4.6498,1342.0,349.0,0.48984099999999997,shampoo,0.4427628999978452
+214,Bath & Body,philosophy,"Amazing Grace Shampoo, Bath & Shower Gel",$25.0,4.6498,1342.0,349.0,0.48984099999999997,grace,0.641326028054656
+215,Bath & Body,philosophy,Amazing Grace Firming Body Emulsion,$37.0,4.621,1266.0,336.0,0.509534,lotions,0.13304820155752922
+216,Bath & Body,philosophy,Amazing Grace Firming Body Emulsion,$37.0,4.621,1266.0,336.0,0.509534,perfume,0.29707036358469946
+217,Bath & Body,philosophy,Amazing Grace Firming Body Emulsion,$37.0,4.621,1266.0,336.0,0.509534,philosophy,0.24126641743410554
+218,Bath & Body,philosophy,Amazing Grace Firming Body Emulsion,$37.0,4.621,1266.0,336.0,0.509534,firming,0.5266246696233834
+219,Bath & Body,philosophy,Amazing Grace Firming Body Emulsion,$37.0,4.621,1266.0,336.0,0.509534,grace,0.641506542549459
+220,Bath & Body,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.44834300000000005,removal,0.22860690446775253
+221,Bath & Body,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.44834300000000005,legs,0.34975036645180585
+222,Bath & Body,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.44834300000000005,hairs,0.2690254277131157
+223,Bath & Body,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.44834300000000005,laser,0.535593516131453
+224,Bath & Body,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.44834300000000005,growth,0.2831652696802585
+225,Foundation,bareMinerals,bareMinerals Original Foundation Broad Spectrum SPF 15,$28.50,4.617,18912.0,4743.0,0.3287,bare,0.3235861830477102
+226,Foundation,bareMinerals,bareMinerals Original Foundation Broad Spectrum SPF 15,$28.50,4.617,18912.0,4743.0,0.3287,foundations,0.3272967778346602
+227,Foundation,bareMinerals,bareMinerals Original Foundation Broad Spectrum SPF 15,$28.50,4.617,18912.0,4743.0,0.3287,cakey,0.25927970053939675
+228,Foundation,bareMinerals,bareMinerals Original Foundation Broad Spectrum SPF 15,$28.50,4.617,18912.0,4743.0,0.3287,bareminerals,0.4600254782937945
+229,Foundation,bareMinerals,bareMinerals Original Foundation Broad Spectrum SPF 15,$28.50,4.617,18912.0,4743.0,0.3287,minerals,0.39038706222536623
+230,Foundation,Kat Von D,Lock-It Foundation,$35.00,3.9931,8880.0,2238.25,0.574333,cakey,0.5417875758844113
+231,Foundation,Kat Von D,Lock-It Foundation,$35.00,3.9931,8880.0,2238.25,0.574333,foundations,0.32342228689470104
+232,Foundation,Kat Von D,Lock-It Foundation,$35.00,3.9931,8880.0,2238.25,0.574333,shade,0.3243490912257466
+233,Foundation,Kat Von D,Lock-It Foundation,$35.00,3.9931,8880.0,2238.25,0.574333,setting,0.20281671636041593
+234,Foundation,Kat Von D,Lock-It Foundation,$35.00,3.9931,8880.0,2238.25,0.574333,kvd,0.19812784091131208
+235,Foundation,bareMinerals,bareMinerals Matte Foundation Broad Spectrum SPF 15,$28.50,4.3849,7540.0,1900.0,0.34986300000000004,bare,0.3546666886598785
+236,Foundation,bareMinerals,bareMinerals Matte Foundation Broad Spectrum SPF 15,$28.50,4.3849,7540.0,1900.0,0.34986300000000004,foundations,0.2864457562828212
+237,Foundation,bareMinerals,bareMinerals Matte Foundation Broad Spectrum SPF 15,$28.50,4.3849,7540.0,1900.0,0.34986300000000004,shade,0.2301743378227628
+238,Foundation,bareMinerals,bareMinerals Matte Foundation Broad Spectrum SPF 15,$28.50,4.3849,7540.0,1900.0,0.34986300000000004,minerals,0.42566050518289256
+239,Foundation,bareMinerals,bareMinerals Matte Foundation Broad Spectrum SPF 15,$28.50,4.3849,7540.0,1900.0,0.34986300000000004,bareminerals,0.47142486642872483
+240,Foundation,MAKE UP FOR EVER,Mat Velvet + Mattifying Foundation,$39.00,4.2189,6084.0,1541.5,0.49292600000000003,cakey,0.32306430854778695
+241,Foundation,MAKE UP FOR EVER,Mat Velvet + Mattifying Foundation,$39.00,4.2189,6084.0,1541.5,0.49292600000000003,foundations,0.4371964960709405
+242,Foundation,MAKE UP FOR EVER,Mat Velvet + Mattifying Foundation,$39.00,4.2189,6084.0,1541.5,0.49292600000000003,shade,0.29599105419801414
+243,Foundation,MAKE UP FOR EVER,Mat Velvet + Mattifying Foundation,$39.00,4.2189,6084.0,1541.5,0.49292600000000003,mat,0.18830838051061327
+244,Foundation,MAKE UP FOR EVER,Mat Velvet + Mattifying Foundation,$39.00,4.2189,6084.0,1541.5,0.49292600000000003,mufe,0.19423873461228014
+245,Foundation,Urban Decay,Naked Skin Weightless Ultra Definition Liquid Makeup,$40.00,4.232,5541.0,1406.25,0.49982299999999996,cakey,0.37003002527610646
+246,Foundation,Urban Decay,Naked Skin Weightless Ultra Definition Liquid Makeup,$40.00,4.232,5541.0,1406.25,0.49982299999999996,match,0.2175810954091612
+247,Foundation,Urban Decay,Naked Skin Weightless Ultra Definition Liquid Makeup,$40.00,4.232,5541.0,1406.25,0.49982299999999996,shade,0.4326067881330504
+248,Foundation,Urban Decay,Naked Skin Weightless Ultra Definition Liquid Makeup,$40.00,4.232,5541.0,1406.25,0.49982299999999996,foundations,0.34485141918297596
+249,Foundation,Urban Decay,Naked Skin Weightless Ultra Definition Liquid Makeup,$40.00,4.232,5541.0,1406.25,0.49982299999999996,buildable,0.25867727588737083
+250,Face Serums,Ole Henriksen,Truth Serum®,$48.0,4.3042,3209.0,827.25,0.587964,ole,0.3421881125497722
+251,Face Serums,Ole Henriksen,Truth Serum®,$48.0,4.3042,3209.0,827.25,0.587964,scars,0.24596066898310232
+252,Face Serums,Ole Henriksen,Truth Serum®,$48.0,4.3042,3209.0,827.25,0.587964,henriksen,0.2400641559310636
+253,Face Serums,Ole Henriksen,Truth Serum®,$48.0,4.3042,3209.0,827.25,0.587964,vitamin,0.35921089299843245
+254,Face Serums,Ole Henriksen,Truth Serum®,$48.0,4.3042,3209.0,827.25,0.587964,brighter,0.26751160480063835
+255,Face Serums,Dr. Brandt Skincare,pores no more® pore refiner primer,$22.0,4.3011,2505.0,638.25,0.508446,zone,0.20621888537250116
+256,Face Serums,Dr. Brandt Skincare,pores no more® pore refiner primer,$22.0,4.3011,2505.0,638.25,0.508446,primers,0.44410965911349537
+257,Face Serums,Dr. Brandt Skincare,pores no more® pore refiner primer,$22.0,4.3011,2505.0,638.25,0.508446,pore,0.49792654519517315
+258,Face Serums,Dr. Brandt Skincare,pores no more® pore refiner primer,$22.0,4.3011,2505.0,638.25,0.508446,dr,0.24989133525995486
+259,Face Serums,Dr. Brandt Skincare,pores no more® pore refiner primer,$22.0,4.3011,2505.0,638.25,0.508446,minimizing,0.21043372017944742
+260,Face Serums,CLINIQUE,Even Better Clinical Dark Spot Corrector,$49.50,3.6668,2140.0,560.25,0.511266,marks,0.22713989081425404
+261,Face Serums,CLINIQUE,Even Better Clinical Dark Spot Corrector,$49.50,3.6668,2140.0,560.25,0.511266,scarring,0.15083469127172602
+262,Face Serums,CLINIQUE,Even Better Clinical Dark Spot Corrector,$49.50,3.6668,2140.0,560.25,0.511266,scars,0.7293948476077903
+263,Face Serums,CLINIQUE,Even Better Clinical Dark Spot Corrector,$49.50,3.6668,2140.0,560.25,0.511266,clinique,0.215951243509286
+264,Face Serums,CLINIQUE,Even Better Clinical Dark Spot Corrector,$49.50,3.6668,2140.0,560.25,0.511266,corrector,0.24924402912722785
+265,Face Serums,Kate Somerville,EradiKate™ Acne Treatment,$26.00,4.2958,2129.0,546.25,0.486882,pimples,0.5189465668901314
+266,Face Serums,Kate Somerville,EradiKate™ Acne Treatment,$26.00,4.2958,2129.0,546.25,0.486882,overnight,0.21242445361716294
+267,Face Serums,Kate Somerville,EradiKate™ Acne Treatment,$26.00,4.2958,2129.0,546.25,0.486882,blemishes,0.21881396192436817
+268,Face Serums,Kate Somerville,EradiKate™ Acne Treatment,$26.00,4.2958,2129.0,546.25,0.486882,pimple,0.4641053423385287
+269,Face Serums,Kate Somerville,EradiKate™ Acne Treatment,$26.00,4.2958,2129.0,546.25,0.486882,cystic,0.2548334153793726
+270,Face Serums,GLAMGLOW,YOUTHMUD™ Tinglexfoliate Treatment,$22.0,4.0597,1938.0,496.5,0.404093,masks,0.3285971166640029
+271,Face Serums,GLAMGLOW,YOUTHMUD™ Tinglexfoliate Treatment,$22.0,4.0597,1938.0,496.5,0.404093,mud,0.2858406112005046
+272,Face Serums,GLAMGLOW,YOUTHMUD™ Tinglexfoliate Treatment,$22.0,4.0597,1938.0,496.5,0.404093,tingling,0.30256874011562496
+273,Face Serums,GLAMGLOW,YOUTHMUD™ Tinglexfoliate Treatment,$22.0,4.0597,1938.0,496.5,0.404093,tingle,0.3723544707355968
+274,Face Serums,GLAMGLOW,YOUTHMUD™ Tinglexfoliate Treatment,$22.0,4.0597,1938.0,496.5,0.404093,sensation,0.25365314245384424
+275,Mascara,Benefit Cosmetics,They’re Real! Lengthening & Volumizing Mascara,$12.0,4.1571,13048.0,3269.0,0.46210200000000007,eyelashes,0.1404044871267768
+276,Mascara,Benefit Cosmetics,They’re Real! Lengthening & Volumizing Mascara,$12.0,4.1571,13048.0,3269.0,0.46210200000000007,mascara,0.6751942936520986
+277,Mascara,Benefit Cosmetics,They’re Real! Lengthening & Volumizing Mascara,$12.0,4.1571,13048.0,3269.0,0.46210200000000007,volume,0.0962288854216763
+278,Mascara,Benefit Cosmetics,They’re Real! Lengthening & Volumizing Mascara,$12.0,4.1571,13048.0,3269.0,0.46210200000000007,lashes,0.669366072353627
+279,Mascara,Benefit Cosmetics,They’re Real! Lengthening & Volumizing Mascara,$12.0,4.1571,13048.0,3269.0,0.46210200000000007,lash,0.10308455441526874
+280,Mascara,Too Faced,Better Than Sex Mascara,$12.0,3.7654,8809.0,2209.0,0.539883,eyelashes,0.13632110194456223
+281,Mascara,Too Faced,Better Than Sex Mascara,$12.0,3.7654,8809.0,2209.0,0.539883,clumpy,0.11558787615451535
+282,Mascara,Too Faced,Better Than Sex Mascara,$12.0,3.7654,8809.0,2209.0,0.539883,volume,0.09862082971550924
+283,Mascara,Too Faced,Better Than Sex Mascara,$12.0,3.7654,8809.0,2209.0,0.539883,lashes,0.6361131577322847
+284,Mascara,Too Faced,Better Than Sex Mascara,$12.0,3.7654,8809.0,2209.0,0.539883,mascara,0.7074606230986218
+285,Mascara,Buxom,Lash Mascara,$20.00,4.3602,8141.0,2046.25,0.4179,eyelashes,0.13473765311398406
+286,Mascara,Buxom,Lash Mascara,$20.00,4.3602,8141.0,2046.25,0.4179,mascara,0.7091671047630348
+287,Mascara,Buxom,Lash Mascara,$20.00,4.3602,8141.0,2046.25,0.4179,volume,0.14537166597297502
+288,Mascara,Buxom,Lash Mascara,$20.00,4.3602,8141.0,2046.25,0.4179,lashes,0.6259823171284042
+289,Mascara,Buxom,Lash Mascara,$20.00,4.3602,8141.0,2046.25,0.4179,clump,0.09878174849119783
+290,Mascara,Benefit Cosmetics,BADgal Lash Mascara,$10.0,4.0343,6152.0,1544.0,0.545502,eyelashes,0.17198607302777547
+291,Mascara,Benefit Cosmetics,BADgal Lash Mascara,$10.0,4.0343,6152.0,1544.0,0.545502,mascara,0.6914074502465899
+292,Mascara,Benefit Cosmetics,BADgal Lash Mascara,$10.0,4.0343,6152.0,1544.0,0.545502,volume,0.12949298585033547
+293,Mascara,Benefit Cosmetics,BADgal Lash Mascara,$10.0,4.0343,6152.0,1544.0,0.545502,lashes,0.6418428297819548
+294,Mascara,Benefit Cosmetics,BADgal Lash Mascara,$10.0,4.0343,6152.0,1544.0,0.545502,lash,0.10079711607343078
+295,Mascara,tarte,"Lights, Camera, Lashes™ 4-in-1 Mascara",$21.00,4.2331,4980.0,1256.5,0.426468,eyelashes,0.1394153599565638
+296,Mascara,tarte,"Lights, Camera, Lashes™ 4-in-1 Mascara",$21.00,4.2331,4980.0,1256.5,0.426468,mascara,0.7114755740874176
+297,Mascara,tarte,"Lights, Camera, Lashes™ 4-in-1 Mascara",$21.00,4.2331,4980.0,1256.5,0.426468,volume,0.130174430571258
+298,Mascara,tarte,"Lights, Camera, Lashes™ 4-in-1 Mascara",$21.00,4.2331,4980.0,1256.5,0.426468,lashes,0.622755752230381
+299,Mascara,tarte,"Lights, Camera, Lashes™ 4-in-1 Mascara",$21.00,4.2331,4980.0,1256.5,0.426468,clumpy,0.1379400547270466
+300,Lip Balms & Treatments,Fresh,Sugar Lip Treatment Sunscreen SPF 15,$24.00,4.4949,7997.0,2012.25,0.552374,lip,0.5170851255366966
+301,Lip Balms & Treatments,Fresh,Sugar Lip Treatment Sunscreen SPF 15,$24.00,4.4949,7997.0,2012.25,0.552374,balm,0.2464898134283893
+302,Lip Balms & Treatments,Fresh,Sugar Lip Treatment Sunscreen SPF 15,$24.00,4.4949,7997.0,2012.25,0.552374,rose,0.1411930552098916
+303,Lip Balms & Treatments,Fresh,Sugar Lip Treatment Sunscreen SPF 15,$24.00,4.4949,7997.0,2012.25,0.552374,lips,0.7092866674868508
+304,Lip Balms & Treatments,Fresh,Sugar Lip Treatment Sunscreen SPF 15,$24.00,4.4949,7997.0,2012.25,0.552374,sugar,0.15009526066907947
+305,Lip Balms & Treatments,Rosebud Perfume Co.,Rosebud Salve,$6.00,4.6915,4514.0,1132.5,0.5571010000000001,lip,0.3158851952243878
+306,Lip Balms & Treatments,Rosebud Perfume Co.,Rosebud Salve,$6.00,4.6915,4514.0,1132.5,0.5571010000000001,chapped,0.18450937757112013
+307,Lip Balms & Treatments,Rosebud Perfume Co.,Rosebud Salve,$6.00,4.6915,4514.0,1132.5,0.5571010000000001,balm,0.3377907352414321
+308,Lip Balms & Treatments,Rosebud Perfume Co.,Rosebud Salve,$6.00,4.6915,4514.0,1132.5,0.5571010000000001,cuticles,0.14322666230673806
+309,Lip Balms & Treatments,Rosebud Perfume Co.,Rosebud Salve,$6.00,4.6915,4514.0,1132.5,0.5571010000000001,lips,0.8211328557502088
+310,Lip Balms & Treatments,KORRES,Lip Butter,$12.00,4.4502,4107.0,1033.75,0.508851,lip,0.5031539187146347
+311,Lip Balms & Treatments,KORRES,Lip Butter,$12.00,4.4502,4107.0,1033.75,0.508851,korres,0.1484852307458512
+312,Lip Balms & Treatments,KORRES,Lip Butter,$12.00,4.4502,4107.0,1033.75,0.508851,balm,0.25545915362767935
+313,Lip Balms & Treatments,KORRES,Lip Butter,$12.00,4.4502,4107.0,1033.75,0.508851,lips,0.7110511799319837
+314,Lip Balms & Treatments,KORRES,Lip Butter,$12.00,4.4502,4107.0,1033.75,0.508851,butter,0.2332268880461288
+315,Lip Balms & Treatments,Dior,Dior Addict Lip Glow,$33.00,4.3781,3740.0,952.5,0.48323599999999994,balm,0.35410656649244976
+316,Lip Balms & Treatments,Dior,Dior Addict Lip Glow,$33.00,4.3781,3740.0,952.5,0.48323599999999994,lip,0.5331226189403725
+317,Lip Balms & Treatments,Dior,Dior Addict Lip Glow,$33.00,4.3781,3740.0,952.5,0.48323599999999994,coral,0.20590965276785522
+318,Lip Balms & Treatments,Dior,Dior Addict Lip Glow,$33.00,4.3781,3740.0,952.5,0.48323599999999994,lipstick,0.1546654021726525
+319,Lip Balms & Treatments,Dior,Dior Addict Lip Glow,$33.00,4.3781,3740.0,952.5,0.48323599999999994,lips,0.6534086565306059
+320,Lip Balms & Treatments,Bite Beauty,Agave Lip Mask,$26.00,4.4234,2845.0,725.25,0.519861,balm,0.1257169412386178
+321,Lip Balms & Treatments,Bite Beauty,Agave Lip Mask,$26.00,4.4234,2845.0,725.25,0.519861,lip,0.4115077466363798
+322,Lip Balms & Treatments,Bite Beauty,Agave Lip Mask,$26.00,4.4234,2845.0,725.25,0.519861,chapped,0.15679834384210192
+323,Lip Balms & Treatments,Bite Beauty,Agave Lip Mask,$26.00,4.4234,2845.0,725.25,0.519861,lipstick,0.08318894824746693
+324,Lip Balms & Treatments,Bite Beauty,Agave Lip Mask,$26.00,4.4234,2845.0,725.25,0.519861,lips,0.8613191214564919
+325,Scalp & Hair Treatments,Phyto,Phytophanère Hair And Nails Dietary Supplement,$30.0,4.1862,1193.0,314.25,0.525683,growing,0.20513193969754934
+326,Scalp & Hair Treatments,Phyto,Phytophanère Hair And Nails Dietary Supplement,$30.0,4.1862,1193.0,314.25,0.525683,vitamins,0.2953968770776395
+327,Scalp & Hair Treatments,Phyto,Phytophanère Hair And Nails Dietary Supplement,$30.0,4.1862,1193.0,314.25,0.525683,nails,0.820089901936304
+328,Scalp & Hair Treatments,Phyto,Phytophanère Hair And Nails Dietary Supplement,$30.0,4.1862,1193.0,314.25,0.525683,growth,0.17210669166834414
+329,Scalp & Hair Treatments,Phyto,Phytophanère Hair And Nails Dietary Supplement,$30.0,4.1862,1193.0,314.25,0.525683,grow,0.20398498416955352
+330,Scalp & Hair Treatments,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1019.0,268.25,0.513844,frizz,0.40312925274514577
+331,Scalp & Hair Treatments,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1019.0,268.25,0.513844,conditioner,0.24660214008884163
+332,Scalp & Hair Treatments,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1019.0,268.25,0.513844,blow,0.23278860697266113
+333,Scalp & Hair Treatments,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1019.0,268.25,0.513844,frizzy,0.36709057157240865
+334,Scalp & Hair Treatments,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1019.0,268.25,0.513844,curly,0.3122290949757446
+335,Scalp & Hair Treatments,Madam C.J. Walker Beauty Culture,Dream Come True Wonderful Pre-Wash Protein Treatment,$32.00,4.5899,952.0,255.0,0.47093100000000004,pre,0.4052008582800692
+336,Scalp & Hair Treatments,Madam C.J. Walker Beauty Culture,Dream Come True Wonderful Pre-Wash Protein Treatment,$32.00,4.5899,952.0,255.0,0.47093100000000004,masque,0.24868067566246696
+337,Scalp & Hair Treatments,Madam C.J. Walker Beauty Culture,Dream Come True Wonderful Pre-Wash Protein Treatment,$32.00,4.5899,952.0,255.0,0.47093100000000004,conditioner,0.24777104679331757
+338,Scalp & Hair Treatments,Madam C.J. Walker Beauty Culture,Dream Come True Wonderful Pre-Wash Protein Treatment,$32.00,4.5899,952.0,255.0,0.47093100000000004,shampoo,0.35414039119108204
+339,Scalp & Hair Treatments,Madam C.J. Walker Beauty Culture,Dream Come True Wonderful Pre-Wash Protein Treatment,$32.00,4.5899,952.0,255.0,0.47093100000000004,testing,0.31461474871644984
+340,Scalp & Hair Treatments,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,frizz,0.5926659088921936
+341,Scalp & Hair Treatments,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,frizzy,0.3462716429415043
+342,Scalp & Hair Treatments,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,mist,0.3483505891875959
+343,Scalp & Hair Treatments,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,curly,0.19571394420666638
+344,Scalp & Hair Treatments,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,weigh,0.19778444549471438
+345,Scalp & Hair Treatments,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.972,721.0,185.5,0.503689,frizzy,0.24303666236230456
+346,Scalp & Hair Treatments,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.972,721.0,185.5,0.503689,conditioner,0.6221983496793818
+347,Scalp & Hair Treatments,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.972,721.0,185.5,0.503689,damaged,0.19626821572367797
+348,Scalp & Hair Treatments,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.972,721.0,185.5,0.503689,curly,0.20789076114256727
+349,Scalp & Hair Treatments,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.972,721.0,185.5,0.503689,conditioning,0.3214788300409444
+350,Perfume Gift Sets,Viktor & Rolf,Flowerbomb Travel Duo,$35.00,4.4973,928.0,250.5,0.263621,duo,0.14721232797886621
+351,Perfume Gift Sets,Viktor & Rolf,Flowerbomb Travel Duo,$35.00,4.4973,928.0,250.5,0.263621,perfume,0.7767912276306684
+352,Perfume Gift Sets,Viktor & Rolf,Flowerbomb Travel Duo,$35.00,4.4973,928.0,250.5,0.263621,floral,0.20453562927880245
+353,Perfume Gift Sets,Viktor & Rolf,Flowerbomb Travel Duo,$35.00,4.4973,928.0,250.5,0.263621,refill,0.3467878419279368
+354,Perfume Gift Sets,Viktor & Rolf,Flowerbomb Travel Duo,$35.00,4.4973,928.0,250.5,0.263621,roller,0.16857742315941374
+355,Perfume Gift Sets,Atelier Cologne,Collection Azur Deluxe Gift Set,$295.00,1.0,1.0,148.0,0.562389,prominent,0.0
+356,Perfume Gift Sets,Atelier Cologne,Collection Azur Deluxe Gift Set,$295.00,1.0,1.0,148.0,0.562389,promise,0.0
+357,Perfume Gift Sets,Atelier Cologne,Collection Azur Deluxe Gift Set,$295.00,1.0,1.0,148.0,0.562389,promised,0.0
+358,Perfume Gift Sets,Atelier Cologne,Collection Azur Deluxe Gift Set,$295.00,1.0,1.0,148.0,0.562389,promises,0.0
+359,Perfume Gift Sets,Atelier Cologne,Collection Azur Deluxe Gift Set,$295.00,1.0,1.0,148.0,0.562389,prolong,0.0
+360,Perfume Gift Sets,TOM FORD,Black Orchid Gift Set,$150.00,4.875,8.0,78.0,0.6013539999999999,shirt,0.23630163489777384
+361,Perfume Gift Sets,TOM FORD,Black Orchid Gift Set,$150.00,4.875,8.0,78.0,0.6013539999999999,perfume,0.2993618706369941
+362,Perfume Gift Sets,TOM FORD,Black Orchid Gift Set,$150.00,4.875,8.0,78.0,0.6013539999999999,men,0.29275974865293
+363,Perfume Gift Sets,TOM FORD,Black Orchid Gift Set,$150.00,4.875,8.0,78.0,0.6013539999999999,sexy,0.34842749540006307
+364,Perfume Gift Sets,TOM FORD,Black Orchid Gift Set,$150.00,4.875,8.0,78.0,0.6013539999999999,roller,0.3703108511139302
+365,Perfume Gift Sets,Acqua Di Parma,Colonia Gift Set,$144.00,4.0,2.0,73.5,0.464081,promised,0.0
+366,Perfume Gift Sets,Acqua Di Parma,Colonia Gift Set,$144.00,4.0,2.0,73.5,0.464081,classic,0.4819131714392385
+367,Perfume Gift Sets,Acqua Di Parma,Colonia Gift Set,$144.00,4.0,2.0,73.5,0.464081,elegant,0.6097146742822381
+368,Perfume Gift Sets,Acqua Di Parma,Colonia Gift Set,$144.00,4.0,2.0,73.5,0.464081,promises,0.0
+369,Perfume Gift Sets,Acqua Di Parma,Colonia Gift Set,$144.00,4.0,2.0,73.5,0.464081,eh,0.6292914357897135
+370,Perfume Gift Sets,Chloé,Chloé Signature Gift Set,$138.00,5.0,2.0,70.75,0.34579099999999996,receive,0.2461601261705972
+371,Perfume Gift Sets,Chloé,Chloé Signature Gift Set,$138.00,5.0,2.0,70.75,0.34579099999999996,delightful,0.3793151683093116
+372,Perfume Gift Sets,Chloé,Chloé Signature Gift Set,$138.00,5.0,2.0,70.75,0.34579099999999996,purse,0.25289184823925376
+373,Perfume Gift Sets,Chloé,Chloé Signature Gift Set,$138.00,5.0,2.0,70.75,0.34579099999999996,perfume,0.7621393205796804
+374,Perfume Gift Sets,Chloé,Chloé Signature Gift Set,$138.00,5.0,2.0,70.75,0.34579099999999996,delighted,0.3882197373841672
+375,Makeup Palettes,Urban Decay,Naked Palette,$54.00,4.7768,7957.0,2017.25,0.44232299999999997,palette,0.8451775843927508
+376,Makeup Palettes,Urban Decay,Naked Palette,$54.00,4.7768,7957.0,2017.25,0.44232299999999997,naked,0.27766821753282045
+377,Makeup Palettes,Urban Decay,Naked Palette,$54.00,4.7768,7957.0,2017.25,0.44232299999999997,shades,0.14864758230279554
+378,Makeup Palettes,Urban Decay,Naked Palette,$54.00,4.7768,7957.0,2017.25,0.44232299999999997,shadows,0.15281919657918053
+379,Makeup Palettes,Urban Decay,Naked Palette,$54.00,4.7768,7957.0,2017.25,0.44232299999999997,colors,0.3047767933327786
+380,Makeup Palettes,Urban Decay,Naked2 Palette,$54.00,4.6603,6545.0,1664.25,0.398327,palette,0.8282707114670803
+381,Makeup Palettes,Urban Decay,Naked2 Palette,$54.00,4.6603,6545.0,1664.25,0.398327,pigmented,0.16882658125198238
+382,Makeup Palettes,Urban Decay,Naked2 Palette,$54.00,4.6603,6545.0,1664.25,0.398327,naked,0.2428159725483744
+383,Makeup Palettes,Urban Decay,Naked2 Palette,$54.00,4.6603,6545.0,1664.25,0.398327,shades,0.1929014797224765
+384,Makeup Palettes,Urban Decay,Naked2 Palette,$54.00,4.6603,6545.0,1664.25,0.398327,colors,0.29570782896610964
+385,Makeup Palettes,Urban Decay,Naked3 Palette,$54.00,4.4349,5476.0,1397.0,0.42284399999999994,palette,0.8190720583278384
+386,Makeup Palettes,Urban Decay,Naked3 Palette,$54.00,4.4349,5476.0,1397.0,0.42284399999999994,naked,0.21028902622202023
+387,Makeup Palettes,Urban Decay,Naked3 Palette,$54.00,4.4349,5476.0,1397.0,0.42284399999999994,shades,0.1970306587207585
+388,Makeup Palettes,Urban Decay,Naked3 Palette,$54.00,4.4349,5476.0,1397.0,0.42284399999999994,shadows,0.15912175883125637
+389,Makeup Palettes,Urban Decay,Naked3 Palette,$54.00,4.4349,5476.0,1397.0,0.42284399999999994,colors,0.32450355753846216
+390,Makeup Palettes,Too Faced,Natural Eye Neutral Eye Shadow Collection,$36.00,4.6597,4107.0,1045.75,0.412023,palette,0.8748126817845819
+391,Makeup Palettes,Too Faced,Natural Eye Neutral Eye Shadow Collection,$36.00,4.6597,4107.0,1045.75,0.412023,pigmented,0.1413563724427356
+392,Makeup Palettes,Too Faced,Natural Eye Neutral Eye Shadow Collection,$36.00,4.6597,4107.0,1045.75,0.412023,shades,0.15680786368332927
+393,Makeup Palettes,Too Faced,Natural Eye Neutral Eye Shadow Collection,$36.00,4.6597,4107.0,1045.75,0.412023,shadows,0.17054252751655463
+394,Makeup Palettes,Too Faced,Natural Eye Neutral Eye Shadow Collection,$36.00,4.6597,4107.0,1045.75,0.412023,colors,0.28810463757050225
+395,Makeup Palettes,Anastasia Beverly Hills,Modern Renaissance Eye Shadow Palette,$42.00,4.8266,4049.0,1034.25,0.264853,palette,0.8791469881270799
+396,Makeup Palettes,Anastasia Beverly Hills,Modern Renaissance Eye Shadow Palette,$42.00,4.8266,4049.0,1034.25,0.264853,pigmented,0.2296729503626065
+397,Makeup Palettes,Anastasia Beverly Hills,Modern Renaissance Eye Shadow Palette,$42.00,4.8266,4049.0,1034.25,0.264853,fallout,0.10901531050177815
+398,Makeup Palettes,Anastasia Beverly Hills,Modern Renaissance Eye Shadow Palette,$42.00,4.8266,4049.0,1034.25,0.264853,shadows,0.20050319961458607
+399,Makeup Palettes,Anastasia Beverly Hills,Modern Renaissance Eye Shadow Palette,$42.00,4.8266,4049.0,1034.25,0.264853,colors,0.2660992721212094
+400,Value & Gift Sets,Ole Henriksen,3 Little Wonders™,$72.00,4.4105,1845.0,498.25,0.509984,ole,0.30152014832533064
+401,Value & Gift Sets,Ole Henriksen,3 Little Wonders™,$72.00,4.4105,1845.0,498.25,0.509984,truth,0.4315415273305991
+402,Value & Gift Sets,Ole Henriksen,3 Little Wonders™,$72.00,4.4105,1845.0,498.25,0.509984,vitamin,0.23774155796165272
+403,Value & Gift Sets,Ole Henriksen,3 Little Wonders™,$72.00,4.4105,1845.0,498.25,0.509984,transformation,0.40898023852401105
+404,Value & Gift Sets,Ole Henriksen,3 Little Wonders™,$72.00,4.4105,1845.0,498.25,0.509984,sheer,0.2570238139445324
+405,Value & Gift Sets,Ole Henriksen,Power Bright™ 3-Step Professional Brightening System,$55.00,4.508,1370.0,371.0,0.5266270000000001,ole,0.3915978461808334
+406,Value & Gift Sets,Ole Henriksen,Power Bright™ 3-Step Professional Brightening System,$55.00,4.508,1370.0,371.0,0.5266270000000001,henriksen,0.28061488118225597
+407,Value & Gift Sets,Ole Henriksen,Power Bright™ 3-Step Professional Brightening System,$55.00,4.508,1370.0,371.0,0.5266270000000001,steps,0.38680539232124594
+408,Value & Gift Sets,Ole Henriksen,Power Bright™ 3-Step Professional Brightening System,$55.00,4.508,1370.0,371.0,0.5266270000000001,vitamin,0.2901040442409345
+409,Value & Gift Sets,Ole Henriksen,Power Bright™ 3-Step Professional Brightening System,$55.00,4.508,1370.0,371.0,0.5266270000000001,brighter,0.23452398663452093
+410,Value & Gift Sets,CLINIQUE,Acne Solutions Clear Skin System Starter Kit,$27.00,3.957,1303.0,340.0,0.441805,clearing,0.22548792093389078
+411,Value & Gift Sets,CLINIQUE,Acne Solutions Clear Skin System Starter Kit,$27.00,3.957,1303.0,340.0,0.441805,toner,0.26045159863600537
+412,Value & Gift Sets,CLINIQUE,Acne Solutions Clear Skin System Starter Kit,$27.00,3.957,1303.0,340.0,0.441805,cleared,0.32217103172036504
+413,Value & Gift Sets,CLINIQUE,Acne Solutions Clear Skin System Starter Kit,$27.00,3.957,1303.0,340.0,0.441805,clinique,0.521818541264523
+414,Value & Gift Sets,CLINIQUE,Acne Solutions Clear Skin System Starter Kit,$27.00,3.957,1303.0,340.0,0.441805,solutions,0.2604245043203208
+415,Value & Gift Sets,iluminage,Skin Smoothing Laser™,$595.00,4.9,10.0,301.0,0.530452,redness,0.20137976177146777
+416,Value & Gift Sets,iluminage,Skin Smoothing Laser™,$595.00,4.9,10.0,301.0,0.530452,pain,0.28970572621829077
+417,Value & Gift Sets,iluminage,Skin Smoothing Laser™,$595.00,4.9,10.0,301.0,0.530452,laser,0.6087521998683173
+418,Value & Gift Sets,iluminage,Skin Smoothing Laser™,$595.00,4.9,10.0,301.0,0.530452,mouth,0.23799287384356335
+419,Value & Gift Sets,iluminage,Skin Smoothing Laser™,$595.00,4.9,10.0,301.0,0.530452,setting,0.20848265595306506
+420,Value & Gift Sets,dyson,Supersonic Hair Dryer,$399.00,4.3746,327.0,282.25,0.5052939999999999,wavy,0.2286298638462323
+421,Value & Gift Sets,dyson,Supersonic Hair Dryer,$399.00,4.3746,327.0,282.25,0.5052939999999999,straw,0.2286207459692778
+422,Value & Gift Sets,dyson,Supersonic Hair Dryer,$399.00,4.3746,327.0,282.25,0.5052939999999999,frizzy,0.2286207459692778
+423,Value & Gift Sets,dyson,Supersonic Hair Dryer,$399.00,4.3746,327.0,282.25,0.5052939999999999,blow,0.6151397013184068
+424,Value & Gift Sets,dyson,Supersonic Hair Dryer,$399.00,4.3746,327.0,282.25,0.5052939999999999,frizz,0.2302879248134909
+425,Curls & Coils,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.523566,wavy,0.19213920613609778
+426,Curls & Coils,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.523566,frizz,0.49737669423839104
+427,Curls & Coils,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.523566,frizzy,0.3759095416801378
+428,Curls & Coils,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.523566,curly,0.2808599991921255
+429,Curls & Coils,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.523566,bumble,0.3965624091021766
+430,Curls & Coils,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,frizz,0.40312925274514577
+431,Curls & Coils,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,conditioner,0.24660214008884163
+432,Curls & Coils,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,blow,0.23278860697266113
+433,Curls & Coils,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,frizzy,0.36709057157240865
+434,Curls & Coils,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,curly,0.3122290949757446
+435,Curls & Coils,Ouidad,Climate Control® Heat & Humidity Gel,$26.0,4.2347,969.0,256.25,0.6026590000000001,curls,0.5714834638268502
+436,Curls & Coils,Ouidad,Climate Control® Heat & Humidity Gel,$26.0,4.2347,969.0,256.25,0.6026590000000001,crunchy,0.1925624097978768
+437,Curls & Coils,Ouidad,Climate Control® Heat & Humidity Gel,$26.0,4.2347,969.0,256.25,0.6026590000000001,frizzy,0.2379905271339941
+438,Curls & Coils,Ouidad,Climate Control® Heat & Humidity Gel,$26.0,4.2347,969.0,256.25,0.6026590000000001,curly,0.4887092107996466
+439,Curls & Coils,Ouidad,Climate Control® Heat & Humidity Gel,$26.0,4.2347,969.0,256.25,0.6026590000000001,frizz,0.4471164800816718
+440,Curls & Coils,Bumble and bumble,Hairdresser’s Invisible Oil Primer,$12.0,4.5767,874.0,225.5,0.565427,frizz,0.3361655752745273
+441,Curls & Coils,Bumble and bumble,Hairdresser’s Invisible Oil Primer,$12.0,4.5767,874.0,225.5,0.565427,frizzy,0.2939542516877272
+442,Curls & Coils,Bumble and bumble,Hairdresser’s Invisible Oil Primer,$12.0,4.5767,874.0,225.5,0.565427,blow,0.3248461134220168
+443,Curls & Coils,Bumble and bumble,Hairdresser’s Invisible Oil Primer,$12.0,4.5767,874.0,225.5,0.565427,styling,0.23183832777553603
+444,Curls & Coils,Bumble and bumble,Hairdresser’s Invisible Oil Primer,$12.0,4.5767,874.0,225.5,0.565427,bumble,0.29056358311506314
+445,Curls & Coils,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,frizz,0.5926659088921936
+446,Curls & Coils,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,frizzy,0.3462716429415043
+447,Curls & Coils,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,mist,0.3483505891875959
+448,Curls & Coils,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,curly,0.19571394420666638
+449,Curls & Coils,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,weigh,0.19778444549471438
+450,Dryness,philosophy,Hope In A Jar,$44.0,3.9925,6666.0,1689.25,0.354638,moisturizers,0.14908314786516397
+451,Dryness,philosophy,Hope In A Jar,$44.0,3.9925,6666.0,1689.25,0.354638,dog,0.14155855475565138
+452,Dryness,philosophy,Hope In A Jar,$44.0,3.9925,6666.0,1689.25,0.354638,philosophy,0.40389103969335793
+453,Dryness,philosophy,Hope In A Jar,$44.0,3.9925,6666.0,1689.25,0.354638,absorbs,0.20042386834036602
+454,Dryness,philosophy,Hope In A Jar,$44.0,3.9925,6666.0,1689.25,0.354638,jar,0.7353703695042951
+455,Dryness,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,josie,0.2800041928500464
+456,Dryness,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,drops,0.4691472885671971
+457,Dryness,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,cuticles,0.23307789054733238
+458,Dryness,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,argan,0.5541904852587284
+459,Dryness,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,maran,0.22049245902721815
+460,Dryness,First Aid Beauty,Ultra Repair® Cream Intense Hydration,$6.5,4.5936,5174.0,1297.5,0.5209739999999999,moisturizers,0.22836216616318045
+461,Dryness,First Aid Beauty,Ultra Repair® Cream Intense Hydration,$6.5,4.5936,5174.0,1297.5,0.5209739999999999,redness,0.19816442287350017
+462,Dryness,First Aid Beauty,Ultra Repair® Cream Intense Hydration,$6.5,4.5936,5174.0,1297.5,0.5209739999999999,repair,0.2453351237503174
+463,Dryness,First Aid Beauty,Ultra Repair® Cream Intense Hydration,$6.5,4.5936,5174.0,1297.5,0.5209739999999999,eczema,0.5018892954046146
+464,Dryness,First Aid Beauty,Ultra Repair® Cream Intense Hydration,$6.5,4.5936,5174.0,1297.5,0.5209739999999999,fab,0.1923948648820733
+465,Dryness,CLINIQUE,Dramatically Different Moisturizing Gel,$5.0,4.4652,2929.0,735.75,0.46862700000000007,moisturizers,0.5118606128783401
+466,Dryness,CLINIQUE,Dramatically Different Moisturizing Gel,$5.0,4.4652,2929.0,735.75,0.46862700000000007,pump,0.16425754791202968
+467,Dryness,CLINIQUE,Dramatically Different Moisturizing Gel,$5.0,4.4652,2929.0,735.75,0.46862700000000007,clinique,0.37872369105225895
+468,Dryness,CLINIQUE,Dramatically Different Moisturizing Gel,$5.0,4.4652,2929.0,735.75,0.46862700000000007,absorbs,0.42400134928059685
+469,Dryness,CLINIQUE,Dramatically Different Moisturizing Gel,$5.0,4.4652,2929.0,735.75,0.46862700000000007,zone,0.23217478462171942
+470,Dryness,CLINIQUE,Moisture Surge Extended Thirst Relief,$12.0,4.4998,2394.0,605.5,0.558353,moisturizers,0.3508262168511646
+471,Dryness,CLINIQUE,Moisture Surge Extended Thirst Relief,$12.0,4.4998,2394.0,605.5,0.558353,clinique,0.42235926219518655
+472,Dryness,CLINIQUE,Moisture Surge Extended Thirst Relief,$12.0,4.4998,2394.0,605.5,0.558353,absorbs,0.34301272205065503
+473,Dryness,CLINIQUE,Moisture Surge Extended Thirst Relief,$12.0,4.4998,2394.0,605.5,0.558353,surge,0.47550937395536585
+474,Dryness,CLINIQUE,Moisture Surge Extended Thirst Relief,$12.0,4.4998,2394.0,605.5,0.558353,jar,0.28827567606747523
+475,Dark Spots,Ole Henriksen,Truth Serum®,$48.0,4.3042,3209.0,827.25,0.5877979999999999,ole,0.3421881125497722
+476,Dark Spots,Ole Henriksen,Truth Serum®,$48.0,4.3042,3209.0,827.25,0.5877979999999999,scars,0.24596066898310232
+477,Dark Spots,Ole Henriksen,Truth Serum®,$48.0,4.3042,3209.0,827.25,0.5877979999999999,henriksen,0.2400641559310636
+478,Dark Spots,Ole Henriksen,Truth Serum®,$48.0,4.3042,3209.0,827.25,0.5877979999999999,vitamin,0.35921089299843245
+479,Dark Spots,Ole Henriksen,Truth Serum®,$48.0,4.3042,3209.0,827.25,0.5877979999999999,brighter,0.26751160480063835
+480,Dark Spots,KORRES,Wild Rose 24-Hour Moisturizing & Brightening Cream,$38.00,4.4185,1511.0,397.75,0.5338229999999999,moisturizers,0.1805657828908835
+481,Dark Spots,KORRES,Wild Rose 24-Hour Moisturizing & Brightening Cream,$38.00,4.4185,1511.0,397.75,0.5338229999999999,korres,0.634489714076896
+482,Dark Spots,KORRES,Wild Rose 24-Hour Moisturizing & Brightening Cream,$38.00,4.4185,1511.0,397.75,0.5338229999999999,rose,0.3994660021972191
+483,Dark Spots,KORRES,Wild Rose 24-Hour Moisturizing & Brightening Cream,$38.00,4.4185,1511.0,397.75,0.5338229999999999,wild,0.19114593928600523
+484,Dark Spots,KORRES,Wild Rose 24-Hour Moisturizing & Brightening Cream,$38.00,4.4185,1511.0,397.75,0.5338229999999999,brightening,0.37053739580661094
+485,Dark Spots,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.557369,korres,0.2788354258156361
+486,Dark Spots,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.557369,brighter,0.18853037796715302
+487,Dark Spots,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.557369,rose,0.6693093061092842
+488,Dark Spots,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.557369,roses,0.2508739675565781
+489,Dark Spots,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.557369,sleeping,0.20561821369066813
+490,Dark Spots,SUNDAY RILEY,Good Genes All-In-One Lactic Acid Treatment,$105.0,4.2953,1160.0,343.5,0.486256,brighter,0.16499825612782223
+491,Dark Spots,SUNDAY RILEY,Good Genes All-In-One Lactic Acid Treatment,$105.0,4.2953,1160.0,343.5,0.486256,sunday,0.4113919018829468
+492,Dark Spots,SUNDAY RILEY,Good Genes All-In-One Lactic Acid Treatment,$105.0,4.2953,1160.0,343.5,0.486256,scars,0.24706384979275503
+493,Dark Spots,SUNDAY RILEY,Good Genes All-In-One Lactic Acid Treatment,$105.0,4.2953,1160.0,343.5,0.486256,acid,0.28943133965247214
+494,Dark Spots,SUNDAY RILEY,Good Genes All-In-One Lactic Acid Treatment,$105.0,4.2953,1160.0,343.5,0.486256,riley,0.4591418826392337
+495,Dark Spots,Murad,Rapid Age Spot and Pigment Lightening Serum,$65.0,3.8718,1238.0,342.75,0.540086,murad,0.38055071217798514
+496,Dark Spots,Murad,Rapid Age Spot and Pigment Lightening Serum,$65.0,3.8718,1238.0,342.75,0.540086,freckles,0.2705364501372608
+497,Dark Spots,Murad,Rapid Age Spot and Pigment Lightening Serum,$65.0,3.8718,1238.0,342.75,0.540086,scars,0.4067932867460815
+498,Dark Spots,Murad,Rapid Age Spot and Pigment Lightening Serum,$65.0,3.8718,1238.0,342.75,0.540086,lightening,0.29272088077619235
+499,Dark Spots,Murad,Rapid Age Spot and Pigment Lightening Serum,$65.0,3.8718,1238.0,342.75,0.540086,lightened,0.23714331130206812
+500,Hair Styling Products,Living Proof,Full Thickening Cream,$15.0,4.1272,2161.0,548.75,0.547516,proof,0.2052725855106592
+501,Hair Styling Products,Living Proof,Full Thickening Cream,$15.0,4.1272,2161.0,548.75,0.547516,volume,0.5998328191011904
+502,Hair Styling Products,Living Proof,Full Thickening Cream,$15.0,4.1272,2161.0,548.75,0.547516,blow,0.26161176299045724
+503,Hair Styling Products,Living Proof,Full Thickening Cream,$15.0,4.1272,2161.0,548.75,0.547516,limp,0.20649363031811796
+504,Hair Styling Products,Living Proof,Full Thickening Cream,$15.0,4.1272,2161.0,548.75,0.547516,living,0.19988420828171397
+505,Hair Styling Products,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493227,wavy,0.42381145222509825
+506,Hair Styling Products,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493227,waves,0.5470840686186736
+507,Hair Styling Products,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493227,wave,0.2250600584740967
+508,Hair Styling Products,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493227,beach,0.23915002015392187
+509,Hair Styling Products,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493227,beachy,0.22637961460083048
+510,Hair Styling Products,Drybar,Detox Dry Shampoo,$13.0,3.8006,1617.0,411.5,0.473592,volume,0.1476988579479646
+511,Hair Styling Products,Drybar,Detox Dry Shampoo,$13.0,3.8006,1617.0,411.5,0.473592,shampoos,0.3627592689225867
+512,Hair Styling Products,Drybar,Detox Dry Shampoo,$13.0,3.8006,1617.0,411.5,0.473592,scalp,0.11874407521096206
+513,Hair Styling Products,Drybar,Detox Dry Shampoo,$13.0,3.8006,1617.0,411.5,0.473592,shampoo,0.8629758884609668
+514,Hair Styling Products,Drybar,Detox Dry Shampoo,$13.0,3.8006,1617.0,411.5,0.473592,roots,0.1197349160346609
+515,Hair Styling Products,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,curls,0.2388707217250967
+516,Hair Styling Products,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,frizz,0.2728605179029949
+517,Hair Styling Products,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,style,0.5400274227301453
+518,Hair Styling Products,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,blow,0.2522006071825579
+519,Hair Styling Products,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,styling,0.2584994380133636
+520,Hair Styling Products,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.52236,wavy,0.19213920613609778
+521,Hair Styling Products,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.52236,frizz,0.49737669423839104
+522,Hair Styling Products,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.52236,frizzy,0.3759095416801378
+523,Hair Styling Products,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.52236,curly,0.2808599991921255
+524,Hair Styling Products,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.52236,bumble,0.3965624091021766
+525,Shampoo,Living Proof,No Frizz Shampoo,$10.0,4.1135,706.0,182.5,0.550442,frizz,0.48952948367740085
+526,Shampoo,Living Proof,No Frizz Shampoo,$10.0,4.1135,706.0,182.5,0.550442,conditioner,0.4027921788072545
+527,Shampoo,Living Proof,No Frizz Shampoo,$10.0,4.1135,706.0,182.5,0.550442,shampoo,0.68319474529186
+528,Shampoo,Living Proof,No Frizz Shampoo,$10.0,4.1135,706.0,182.5,0.550442,curly,0.12474478541712838
+529,Shampoo,Living Proof,No Frizz Shampoo,$10.0,4.1135,706.0,182.5,0.550442,frizzy,0.18417506393478605
+530,Shampoo,Living Proof,Full Shampoo,$10.0,4.1625,567.0,147.75,0.541172,proof,0.1354345538418941
+531,Shampoo,Living Proof,Full Shampoo,$10.0,4.1625,567.0,147.75,0.541172,volume,0.2410232792629662
+532,Shampoo,Living Proof,Full Shampoo,$10.0,4.1625,567.0,147.75,0.541172,conditioner,0.33309689705308576
+533,Shampoo,Living Proof,Full Shampoo,$10.0,4.1625,567.0,147.75,0.541172,shampoo,0.8537770302899989
+534,Shampoo,Living Proof,Full Shampoo,$10.0,4.1625,567.0,147.75,0.541172,living,0.1282497066902817
+535,Shampoo,Bumble and bumble,Thickening Shampoo,$11.0,3.8064,563.0,147.0,0.464075,bumble,0.22714654909277987
+536,Shampoo,Bumble and bumble,Thickening Shampoo,$11.0,3.8064,563.0,147.0,0.464075,shampoos,0.09666934571209974
+537,Shampoo,Bumble and bumble,Thickening Shampoo,$11.0,3.8064,563.0,147.0,0.464075,conditioner,0.4054077266993664
+538,Shampoo,Bumble and bumble,Thickening Shampoo,$11.0,3.8064,563.0,147.0,0.464075,volume,0.2536130534853087
+539,Shampoo,Bumble and bumble,Thickening Shampoo,$11.0,3.8064,563.0,147.0,0.464075,shampoo,0.8144300661015037
+540,Shampoo,ALTERNA Haircare,CAVIAR Anti-Aging® Replenishing Moisture Shampoo,$9.0,4.3067,542.0,141.0,0.5244409999999999,shampoos,0.10039899807387694
+541,Shampoo,ALTERNA Haircare,CAVIAR Anti-Aging® Replenishing Moisture Shampoo,$9.0,4.3067,542.0,141.0,0.5244409999999999,conditioner,0.4650547194097246
+542,Shampoo,ALTERNA Haircare,CAVIAR Anti-Aging® Replenishing Moisture Shampoo,$9.0,4.3067,542.0,141.0,0.5244409999999999,shampoo,0.8368395767011768
+543,Shampoo,ALTERNA Haircare,CAVIAR Anti-Aging® Replenishing Moisture Shampoo,$9.0,4.3067,542.0,141.0,0.5244409999999999,alterna,0.11717820722269034
+544,Shampoo,ALTERNA Haircare,CAVIAR Anti-Aging® Replenishing Moisture Shampoo,$9.0,4.3067,542.0,141.0,0.5244409999999999,scalp,0.08587298157994822
+545,Shampoo,Living Proof,Perfect Hair Day Shampoo,$10.0,3.8152,527.0,137.5,0.5416529999999999,proof,0.10669168412614626
+546,Shampoo,Living Proof,Perfect Hair Day Shampoo,$10.0,3.8152,527.0,137.5,0.5416529999999999,conditioner,0.40500509662790374
+547,Shampoo,Living Proof,Perfect Hair Day Shampoo,$10.0,3.8152,527.0,137.5,0.5416529999999999,shampoo,0.8523890304207251
+548,Shampoo,Living Proof,Perfect Hair Day Shampoo,$10.0,3.8152,527.0,137.5,0.5416529999999999,styling,0.1233985432015456
+549,Shampoo,Living Proof,Perfect Hair Day Shampoo,$10.0,3.8152,527.0,137.5,0.5416529999999999,scalp,0.11593350462893452
+550,Face Oils,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,josie,0.2800041928500464
+551,Face Oils,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,drops,0.4691472885671971
+552,Face Oils,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,cuticles,0.23307789054733238
+553,Face Oils,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,argan,0.5541904852587284
+554,Face Oils,Josie Maran,100 percent Pure Argan Oil,$16.0,4.518,6659.0,1673.75,0.548449,maran,0.22049245902721815
+555,Face Oils,Josie Maran,Argan Cleansing Oil,$32.00,4.1003,1651.0,429.75,0.561148,cleansing,0.4440376555782522
+556,Face Oils,Josie Maran,Argan Cleansing Oil,$32.00,4.1003,1651.0,429.75,0.561148,josie,0.1905161487141233
+557,Face Oils,Josie Maran,Argan Cleansing Oil,$32.00,4.1003,1651.0,429.75,0.561148,argan,0.17252372281557513
+558,Face Oils,Josie Maran,Argan Cleansing Oil,$32.00,4.1003,1651.0,429.75,0.561148,waterproof,0.14534156182868102
+559,Face Oils,Josie Maran,Argan Cleansing Oil,$32.00,4.1003,1651.0,429.75,0.561148,cleanser,0.7194709326632486
+560,Face Oils,tarte,Maracuja Oil,$15.0,4.4568,1639.0,418.25,0.566836,drops,0.4801034588492391
+561,Face Oils,tarte,Maracuja Oil,$15.0,4.4568,1639.0,418.25,0.566836,tarte,0.2229684851141328
+562,Face Oils,tarte,Maracuja Oil,$15.0,4.4568,1639.0,418.25,0.566836,maracuja,0.2588432116568661
+563,Face Oils,tarte,Maracuja Oil,$15.0,4.4568,1639.0,418.25,0.566836,absorbs,0.14299119376870684
+564,Face Oils,tarte,Maracuja Oil,$15.0,4.4568,1639.0,418.25,0.566836,ipsy,0.47933928084604827
+565,Face Oils,Fresh,Seaberry Moisturizing Face Oil,$52.00,4.4502,1256.0,341.0,0.49868900000000005,josie,0.192624982971222
+566,Face Oils,Fresh,Seaberry Moisturizing Face Oil,$52.00,4.4502,1256.0,341.0,0.49868900000000005,drops,0.7638259051469508
+567,Face Oils,Fresh,Seaberry Moisturizing Face Oil,$52.00,4.4502,1256.0,341.0,0.49868900000000005,argan,0.11809690660164911
+568,Face Oils,Fresh,Seaberry Moisturizing Face Oil,$52.00,4.4502,1256.0,341.0,0.49868900000000005,absorbs,0.1979168110467553
+569,Face Oils,Fresh,Seaberry Moisturizing Face Oil,$52.00,4.4502,1256.0,341.0,0.49868900000000005,maran,0.16398347557581783
+570,Face Oils,Josie Maran,100 percent Pure Argan Oil Light,$16.0,4.3986,1280.0,329.0,0.560782,josie,0.27169784649585477
+571,Face Oils,Josie Maran,100 percent Pure Argan Oil Light,$16.0,4.3986,1280.0,329.0,0.560782,drops,0.4345377248248667
+572,Face Oils,Josie Maran,100 percent Pure Argan Oil Light,$16.0,4.3986,1280.0,329.0,0.560782,cuticles,0.17362055418328265
+573,Face Oils,Josie Maran,100 percent Pure Argan Oil Light,$16.0,4.3986,1280.0,329.0,0.560782,argan,0.5807111552650438
+574,Face Oils,Josie Maran,100 percent Pure Argan Oil Light,$16.0,4.3986,1280.0,329.0,0.560782,maran,0.20186090575918872
+575,Face Sunscreen,Laura Mercier,Tinted Moisturizer Broad Spectrum SPF 20,$24.0,4.4306,4038.0,1022.5,0.6235310000000001,tinted,0.7103948967011785
+576,Face Sunscreen,Laura Mercier,Tinted Moisturizer Broad Spectrum SPF 20,$24.0,4.4306,4038.0,1022.5,0.6235310000000001,laura,0.19741173680555796
+577,Face Sunscreen,Laura Mercier,Tinted Moisturizer Broad Spectrum SPF 20,$24.0,4.4306,4038.0,1022.5,0.6235310000000001,mercier,0.19372808816637646
+578,Face Sunscreen,Laura Mercier,Tinted Moisturizer Broad Spectrum SPF 20,$24.0,4.4306,4038.0,1022.5,0.6235310000000001,spf,0.26698698177641345
+579,Face Sunscreen,Laura Mercier,Tinted Moisturizer Broad Spectrum SPF 20,$24.0,4.4306,4038.0,1022.5,0.6235310000000001,sheer,0.2703861166177621
+580,Face Sunscreen,Laura Mercier,Tinted Moisturizer Broad Spectrum SPF 20 - Oil Free,$44.00,4.2898,3867.0,989.75,0.614992,tinted,0.7634781426765094
+581,Face Sunscreen,Laura Mercier,Tinted Moisturizer Broad Spectrum SPF 20 - Oil Free,$44.00,4.2898,3867.0,989.75,0.614992,laura,0.25077433372863195
+582,Face Sunscreen,Laura Mercier,Tinted Moisturizer Broad Spectrum SPF 20 - Oil Free,$44.00,4.2898,3867.0,989.75,0.614992,sheer,0.1575893732984194
+583,Face Sunscreen,Laura Mercier,Tinted Moisturizer Broad Spectrum SPF 20 - Oil Free,$44.00,4.2898,3867.0,989.75,0.614992,spf,0.2174950044668045
+584,Face Sunscreen,Laura Mercier,Tinted Moisturizer Broad Spectrum SPF 20 - Oil Free,$44.00,4.2898,3867.0,989.75,0.614992,mercier,0.2270225948136913
+585,Face Sunscreen,Smashbox,Camera Ready BB Cream SPF 35,$39.00,4.034,3031.0,778.25,0.6175390000000001,cakey,0.12022522664530774
+586,Face Sunscreen,Smashbox,Camera Ready BB Cream SPF 35,$39.00,4.034,3031.0,778.25,0.6175390000000001,shade,0.12777894077105562
+587,Face Sunscreen,Smashbox,Camera Ready BB Cream SPF 35,$39.00,4.034,3031.0,778.25,0.6175390000000001,bb,0.8881056895960329
+588,Face Sunscreen,Smashbox,Camera Ready BB Cream SPF 35,$39.00,4.034,3031.0,778.25,0.6175390000000001,spf,0.18939112384241738
+589,Face Sunscreen,Smashbox,Camera Ready BB Cream SPF 35,$39.00,4.034,3031.0,778.25,0.6175390000000001,smashbox,0.14382920443693653
+590,Face Sunscreen,tarte,BB Tinted Treatment 12-Hour Primer Broad Spectrum SPF 30 Sunscreen,$14.0,4.2799,2900.0,733.0,0.577438,tarte,0.22406867753424534
+591,Face Sunscreen,tarte,BB Tinted Treatment 12-Hour Primer Broad Spectrum SPF 30 Sunscreen,$14.0,4.2799,2900.0,733.0,0.577438,bb,0.8356415397624017
+592,Face Sunscreen,tarte,BB Tinted Treatment 12-Hour Primer Broad Spectrum SPF 30 Sunscreen,$14.0,4.2799,2900.0,733.0,0.577438,shade,0.17766434986413973
+593,Face Sunscreen,tarte,BB Tinted Treatment 12-Hour Primer Broad Spectrum SPF 30 Sunscreen,$14.0,4.2799,2900.0,733.0,0.577438,spf,0.17852893248430476
+594,Face Sunscreen,tarte,BB Tinted Treatment 12-Hour Primer Broad Spectrum SPF 30 Sunscreen,$14.0,4.2799,2900.0,733.0,0.577438,tinted,0.2010696574661215
+595,Face Sunscreen,NARS,Pure Radiant Tinted Moisturizer Broad Spectrum SPF 30,$45.00,4.4019,2152.0,561.5,0.560037,tinted,0.7198743644601211
+596,Face Sunscreen,NARS,Pure Radiant Tinted Moisturizer Broad Spectrum SPF 30,$45.00,4.4019,2152.0,561.5,0.560037,nars,0.31351553165148505
+597,Face Sunscreen,NARS,Pure Radiant Tinted Moisturizer Broad Spectrum SPF 30,$45.00,4.4019,2152.0,561.5,0.560037,spf,0.21392042414929266
+598,Face Sunscreen,NARS,Pure Radiant Tinted Moisturizer Broad Spectrum SPF 30,$45.00,4.4019,2152.0,561.5,0.560037,shade,0.1991499666202979
+599,Face Sunscreen,NARS,Pure Radiant Tinted Moisturizer Broad Spectrum SPF 30,$45.00,4.4019,2152.0,561.5,0.560037,dewy,0.187328792703105
+600,Rollerballs & Travel Size,Viktor & Rolf,Flowerbomb Travel Duo,$35.00,4.4973,928.0,250.5,0.263621,duo,0.14721232797886621
+601,Rollerballs & Travel Size,Viktor & Rolf,Flowerbomb Travel Duo,$35.00,4.4973,928.0,250.5,0.263621,perfume,0.7767912276306684
+602,Rollerballs & Travel Size,Viktor & Rolf,Flowerbomb Travel Duo,$35.00,4.4973,928.0,250.5,0.263621,floral,0.20453562927880245
+603,Rollerballs & Travel Size,Viktor & Rolf,Flowerbomb Travel Duo,$35.00,4.4973,928.0,250.5,0.263621,refill,0.3467878419279368
+604,Rollerballs & Travel Size,Viktor & Rolf,Flowerbomb Travel Duo,$35.00,4.4973,928.0,250.5,0.263621,roller,0.16857742315941374
+605,Rollerballs & Travel Size,Giorgio Armani Beauty,Acqua di Gioia Rollerball,$24.00,4.6812,848.0,225.0,0.311461,citrusy,0.24643357098920296
+606,Rollerballs & Travel Size,Giorgio Armani Beauty,Acqua di Gioia Rollerball,$24.00,4.6812,848.0,225.0,0.311461,perfume,0.6374436275834218
+607,Rollerballs & Travel Size,Giorgio Armani Beauty,Acqua di Gioia Rollerball,$24.00,4.6812,848.0,225.0,0.311461,di,0.24157516732571666
+608,Rollerballs & Travel Size,Giorgio Armani Beauty,Acqua di Gioia Rollerball,$24.00,4.6812,848.0,225.0,0.311461,flowery,0.253104616933455
+609,Rollerballs & Travel Size,Giorgio Armani Beauty,Acqua di Gioia Rollerball,$24.00,4.6812,848.0,225.0,0.311461,roller,0.26144872518400847
+610,Rollerballs & Travel Size,Elizabeth and James,Nirvana Black Rollerball,$25.00,4.5,339.0,98.25,0.30831,vanilla,0.4545638668390548
+611,Rollerballs & Travel Size,Elizabeth and James,Nirvana Black Rollerball,$25.00,4.5,339.0,98.25,0.30831,feminine,0.20698828538441713
+612,Rollerballs & Travel Size,Elizabeth and James,Nirvana Black Rollerball,$25.00,4.5,339.0,98.25,0.30831,perfume,0.5324613914615247
+613,Rollerballs & Travel Size,Elizabeth and James,Nirvana Black Rollerball,$25.00,4.5,339.0,98.25,0.30831,sexy,0.33161108650332216
+614,Rollerballs & Travel Size,Elizabeth and James,Nirvana Black Rollerball,$25.00,4.5,339.0,98.25,0.30831,scents,0.27468371532854496
+615,Rollerballs & Travel Size,Elizabeth and James,Nirvana White Rollerball,$25.00,4.3811,265.0,79.75,0.500879,feminine,0.22631566956395321
+616,Rollerballs & Travel Size,Elizabeth and James,Nirvana White Rollerball,$25.00,4.3811,265.0,79.75,0.500879,perfume,0.6117104448883812
+617,Rollerballs & Travel Size,Elizabeth and James,Nirvana White Rollerball,$25.00,4.3811,265.0,79.75,0.500879,perfumes,0.24796001609555107
+618,Rollerballs & Travel Size,Elizabeth and James,Nirvana White Rollerball,$25.00,4.3811,265.0,79.75,0.500879,floral,0.36240407556788873
+619,Rollerballs & Travel Size,Elizabeth and James,Nirvana White Rollerball,$25.00,4.3811,265.0,79.75,0.500879,roller,0.2867442684701694
+620,Rollerballs & Travel Size,MAISON MARGIELA,’REPLICA’ Beach Walk Rollerball,$28.00,4.2336,248.0,77.0,0.42962799999999995,sunscreen,0.190937149273793
+621,Rollerballs & Travel Size,MAISON MARGIELA,’REPLICA’ Beach Walk Rollerball,$28.00,4.2336,248.0,77.0,0.42962799999999995,perfume,0.2511450427367841
+622,Rollerballs & Travel Size,MAISON MARGIELA,’REPLICA’ Beach Walk Rollerball,$28.00,4.2336,248.0,77.0,0.42962799999999995,beach,0.7288193167203985
+623,Rollerballs & Travel Size,MAISON MARGIELA,’REPLICA’ Beach Walk Rollerball,$28.00,4.2336,248.0,77.0,0.42962799999999995,coconut,0.19964606571799837
+624,Rollerballs & Travel Size,MAISON MARGIELA,’REPLICA’ Beach Walk Rollerball,$28.00,4.2336,248.0,77.0,0.42962799999999995,beachy,0.26296446918441846
+625,Mists & Essences,Caudalie,Beauty Elixir,$18.0,4.3017,2380.0,605.0,0.701058,caudalie,0.2616016589521308
+626,Mists & Essences,Caudalie,Beauty Elixir,$18.0,4.3017,2380.0,605.0,0.701058,toner,0.31150438466689234
+627,Mists & Essences,Caudalie,Beauty Elixir,$18.0,4.3017,2380.0,605.0,0.701058,refreshing,0.4491654234672431
+628,Mists & Essences,Caudalie,Beauty Elixir,$18.0,4.3017,2380.0,605.0,0.701058,mist,0.3698928542325327
+629,Mists & Essences,Caudalie,Beauty Elixir,$18.0,4.3017,2380.0,605.0,0.701058,spritz,0.21581388059848344
+630,Mists & Essences,Evian,Mineral Water Spray Duo To Go,$15.00,4.582,1324.0,339.5,0.47614700000000004,mist,0.4328072159971906
+631,Mists & Essences,Evian,Mineral Water Spray Duo To Go,$15.00,4.582,1324.0,339.5,0.47614700000000004,purse,0.30364132891717815
+632,Mists & Essences,Evian,Mineral Water Spray Duo To Go,$15.00,4.582,1324.0,339.5,0.47614700000000004,refreshing,0.5667175956171014
+633,Mists & Essences,Evian,Mineral Water Spray Duo To Go,$15.00,4.582,1324.0,339.5,0.47614700000000004,refresh,0.2270627907175539
+634,Mists & Essences,Evian,Mineral Water Spray Duo To Go,$15.00,4.582,1324.0,339.5,0.47614700000000004,spritz,0.17846236854642666
+635,Mists & Essences,Smashbox,Photo Finish Primer Water,$16.0,4.0719,860.0,224.0,0.616536,primers,0.2636957934547581
+636,Mists & Essences,Smashbox,Photo Finish Primer Water,$16.0,4.0719,860.0,224.0,0.616536,refreshing,0.2660255432511807
+637,Mists & Essences,Smashbox,Photo Finish Primer Water,$16.0,4.0719,860.0,224.0,0.616536,mist,0.21442802503113137
+638,Mists & Essences,Smashbox,Photo Finish Primer Water,$16.0,4.0719,860.0,224.0,0.616536,smashbox,0.2679931400585645
+639,Mists & Essences,Smashbox,Photo Finish Primer Water,$16.0,4.0719,860.0,224.0,0.616536,setting,0.6658055075842128
+640,Mists & Essences,MAKE UP FOR EVER,Mist & Fix Setting Spray,$14.0,4.2527,741.0,193.25,0.44732799999999995,sprays,0.3118751020274203
+641,Mists & Essences,MAKE UP FOR EVER,Mist & Fix Setting Spray,$14.0,4.2527,741.0,193.25,0.44732799999999995,decay,0.2591561452131295
+642,Mists & Essences,MAKE UP FOR EVER,Mist & Fix Setting Spray,$14.0,4.2527,741.0,193.25,0.44732799999999995,mist,0.24984943833001927
+643,Mists & Essences,MAKE UP FOR EVER,Mist & Fix Setting Spray,$14.0,4.2527,741.0,193.25,0.44732799999999995,setting,0.7190421347550062
+644,Mists & Essences,MAKE UP FOR EVER,Mist & Fix Setting Spray,$14.0,4.2527,741.0,193.25,0.44732799999999995,urban,0.2600685152999399
+645,Mists & Essences,Supergoop!,Defense Refresh Setting Mist SPF 50,$12.0,3.3263,669.0,174.0,0.5523319999999999,mist,0.3421964891312836
+646,Mists & Essences,Supergoop!,Defense Refresh Setting Mist SPF 50,$12.0,3.3263,669.0,174.0,0.5523319999999999,sunscreen,0.3913987867034842
+647,Mists & Essences,Supergoop!,Defense Refresh Setting Mist SPF 50,$12.0,3.3263,669.0,174.0,0.5523319999999999,spf,0.553639929473675
+648,Mists & Essences,Supergoop!,Defense Refresh Setting Mist SPF 50,$12.0,3.3263,669.0,174.0,0.5523319999999999,setting,0.44908666288232496
+649,Mists & Essences,Supergoop!,Defense Refresh Setting Mist SPF 50,$12.0,3.3263,669.0,174.0,0.5523319999999999,nozzle,0.1709187472046247
+650,Color Correct,MAKE UP FOR EVER,Step 1 Skin Equalizer Primer,$17.0,3.6393,2098.0,533.75,0.477688,primers,0.4626088878900855
+651,Color Correct,MAKE UP FOR EVER,Step 1 Skin Equalizer Primer,$17.0,3.6393,2098.0,533.75,0.477688,redness,0.3092593692081189
+652,Color Correct,MAKE UP FOR EVER,Step 1 Skin Equalizer Primer,$17.0,3.6393,2098.0,533.75,0.477688,zone,0.2631090760346065
+653,Color Correct,MAKE UP FOR EVER,Step 1 Skin Equalizer Primer,$17.0,3.6393,2098.0,533.75,0.477688,smoothing,0.2968824057762416
+654,Color Correct,MAKE UP FOR EVER,Step 1 Skin Equalizer Primer,$17.0,3.6393,2098.0,533.75,0.477688,mattifying,0.4793214040178637
+655,Color Correct,Smashbox,Photo Finish Color Correcting Foundation Primer,$16.0,3.8985,1974.0,502.25,0.474709,primers,0.14694864758375067
+656,Color Correct,Smashbox,Photo Finish Color Correcting Foundation Primer,$16.0,3.8985,1974.0,502.25,0.474709,correcting,0.2601038947921197
+657,Color Correct,Smashbox,Photo Finish Color Correcting Foundation Primer,$16.0,3.8985,1974.0,502.25,0.474709,redness,0.855939015266224
+658,Color Correct,Smashbox,Photo Finish Color Correcting Foundation Primer,$16.0,3.8985,1974.0,502.25,0.474709,green,0.2532377851123479
+659,Color Correct,Smashbox,Photo Finish Color Correcting Foundation Primer,$16.0,3.8985,1974.0,502.25,0.474709,smashbox,0.17855833376801258
+660,Color Correct,Benefit Cosmetics,Lemon-Aid Color-Correcting Eyelid Primer,$20.00,4.1969,1295.0,334.75,0.44663,eyelids,0.34338111302718405
+661,Color Correct,Benefit Cosmetics,Lemon-Aid Color-Correcting Eyelid Primer,$20.00,4.1969,1295.0,334.75,0.44663,lemon,0.3961729898224948
+662,Color Correct,Benefit Cosmetics,Lemon-Aid Color-Correcting Eyelid Primer,$20.00,4.1969,1295.0,334.75,0.44663,aid,0.31238417384709705
+663,Color Correct,Benefit Cosmetics,Lemon-Aid Color-Correcting Eyelid Primer,$20.00,4.1969,1295.0,334.75,0.44663,shadow,0.29078528496924
+664,Color Correct,Benefit Cosmetics,Lemon-Aid Color-Correcting Eyelid Primer,$20.00,4.1969,1295.0,334.75,0.44663,circles,0.37459757784783715
+665,Color Correct,Laura Mercier,Eye Basics,$28.00,4.4374,1183.0,310.75,0.5700029999999999,lids,0.3159665367281968
+666,Color Correct,Laura Mercier,Eye Basics,$28.00,4.4374,1183.0,310.75,0.5700029999999999,eyelids,0.2617046997920247
+667,Color Correct,Laura Mercier,Eye Basics,$28.00,4.4374,1183.0,310.75,0.5700029999999999,shadow,0.5996799704323134
+668,Color Correct,Laura Mercier,Eye Basics,$28.00,4.4374,1183.0,310.75,0.5700029999999999,eyeshadow,0.3438061809174614
+669,Color Correct,Laura Mercier,Eye Basics,$28.00,4.4374,1183.0,310.75,0.5700029999999999,crease,0.19108917439308906
+670,Color Correct,Bobbi Brown,Corrector,$25.0,4.3345,1129.0,295.75,0.49775699999999995,peach,0.23315657760494668
+671,Color Correct,Bobbi Brown,Corrector,$25.0,4.3345,1129.0,295.75,0.49775699999999995,corrector,0.5171776969638547
+672,Color Correct,Bobbi Brown,Corrector,$25.0,4.3345,1129.0,295.75,0.49775699999999995,creasing,0.13622308561877156
+673,Color Correct,Bobbi Brown,Corrector,$25.0,4.3345,1129.0,295.75,0.49775699999999995,circles,0.7087830773934182
+674,Color Correct,Bobbi Brown,Corrector,$25.0,4.3345,1129.0,295.75,0.49775699999999995,crease,0.1574615577256159
+675,Blush,NARS,Blush,$30.00,4.6709,16428.0,4123.0,0.551445,pigmented,0.16345372900194777
+676,Blush,NARS,Blush,$30.00,4.6709,16428.0,4123.0,0.551445,nars,0.24484194021038846
+677,Blush,NARS,Blush,$30.00,4.6709,16428.0,4123.0,0.551445,blush,0.8503719296681693
+678,Blush,NARS,Blush,$30.00,4.6709,16428.0,4123.0,0.551445,shade,0.22649160517249256
+679,Blush,NARS,Blush,$30.00,4.6709,16428.0,4123.0,0.551445,shimmer,0.2208663626258764
+680,Blush,tarte,Amazonian Clay 12-Hour Blush,$28.00,4.6326,4279.0,1084.75,0.5486850000000001,exposed,0.27849211310491245
+681,Blush,tarte,Amazonian Clay 12-Hour Blush,$28.00,4.6326,4279.0,1084.75,0.5486850000000001,pigmented,0.16162355846837145
+682,Blush,tarte,Amazonian Clay 12-Hour Blush,$28.00,4.6326,4279.0,1084.75,0.5486850000000001,blush,0.8873183045817206
+683,Blush,tarte,Amazonian Clay 12-Hour Blush,$28.00,4.6326,4279.0,1084.75,0.5486850000000001,shade,0.17871205049969158
+684,Blush,tarte,Amazonian Clay 12-Hour Blush,$28.00,4.6326,4279.0,1084.75,0.5486850000000001,tarte,0.15006762436808052
+685,Blush,Benefit Cosmetics,Benetint Cheek & Lip Stain,$30.00,4.2627,2738.0,700.5,0.521807,lip,0.35372741649162337
+686,Blush,Benefit Cosmetics,Benetint Cheek & Lip Stain,$30.00,4.2627,2738.0,700.5,0.521807,blush,0.23459253764737778
+687,Blush,Benefit Cosmetics,Benetint Cheek & Lip Stain,$30.00,4.2627,2738.0,700.5,0.521807,lips,0.6695268595583107
+688,Blush,Benefit Cosmetics,Benetint Cheek & Lip Stain,$30.00,4.2627,2738.0,700.5,0.521807,stain,0.4523240111971313
+689,Blush,Benefit Cosmetics,Benetint Cheek & Lip Stain,$30.00,4.2627,2738.0,700.5,0.521807,tint,0.1965928336417056
+690,Blush,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.437328,nars,0.27807324124393945
+691,Blush,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.437328,blush,0.7295992043393669
+692,Blush,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.437328,shade,0.20079709028517254
+693,Blush,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.437328,lips,0.26457176728439763
+694,Blush,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.437328,highlighter,0.24366918830515705
+695,Blush,NARS,Blush/Bronzer Duo,$24.0,4.4972,2472.0,631.0,0.36534099999999997,duo,0.25142797271221556
+696,Blush,NARS,Blush/Bronzer Duo,$24.0,4.4972,2472.0,631.0,0.36534099999999997,nars,0.17711330076854023
+697,Blush,NARS,Blush/Bronzer Duo,$24.0,4.4972,2472.0,631.0,0.36534099999999997,blush,0.5980706373755633
+698,Blush,NARS,Blush/Bronzer Duo,$24.0,4.4972,2472.0,631.0,0.36534099999999997,bronzer,0.6962441000807232
+699,Blush,NARS,Blush/Bronzer Duo,$24.0,4.4972,2472.0,631.0,0.36534099999999997,colors,0.11011975160219427
+700,Shaving,Jack Black,Beard Lube® Conditioning Shave,$11.5,4.7915,422.0,112.0,0.5815779999999999,shave,0.7589083246630884
+701,Shaving,Jack Black,Beard Lube® Conditioning Shave,$11.5,4.7915,422.0,112.0,0.5815779999999999,shaving,0.5488012225102141
+702,Shaving,Jack Black,Beard Lube® Conditioning Shave,$11.5,4.7915,422.0,112.0,0.5815779999999999,beard,0.2811302817534083
+703,Shaving,Jack Black,Beard Lube® Conditioning Shave,$11.5,4.7915,422.0,112.0,0.5815779999999999,legs,0.10613748804772734
+704,Shaving,Jack Black,Beard Lube® Conditioning Shave,$11.5,4.7915,422.0,112.0,0.5815779999999999,burn,0.05928811122846605
+705,Shaving,The Art of Shaving,7-Piece Manicure Set,$160.00,3.5,4.0,81.75,0.533557,basic,0.3198298102433739
+706,Shaving,The Art of Shaving,7-Piece Manicure Set,$160.00,3.5,4.0,81.75,0.533557,forth,0.23844681798280903
+707,Shaving,The Art of Shaving,7-Piece Manicure Set,$160.00,3.5,4.0,81.75,0.533557,fool,0.24204080493706207
+708,Shaving,The Art of Shaving,7-Piece Manicure Set,$160.00,3.5,4.0,81.75,0.533557,tools,0.6628196939583042
+709,Shaving,The Art of Shaving,7-Piece Manicure Set,$160.00,3.5,4.0,81.75,0.533557,sturdy,0.24772280567566213
+710,Shaving,The Art of Shaving,The 4 Elements of the Perfect Shave™ - Unscented,$120.00,4.7627,59.0,75.75,0.650353,shave,0.6233817731322626
+711,Shaving,The Art of Shaving,The 4 Elements of the Perfect Shave™ - Unscented,$120.00,4.7627,59.0,75.75,0.650353,shaving,0.7246527787710599
+712,Shaving,The Art of Shaving,The 4 Elements of the Perfect Shave™ - Unscented,$120.00,4.7627,59.0,75.75,0.650353,irritation,0.06745762505528574
+713,Shaving,The Art of Shaving,The 4 Elements of the Perfect Shave™ - Unscented,$120.00,4.7627,59.0,75.75,0.650353,pre,0.09084833222784235
+714,Shaving,The Art of Shaving,The 4 Elements of the Perfect Shave™ - Unscented,$120.00,4.7627,59.0,75.75,0.650353,unscented,0.145205781764004
+715,Shaving,The Art of Shaving,Lexington Collection™ Shave Set,$150.00,2.0,1.0,75.75,0.596395,prominent,0.0
+716,Shaving,The Art of Shaving,Lexington Collection™ Shave Set,$150.00,2.0,1.0,75.75,0.596395,promise,0.0
+717,Shaving,The Art of Shaving,Lexington Collection™ Shave Set,$150.00,2.0,1.0,75.75,0.596395,promised,0.0
+718,Shaving,The Art of Shaving,Lexington Collection™ Shave Set,$150.00,2.0,1.0,75.75,0.596395,promises,0.0
+719,Shaving,The Art of Shaving,Lexington Collection™ Shave Set,$150.00,2.0,1.0,75.75,0.596395,prolong,0.0
+720,Shaving,The Art of Shaving,The 4 Elements of the Perfect Shave™ - Sandalwood,$120.00,4.8889,36.0,70.0,0.6172300000000001,shave,0.5906589836247269
+721,Shaving,The Art of Shaving,The 4 Elements of the Perfect Shave™ - Sandalwood,$120.00,4.8889,36.0,70.0,0.6172300000000001,shaving,0.7100880177653317
+722,Shaving,The Art of Shaving,The 4 Elements of the Perfect Shave™ - Sandalwood,$120.00,4.8889,36.0,70.0,0.6172300000000001,pre,0.10520826255809833
+723,Shaving,The Art of Shaving,The 4 Elements of the Perfect Shave™ - Sandalwood,$120.00,4.8889,36.0,70.0,0.6172300000000001,men,0.10841208081224463
+724,Shaving,The Art of Shaving,The 4 Elements of the Perfect Shave™ - Sandalwood,$120.00,4.8889,36.0,70.0,0.6172300000000001,guy,0.14161263862857434
+725,Frizz,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,curls,0.2388707217250967
+726,Frizz,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,frizz,0.2728605179029949
+727,Frizz,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,style,0.5400274227301453
+728,Frizz,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,blow,0.2522006071825579
+729,Frizz,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,styling,0.2584994380133636
+730,Frizz,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.523733,wavy,0.19213920613609778
+731,Frizz,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.523733,frizz,0.49737669423839104
+732,Frizz,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.523733,frizzy,0.3759095416801378
+733,Frizz,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.523733,curly,0.2808599991921255
+734,Frizz,Bumble and bumble,Hairdresser’s Invisible Oil,$22.0,4.5,1344.0,348.0,0.523733,bumble,0.3965624091021766
+735,Frizz,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,frizz,0.40312925274514577
+736,Frizz,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,conditioner,0.24660214008884163
+737,Frizz,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,blow,0.23278860697266113
+738,Frizz,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,frizzy,0.36709057157240865
+739,Frizz,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,curly,0.3122290949757446
+740,Frizz,Ouidad,Climate Control® Heat & Humidity Gel,$26.0,4.2347,969.0,256.25,0.6026590000000001,curls,0.5714834638268502
+741,Frizz,Ouidad,Climate Control® Heat & Humidity Gel,$26.0,4.2347,969.0,256.25,0.6026590000000001,crunchy,0.1925624097978768
+742,Frizz,Ouidad,Climate Control® Heat & Humidity Gel,$26.0,4.2347,969.0,256.25,0.6026590000000001,frizzy,0.2379905271339941
+743,Frizz,Ouidad,Climate Control® Heat & Humidity Gel,$26.0,4.2347,969.0,256.25,0.6026590000000001,curly,0.4887092107996466
+744,Frizz,Ouidad,Climate Control® Heat & Humidity Gel,$26.0,4.2347,969.0,256.25,0.6026590000000001,frizz,0.4471164800816718
+745,Frizz,Bumble and bumble,Hairdresser’s Invisible Oil Primer,$12.0,4.5767,874.0,225.5,0.565427,frizz,0.3361655752745273
+746,Frizz,Bumble and bumble,Hairdresser’s Invisible Oil Primer,$12.0,4.5767,874.0,225.5,0.565427,frizzy,0.2939542516877272
+747,Frizz,Bumble and bumble,Hairdresser’s Invisible Oil Primer,$12.0,4.5767,874.0,225.5,0.565427,blow,0.3248461134220168
+748,Frizz,Bumble and bumble,Hairdresser’s Invisible Oil Primer,$12.0,4.5767,874.0,225.5,0.565427,styling,0.23183832777553603
+749,Frizz,Bumble and bumble,Hairdresser’s Invisible Oil Primer,$12.0,4.5767,874.0,225.5,0.565427,bumble,0.29056358311506314
+750,Face Wash & Cleansers,philosophy,Purity Made Simple,$11.0,4.5479,10290.0,2579.0,0.549676,removes,0.17488810643440908
+751,Face Wash & Cleansers,philosophy,Purity Made Simple,$11.0,4.5479,10290.0,2579.0,0.549676,cleansers,0.1489116098368887
+752,Face Wash & Cleansers,philosophy,Purity Made Simple,$11.0,4.5479,10290.0,2579.0,0.549676,purity,0.23432889367465967
+753,Face Wash & Cleansers,philosophy,Purity Made Simple,$11.0,4.5479,10290.0,2579.0,0.549676,clarisonic,0.11545935943611278
+754,Face Wash & Cleansers,philosophy,Purity Made Simple,$11.0,4.5479,10290.0,2579.0,0.549676,cleanser,0.8883115944009504
+755,Face Wash & Cleansers,Fresh,Soy Face Cleanser,$15.0,4.418,4935.0,1242.25,0.587751,removes,0.13518414297386
+756,Face Wash & Cleansers,Fresh,Soy Face Cleanser,$15.0,4.418,4935.0,1242.25,0.587751,cleansers,0.15175061967215792
+757,Face Wash & Cleansers,Fresh,Soy Face Cleanser,$15.0,4.418,4935.0,1242.25,0.587751,birthday,0.2093103730521893
+758,Face Wash & Cleansers,Fresh,Soy Face Cleanser,$15.0,4.418,4935.0,1242.25,0.587751,cleanser,0.9166350819871739
+759,Face Wash & Cleansers,Fresh,Soy Face Cleanser,$15.0,4.418,4935.0,1242.25,0.587751,mascara,0.07933131756261702
+760,Face Wash & Cleansers,philosophy,The Microdelivery Exfoliating Facial Wash,$28.0,4.6203,2970.0,757.5,0.424785,exfoliating,0.5346764237368565
+761,Face Wash & Cleansers,philosophy,The Microdelivery Exfoliating Facial Wash,$28.0,4.6203,2970.0,757.5,0.424785,philosophy,0.31727957288094955
+762,Face Wash & Cleansers,philosophy,The Microdelivery Exfoliating Facial Wash,$28.0,4.6203,2970.0,757.5,0.424785,purity,0.28094899052795724
+763,Face Wash & Cleansers,philosophy,The Microdelivery Exfoliating Facial Wash,$28.0,4.6203,2970.0,757.5,0.424785,cleanser,0.4249033188657228
+764,Face Wash & Cleansers,philosophy,The Microdelivery Exfoliating Facial Wash,$28.0,4.6203,2970.0,757.5,0.424785,exfoliator,0.3486673561047101
+765,Face Wash & Cleansers,First Aid Beauty,Face Cleanser,$5.5,4.3781,2626.0,660.0,0.529802,removes,0.09592045833065187
+766,Face Wash & Cleansers,First Aid Beauty,Face Cleanser,$5.5,4.3781,2626.0,660.0,0.529802,cleansers,0.16667381000206027
+767,Face Wash & Cleansers,First Aid Beauty,Face Cleanser,$5.5,4.3781,2626.0,660.0,0.529802,cleans,0.0770767023210284
+768,Face Wash & Cleansers,First Aid Beauty,Face Cleanser,$5.5,4.3781,2626.0,660.0,0.529802,fab,0.10470751204908013
+769,Face Wash & Cleansers,First Aid Beauty,Face Cleanser,$5.5,4.3781,2626.0,660.0,0.529802,cleanser,0.9433581484944945
+770,Face Wash & Cleansers,boscia,MakeUp-BreakUp Cool Cleansing Oil,$10.0,4.4689,2174.0,549.5,0.546446,cleansing,0.40102032464643145
+771,Face Wash & Cleansers,boscia,MakeUp-BreakUp Cool Cleansing Oil,$10.0,4.4689,2174.0,549.5,0.546446,removes,0.3167552925593896
+772,Face Wash & Cleansers,boscia,MakeUp-BreakUp Cool Cleansing Oil,$10.0,4.4689,2174.0,549.5,0.546446,waterproof,0.2917862845996466
+773,Face Wash & Cleansers,boscia,MakeUp-BreakUp Cool Cleansing Oil,$10.0,4.4689,2174.0,549.5,0.546446,remover,0.3589589452653772
+774,Face Wash & Cleansers,boscia,MakeUp-BreakUp Cool Cleansing Oil,$10.0,4.4689,2174.0,549.5,0.546446,cleanser,0.47234771366346723
+775,Spa Tools,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.345507,removal,0.22860690446775253
+776,Spa Tools,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.345507,legs,0.34975036645180585
+777,Spa Tools,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.345507,hairs,0.2690254277131157
+778,Spa Tools,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.345507,laser,0.535593516131453
+779,Spa Tools,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.345507,growth,0.2831652696802585
+780,Spa Tools,iluminage,Touch Permanent Hair Reduction,$445.00,3.7910000000000004,67.0,240.0,0.554217,laser,0.3819109464781924
+781,Spa Tools,iluminage,Touch Permanent Hair Reduction,$445.00,3.7910000000000004,67.0,240.0,0.554217,legs,0.5320392751477907
+782,Spa Tools,iluminage,Touch Permanent Hair Reduction,$445.00,3.7910000000000004,67.0,240.0,0.554217,arms,0.2360481248317545
+783,Spa Tools,iluminage,Touch Permanent Hair Reduction,$445.00,3.7910000000000004,67.0,240.0,0.554217,reduction,0.2966630431315826
+784,Spa Tools,iluminage,Touch Permanent Hair Reduction,$445.00,3.7910000000000004,67.0,240.0,0.554217,growth,0.2217096684290544
+785,Spa Tools,Clarisonic,Replacement Brush Head,$27.00,4.6331,885.0,235.75,0.46988900000000006,bristles,0.38072652965129516
+786,Spa Tools,Clarisonic,Replacement Brush Head,$27.00,4.6331,885.0,235.75,0.46988900000000006,replacement,0.2597532376152329
+787,Spa Tools,Clarisonic,Replacement Brush Head,$27.00,4.6331,885.0,235.75,0.46988900000000006,delicate,0.23179554342906009
+788,Spa Tools,Clarisonic,Replacement Brush Head,$27.00,4.6331,885.0,235.75,0.46988900000000006,deeper,0.24152854312135516
+789,Spa Tools,Clarisonic,Replacement Brush Head,$27.00,4.6331,885.0,235.75,0.46988900000000006,mia,0.7605113844145157
+790,Spa Tools,Tria,Hair Removal Laser 4X,$449.00,4.875,8.0,227.5,0.547395,directions,0.19822558869234705
+791,Spa Tools,Tria,Hair Removal Laser 4X,$449.00,4.875,8.0,227.5,0.547395,painful,0.26137402047276287
+792,Spa Tools,Tria,Hair Removal Laser 4X,$449.00,4.875,8.0,227.5,0.547395,setting,0.37225304289275235
+793,Spa Tools,Tria,Hair Removal Laser 4X,$449.00,4.875,8.0,227.5,0.547395,level,0.43239664135148725
+794,Spa Tools,Tria,Hair Removal Laser 4X,$449.00,4.875,8.0,227.5,0.547395,warming,0.21902523428288032
+795,Spa Tools,Clarisonic,Replacement Brush Head,$27.00,4.6478,849.0,226.75,0.498475,mia,0.23139013379038204
+796,Spa Tools,Clarisonic,Replacement Brush Head,$27.00,4.6478,849.0,226.75,0.498475,pore,0.2918779754890032
+797,Spa Tools,Clarisonic,Replacement Brush Head,$27.00,4.6478,849.0,226.75,0.498475,heads,0.1999260749730736
+798,Spa Tools,Clarisonic,Replacement Brush Head,$27.00,4.6478,849.0,226.75,0.498475,clarisonic,0.8140441710720124
+799,Spa Tools,Clarisonic,Replacement Brush Head,$27.00,4.6478,849.0,226.75,0.498475,delicate,0.18024761594264552
+800,Damaged Hair,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,frizz,0.40312925274514577
+801,Damaged Hair,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,conditioner,0.24660214008884163
+802,Damaged Hair,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,blow,0.23278860697266113
+803,Damaged Hair,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,frizzy,0.36709057157240865
+804,Damaged Hair,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,curly,0.3122290949757446
+805,Damaged Hair,Madam C.J. Walker Beauty Culture,Dream Come True Wonderful Pre-Wash Protein Treatment,$32.00,4.5899,952.0,255.0,0.47093100000000004,pre,0.4052008582800692
+806,Damaged Hair,Madam C.J. Walker Beauty Culture,Dream Come True Wonderful Pre-Wash Protein Treatment,$32.00,4.5899,952.0,255.0,0.47093100000000004,masque,0.24868067566246696
+807,Damaged Hair,Madam C.J. Walker Beauty Culture,Dream Come True Wonderful Pre-Wash Protein Treatment,$32.00,4.5899,952.0,255.0,0.47093100000000004,conditioner,0.24777104679331757
+808,Damaged Hair,Madam C.J. Walker Beauty Culture,Dream Come True Wonderful Pre-Wash Protein Treatment,$32.00,4.5899,952.0,255.0,0.47093100000000004,shampoo,0.35414039119108204
+809,Damaged Hair,Madam C.J. Walker Beauty Culture,Dream Come True Wonderful Pre-Wash Protein Treatment,$32.00,4.5899,952.0,255.0,0.47093100000000004,testing,0.31461474871644984
+810,Damaged Hair,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,frizz,0.5926659088921936
+811,Damaged Hair,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,frizzy,0.3462716429415043
+812,Damaged Hair,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,mist,0.3483505891875959
+813,Damaged Hair,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,curly,0.19571394420666638
+814,Damaged Hair,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,weigh,0.19778444549471438
+815,Damaged Hair,Living Proof,Perfect Hair Day™ 5-in-1 Styling Treatment,$15.0,4.2306,746.0,195.0,0.5667439999999999,wavy,0.22510547419532287
+816,Damaged Hair,Living Proof,Perfect Hair Day™ 5-in-1 Styling Treatment,$15.0,4.2306,746.0,195.0,0.5667439999999999,frizz,0.38791411610895354
+817,Damaged Hair,Living Proof,Perfect Hair Day™ 5-in-1 Styling Treatment,$15.0,4.2306,746.0,195.0,0.5667439999999999,blow,0.3776492248367595
+818,Damaged Hair,Living Proof,Perfect Hair Day™ 5-in-1 Styling Treatment,$15.0,4.2306,746.0,195.0,0.5667439999999999,volume,0.32089134404895464
+819,Damaged Hair,Living Proof,Perfect Hair Day™ 5-in-1 Styling Treatment,$15.0,4.2306,746.0,195.0,0.5667439999999999,styling,0.42706141223004057
+820,Damaged Hair,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.972,723.0,186.0,0.503689,frizzy,0.24303666236230456
+821,Damaged Hair,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.972,723.0,186.0,0.503689,conditioner,0.6221983496793818
+822,Damaged Hair,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.972,723.0,186.0,0.503689,damaged,0.19626821572367797
+823,Damaged Hair,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.972,723.0,186.0,0.503689,curly,0.20789076114256727
+824,Damaged Hair,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.972,723.0,186.0,0.503689,conditioning,0.3214788300409444
+825,Cologne,Yves Saint Laurent,L’Homme,$19.0,4.8596,770.0,203.0,0.383876,ysl,0.16085962510417548
+826,Cologne,Yves Saint Laurent,L’Homme,$19.0,4.8596,770.0,203.0,0.383876,cologne,0.8361287301206789
+827,Cologne,Yves Saint Laurent,L’Homme,$19.0,4.8596,770.0,203.0,0.383876,men,0.2183166030842547
+828,Cologne,Yves Saint Laurent,L’Homme,$19.0,4.8596,770.0,203.0,0.383876,sexy,0.2452697275689558
+829,Cologne,Yves Saint Laurent,L’Homme,$19.0,4.8596,770.0,203.0,0.383876,man,0.2134764385598069
+830,Cologne,Ralph Lauren,Polo Blue Eau de Parfum,$36.0,4.7119,611.0,171.75,0.327196,overpowering,0.11058910199400984
+831,Cologne,Ralph Lauren,Polo Blue Eau de Parfum,$36.0,4.7119,611.0,171.75,0.327196,opinions,0.24545872292390536
+832,Cologne,Ralph Lauren,Polo Blue Eau de Parfum,$36.0,4.7119,611.0,171.75,0.327196,cologne,0.864907549516581
+833,Cologne,Ralph Lauren,Polo Blue Eau de Parfum,$36.0,4.7119,611.0,171.75,0.327196,man,0.19534008785714832
+834,Cologne,Ralph Lauren,Polo Blue Eau de Parfum,$36.0,4.7119,611.0,171.75,0.327196,blue,0.1947287279037055
+835,Cologne,Acqua Di Parma,Colonia Ambra,$295.00,4.0,1.0,148.75,0.43232,promises,0.0
+836,Cologne,Acqua Di Parma,Colonia Ambra,$295.00,4.0,1.0,148.75,0.43232,perfume,0.6516815823763887
+837,Cologne,Acqua Di Parma,Colonia Ambra,$295.00,4.0,1.0,148.75,0.43232,pronounced,0.0
+838,Cologne,Acqua Di Parma,Colonia Ambra,$295.00,4.0,1.0,148.75,0.43232,sexy,0.7584926599456359
+839,Cologne,Acqua Di Parma,Colonia Ambra,$295.00,4.0,1.0,148.75,0.43232,promise,0.0
+840,Cologne,Viktor & Rolf,Spicebomb,$55.0,4.6854,391.0,126.25,0.5068600000000001,sweet,0.17896257961628345
+841,Cologne,Viktor & Rolf,Spicebomb,$55.0,4.6854,391.0,126.25,0.5068600000000001,cologne,0.5976685244239051
+842,Cologne,Viktor & Rolf,Spicebomb,$55.0,4.6854,391.0,126.25,0.5068600000000001,men,0.463180591809019
+843,Cologne,Viktor & Rolf,Spicebomb,$55.0,4.6854,391.0,126.25,0.5068600000000001,sexy,0.2622900000825361
+844,Cologne,Viktor & Rolf,Spicebomb,$55.0,4.6854,391.0,126.25,0.5068600000000001,scents,0.21630821417476706
+845,Cologne,Atelier Cologne,Poivre Electrique,$250.00,3.5,2.0,126.25,0.23967399999999997,flowers,0.3207847528530129
+846,Cologne,Atelier Cologne,Poivre Electrique,$250.00,3.5,2.0,126.25,0.23967399999999997,notes,0.2774593379578379
+847,Cologne,Atelier Cologne,Poivre Electrique,$250.00,3.5,2.0,126.25,0.23967399999999997,realistic,0.2994632536546437
+848,Cologne,Atelier Cologne,Poivre Electrique,$250.00,3.5,2.0,126.25,0.23967399999999997,fragrant,0.27529202455039414
+849,Cologne,Atelier Cologne,Poivre Electrique,$250.00,3.5,2.0,126.25,0.23967399999999997,remarkable,0.2866388719809395
+850,Eyeliner,Urban Decay,24/7 Glide-On Eye Pencil,$20.00,4.4219,14302.0,3586.5,0.559087,pencil,0.5324401449662755
+851,Eyeliner,Urban Decay,24/7 Glide-On Eye Pencil,$20.00,4.4219,14302.0,3586.5,0.559087,colors,0.1281911587991269
+852,Eyeliner,Urban Decay,24/7 Glide-On Eye Pencil,$20.00,4.4219,14302.0,3586.5,0.559087,smudge,0.1742750508134044
+853,Eyeliner,Urban Decay,24/7 Glide-On Eye Pencil,$20.00,4.4219,14302.0,3586.5,0.559087,eyeliner,0.6772786906366761
+854,Eyeliner,Urban Decay,24/7 Glide-On Eye Pencil,$20.00,4.4219,14302.0,3586.5,0.559087,liner,0.2725309054318247
+855,Eyeliner,Kat Von D,Tattoo Liner,$20.00,4.2768,9688.0,2433.0,0.492979,precise,0.10975444330309142
+856,Eyeliner,Kat Von D,Tattoo Liner,$20.00,4.2768,9688.0,2433.0,0.492979,smudge,0.09480844533580743
+857,Eyeliner,Kat Von D,Tattoo Liner,$20.00,4.2768,9688.0,2433.0,0.492979,eyeliner,0.667266147721254
+858,Eyeliner,Kat Von D,Tattoo Liner,$20.00,4.2768,9688.0,2433.0,0.492979,liners,0.12459956904189785
+859,Eyeliner,Kat Von D,Tattoo Liner,$20.00,4.2768,9688.0,2433.0,0.492979,liner,0.6888160975465493
+860,Eyeliner,stila,Stay All Day® Waterproof Liquid Eye Liner,$22.00,4.412,8523.0,2142.75,0.526687,stila,0.17621958311629166
+861,Eyeliner,stila,Stay All Day® Waterproof Liquid Eye Liner,$22.00,4.412,8523.0,2142.75,0.526687,smudge,0.13195611214091874
+862,Eyeliner,stila,Stay All Day® Waterproof Liquid Eye Liner,$22.00,4.412,8523.0,2142.75,0.526687,eyeliner,0.7655198059152288
+863,Eyeliner,stila,Stay All Day® Waterproof Liquid Eye Liner,$22.00,4.412,8523.0,2142.75,0.526687,waterproof,0.1787078549250873
+864,Eyeliner,stila,Stay All Day® Waterproof Liquid Eye Liner,$22.00,4.412,8523.0,2142.75,0.526687,liner,0.5296218158390554
+865,Eyeliner,SEPHORA COLLECTION,Retractable Waterproof Eyeliner,$12.00,4.2857,5246.0,1318.5,0.502206,pencil,0.12810177978672133
+866,Eyeliner,SEPHORA COLLECTION,Retractable Waterproof Eyeliner,$12.00,4.2857,5246.0,1318.5,0.502206,smudge,0.203981306792905
+867,Eyeliner,SEPHORA COLLECTION,Retractable Waterproof Eyeliner,$12.00,4.2857,5246.0,1318.5,0.502206,eyeliner,0.8249020457792408
+868,Eyeliner,SEPHORA COLLECTION,Retractable Waterproof Eyeliner,$12.00,4.2857,5246.0,1318.5,0.502206,waterproof,0.23968872170387903
+869,Eyeliner,SEPHORA COLLECTION,Retractable Waterproof Eyeliner,$12.00,4.2857,5246.0,1318.5,0.502206,liner,0.3591937305230524
+870,Eyeliner,Benefit Cosmetics,They’re Real! Push-Up Liner,$12.0,2.7092,4331.0,1089.25,0.647365,clumpy,0.10813851038692074
+871,Eyeliner,Benefit Cosmetics,They’re Real! Push-Up Liner,$12.0,2.7092,4331.0,1089.25,0.647365,applicator,0.20061251984274428
+872,Eyeliner,Benefit Cosmetics,They’re Real! Push-Up Liner,$12.0,2.7092,4331.0,1089.25,0.647365,twist,0.19388323327136014
+873,Eyeliner,Benefit Cosmetics,They’re Real! Push-Up Liner,$12.0,2.7092,4331.0,1089.25,0.647365,eyeliner,0.7489216278367298
+874,Eyeliner,Benefit Cosmetics,They’re Real! Push-Up Liner,$12.0,2.7092,4331.0,1089.25,0.647365,liner,0.5046242782632996
+875,Eye Brushes,Kat Von D,Lock-It Edge Concealer Brush,$24.00,4.6057,1266.0,329.5,0.642004,dense,0.15826840632501987
+876,Eye Brushes,Kat Von D,Lock-It Edge Concealer Brush,$24.00,4.6057,1266.0,329.5,0.642004,brushes,0.3241801021196763
+877,Eye Brushes,Kat Von D,Lock-It Edge Concealer Brush,$24.00,4.6057,1266.0,329.5,0.642004,blending,0.2895971995472302
+878,Eye Brushes,Kat Von D,Lock-It Edge Concealer Brush,$24.00,4.6057,1266.0,329.5,0.642004,lock,0.31606679150353717
+879,Eye Brushes,Kat Von D,Lock-It Edge Concealer Brush,$24.00,4.6057,1266.0,329.5,0.642004,bristles,0.675617113266062
+880,Eye Brushes,Anastasia Beverly Hills,Brush #12,$18.00,4.7469,892.0,233.0,0.564913,anastasia,0.25002864311715195
+881,Eye Brushes,Anastasia Beverly Hills,Brush #12,$18.00,4.7469,892.0,233.0,0.564913,bristles,0.23910978511704348
+882,Eye Brushes,Anastasia Beverly Hills,Brush #12,$18.00,4.7469,892.0,233.0,0.564913,eyebrow,0.2343730532808126
+883,Eye Brushes,Anastasia Beverly Hills,Brush #12,$18.00,4.7469,892.0,233.0,0.564913,brow,0.6324985805495006
+884,Eye Brushes,Anastasia Beverly Hills,Brush #12,$18.00,4.7469,892.0,233.0,0.564913,brows,0.45102718324748453
+885,Eye Brushes,Anastasia Beverly Hills,Brush #7B,$18.00,4.5366,464.0,126.0,0.486746,bristles,0.1896396059436462
+886,Eye Brushes,Anastasia Beverly Hills,Brush #7B,$18.00,4.5366,464.0,126.0,0.486746,eyebrow,0.24449458777547636
+887,Eye Brushes,Anastasia Beverly Hills,Brush #7B,$18.00,4.5366,464.0,126.0,0.486746,brow,0.6249927903436139
+888,Eye Brushes,Anastasia Beverly Hills,Brush #7B,$18.00,4.5366,464.0,126.0,0.486746,brows,0.4851266163380945
+889,Eye Brushes,Anastasia Beverly Hills,Brush #7B,$18.00,4.5366,464.0,126.0,0.486746,anastasia,0.33720482255792744
+890,Eye Brushes,Bobbi Brown,Ultra Fine Eye Liner Brush,$29.00,4.5886,334.0,99.0,0.517705,bristles,0.21272511533597943
+891,Eye Brushes,Bobbi Brown,Ultra Fine Eye Liner Brush,$29.00,4.5886,334.0,99.0,0.517705,precise,0.16302735247971728
+892,Eye Brushes,Bobbi Brown,Ultra Fine Eye Liner Brush,$29.00,4.5886,334.0,99.0,0.517705,eyeliner,0.7567020125960942
+893,Eye Brushes,Bobbi Brown,Ultra Fine Eye Liner Brush,$29.00,4.5886,334.0,99.0,0.517705,bobbi,0.2715710837590477
+894,Eye Brushes,Bobbi Brown,Ultra Fine Eye Liner Brush,$29.00,4.5886,334.0,99.0,0.517705,liner,0.4773534711889616
+895,Eye Brushes,SEPHORA COLLECTION,Smoke Machine Smokey Eye Brush Set,$39.00,4.4858,247.0,82.25,0.477408,mascara,0.31746394709062625
+896,Eye Brushes,SEPHORA COLLECTION,Smoke Machine Smokey Eye Brush Set,$39.00,4.4858,247.0,82.25,0.477408,brushes,0.9041313406792524
+897,Eye Brushes,SEPHORA COLLECTION,Smoke Machine Smokey Eye Brush Set,$39.00,4.4858,247.0,82.25,0.477408,shadow,0.1212831728435903
+898,Eye Brushes,SEPHORA COLLECTION,Smoke Machine Smokey Eye Brush Set,$39.00,4.4858,247.0,82.25,0.477408,eyeshadow,0.0884418538648088
+899,Eye Brushes,SEPHORA COLLECTION,Smoke Machine Smokey Eye Brush Set,$39.00,4.4858,247.0,82.25,0.477408,bristles,0.09977005890253116
+900,Hand Cream & Foot Cream,L’Occitane,Hand Creams,$12.0,4.545,1551.0,394.75,0.540771,butter,0.5939183855002916
+901,Hand Cream & Foot Cream,L’Occitane,Hand Creams,$12.0,4.545,1551.0,394.75,0.540771,purse,0.26720635989164493
+902,Hand Cream & Foot Cream,L’Occitane,Hand Creams,$12.0,4.545,1551.0,394.75,0.540771,lavender,0.32733073804519425
+903,Hand Cream & Foot Cream,L’Occitane,Hand Creams,$12.0,4.545,1551.0,394.75,0.540771,almond,0.34839288465242635
+904,Hand Cream & Foot Cream,L’Occitane,Hand Creams,$12.0,4.545,1551.0,394.75,0.540771,absorbs,0.24492676979341563
+905,Hand Cream & Foot Cream,Jack Black,Industrial Strength Hand Healer,$15.0,4.6701,394.0,107.0,0.566543,men,0.46515840249366763
+906,Hand Cream & Foot Cream,Jack Black,Industrial Strength Hand Healer,$15.0,4.6701,394.0,107.0,0.566543,cuticles,0.2756379036019097
+907,Hand Cream & Foot Cream,Jack Black,Industrial Strength Hand Healer,$15.0,4.6701,394.0,107.0,0.566543,cracked,0.3393008855222028
+908,Hand Cream & Foot Cream,Jack Black,Industrial Strength Hand Healer,$15.0,4.6701,394.0,107.0,0.566543,cracking,0.25631663902776114
+909,Hand Cream & Foot Cream,Jack Black,Industrial Strength Hand Healer,$15.0,4.6701,394.0,107.0,0.566543,lotions,0.24954032632322082
+910,Hand Cream & Foot Cream,L’Occitane,Shea Butter Foot Cream,$28.00,4.6791,297.0,89.25,0.584613,cracked,0.05626013359179668
+911,Hand Cream & Foot Cream,L’Occitane,Shea Butter Foot Cream,$28.00,4.6791,297.0,89.25,0.584613,foot,0.6034163802471295
+912,Hand Cream & Foot Cream,L’Occitane,Shea Butter Foot Cream,$28.00,4.6791,297.0,89.25,0.584613,feet,0.7556863704509894
+913,Hand Cream & Foot Cream,L’Occitane,Shea Butter Foot Cream,$28.00,4.6791,297.0,89.25,0.584613,lavender,0.09602640427658495
+914,Hand Cream & Foot Cream,L’Occitane,Shea Butter Foot Cream,$28.00,4.6791,297.0,89.25,0.584613,heels,0.1868036754001894
+915,Hand Cream & Foot Cream,Clarins,Hand and Nail Treatment Cream,$30.00,4.5286,211.0,68.75,0.5200060000000001,lotions,0.09133553780126455
+916,Hand Cream & Foot Cream,Clarins,Hand and Nail Treatment Cream,$30.00,4.5286,211.0,68.75,0.5200060000000001,cuticles,0.407937004348489
+917,Hand Cream & Foot Cream,Clarins,Hand and Nail Treatment Cream,$30.00,4.5286,211.0,68.75,0.5200060000000001,nails,0.8074820115316016
+918,Hand Cream & Foot Cream,Clarins,Hand and Nail Treatment Cream,$30.00,4.5286,211.0,68.75,0.5200060000000001,nail,0.18600445142231148
+919,Hand Cream & Foot Cream,Clarins,Hand and Nail Treatment Cream,$30.00,4.5286,211.0,68.75,0.5200060000000001,absorbs,0.18688622663183338
+920,Hand Cream & Foot Cream,Clarisonic,Pedi SMART Transformation Set,$115.00,3.4,5.0,59.5,0.49967,charge,0.2919901601960031
+921,Hand Cream & Foot Cream,Clarisonic,Pedi SMART Transformation Set,$115.00,3.4,5.0,59.5,0.49967,foot,0.2723798049679175
+922,Hand Cream & Foot Cream,Clarisonic,Pedi SMART Transformation Set,$115.00,3.4,5.0,59.5,0.49967,feet,0.6738200349090475
+923,Hand Cream & Foot Cream,Clarisonic,Pedi SMART Transformation Set,$115.00,3.4,5.0,59.5,0.49967,metal,0.268048862978516
+924,Hand Cream & Foot Cream,Clarisonic,Pedi SMART Transformation Set,$115.00,3.4,5.0,59.5,0.49967,tools,0.23906837434782943
+925,Blemish & Acne Treatments,GLAMGLOW,SUPERMUD® Clearing Treatment,$69.00,4.2119,3501.0,910.75,0.48429399999999995,clearing,0.15434283373306704
+926,Blemish & Acne Treatments,GLAMGLOW,SUPERMUD® Clearing Treatment,$69.00,4.2119,3501.0,910.75,0.48429399999999995,masks,0.34969148954567353
+927,Blemish & Acne Treatments,GLAMGLOW,SUPERMUD® Clearing Treatment,$69.00,4.2119,3501.0,910.75,0.48429399999999995,mud,0.24253280814674907
+928,Blemish & Acne Treatments,GLAMGLOW,SUPERMUD® Clearing Treatment,$69.00,4.2119,3501.0,910.75,0.48429399999999995,blackheads,0.459032739100271
+929,Blemish & Acne Treatments,GLAMGLOW,SUPERMUD® Clearing Treatment,$69.00,4.2119,3501.0,910.75,0.48429399999999995,jar,0.17929606123003233
+930,Blemish & Acne Treatments,Kate Somerville,EradiKate™ Acne Treatment,$26.00,4.2958,2129.0,546.25,0.486519,pimples,0.5189465668901314
+931,Blemish & Acne Treatments,Kate Somerville,EradiKate™ Acne Treatment,$26.00,4.2958,2129.0,546.25,0.486519,overnight,0.21242445361716294
+932,Blemish & Acne Treatments,Kate Somerville,EradiKate™ Acne Treatment,$26.00,4.2958,2129.0,546.25,0.486519,blemishes,0.21881396192436817
+933,Blemish & Acne Treatments,Kate Somerville,EradiKate™ Acne Treatment,$26.00,4.2958,2129.0,546.25,0.486519,pimple,0.4641053423385287
+934,Blemish & Acne Treatments,Kate Somerville,EradiKate™ Acne Treatment,$26.00,4.2958,2129.0,546.25,0.486519,cystic,0.2548334153793726
+935,Blemish & Acne Treatments,Murad,Oil-Control Mattifier SPF 15 PA++,$40.00,4.1738,1764.0,462.0,0.504233,glue,0.3540000575783312
+936,Blemish & Acne Treatments,Murad,Oil-Control Mattifier SPF 15 PA++,$40.00,4.1738,1764.0,462.0,0.504233,murad,0.46817673075898925
+937,Blemish & Acne Treatments,Murad,Oil-Control Mattifier SPF 15 PA++,$40.00,4.1738,1764.0,462.0,0.504233,spf,0.39473548347510773
+938,Blemish & Acne Treatments,Murad,Oil-Control Mattifier SPF 15 PA++,$40.00,4.1738,1764.0,462.0,0.504233,zone,0.28307725219155216
+939,Blemish & Acne Treatments,Murad,Oil-Control Mattifier SPF 15 PA++,$40.00,4.1738,1764.0,462.0,0.504233,mattifying,0.3327762974878208
+940,Blemish & Acne Treatments,Murad,Clarifying Cleanser,$30.00,4.2884,1753.0,454.25,0.407652,cleansers,0.13221998984580713
+941,Blemish & Acne Treatments,Murad,Clarifying Cleanser,$30.00,4.2884,1753.0,454.25,0.407652,cleared,0.15339767899928045
+942,Blemish & Acne Treatments,Murad,Clarifying Cleanser,$30.00,4.2884,1753.0,454.25,0.407652,murad,0.3499841576422753
+943,Blemish & Acne Treatments,Murad,Clarifying Cleanser,$30.00,4.2884,1753.0,454.25,0.407652,clarisonic,0.10940595149244282
+944,Blemish & Acne Treatments,Murad,Clarifying Cleanser,$30.00,4.2884,1753.0,454.25,0.407652,cleanser,0.855260290835544
+945,Blemish & Acne Treatments,Clarisonic,Mia 2™ Skin Cleansing System,$169.00,4.6873,1228.0,392.5,0.441805,cleansing,0.10048411884005028
+946,Blemish & Acne Treatments,Clarisonic,Mia 2™ Skin Cleansing System,$169.00,4.6873,1228.0,392.5,0.441805,mia,0.4584882595655765
+947,Blemish & Acne Treatments,Clarisonic,Mia 2™ Skin Cleansing System,$169.00,4.6873,1228.0,392.5,0.441805,clarisonic,0.7651765097837973
+948,Blemish & Acne Treatments,Clarisonic,Mia 2™ Skin Cleansing System,$169.00,4.6873,1228.0,392.5,0.441805,cleanser,0.21753111814853238
+949,Blemish & Acne Treatments,Clarisonic,Mia 2™ Skin Cleansing System,$169.00,4.6873,1228.0,392.5,0.441805,blackheads,0.11130577832155802
+950,Night Creams,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.557369,korres,0.2788354258156361
+951,Night Creams,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.557369,brighter,0.18853037796715302
+952,Night Creams,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.557369,rose,0.6693093061092842
+953,Night Creams,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.557369,roses,0.2508739675565781
+954,Night Creams,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,$48.00,4.2492,1483.0,395.75,0.557369,sleeping,0.20561821369066813
+955,Night Creams,GLAMGLOW,THIRSTYMUD™ Hydrating Treatment,$22.0,4.2657,1382.0,357.5,0.501448,masks,0.27368894229799673
+956,Night Creams,GLAMGLOW,THIRSTYMUD™ Hydrating Treatment,$22.0,4.2657,1382.0,357.5,0.501448,hydration,0.288668029106983
+957,Night Creams,GLAMGLOW,THIRSTYMUD™ Hydrating Treatment,$22.0,4.2657,1382.0,357.5,0.501448,coconut,0.23481707219281864
+958,Night Creams,GLAMGLOW,THIRSTYMUD™ Hydrating Treatment,$22.0,4.2657,1382.0,357.5,0.501448,overnight,0.528877428785748
+959,Night Creams,GLAMGLOW,THIRSTYMUD™ Hydrating Treatment,$22.0,4.2657,1382.0,357.5,0.501448,jar,0.2315404545389373
+960,Night Creams,Ole Henriksen,Invigorating Night Transformation™ Gel,$48.00,4.3079,1066.0,291.5,0.534205,ole,0.5239318562570657
+961,Night Creams,Ole Henriksen,Invigorating Night Transformation™ Gel,$48.00,4.3079,1066.0,291.5,0.534205,scars,0.2547786343363125
+962,Night Creams,Ole Henriksen,Invigorating Night Transformation™ Gel,$48.00,4.3079,1066.0,291.5,0.534205,henriksen,0.2620794402367985
+963,Night Creams,Ole Henriksen,Invigorating Night Transformation™ Gel,$48.00,4.3079,1066.0,291.5,0.534205,transformation,0.27046562610493763
+964,Night Creams,Ole Henriksen,Invigorating Night Transformation™ Gel,$48.00,4.3079,1066.0,291.5,0.534205,sheer,0.19953498182382798
+965,Night Creams,SUNDAY RILEY,Luna Sleeping Night Oil,$55.0,4.0959,994.0,277.0,0.632568,sunday,0.3464129508879381
+966,Night Creams,SUNDAY RILEY,Luna Sleeping Night Oil,$55.0,4.0959,994.0,277.0,0.632568,redness,0.2011205445711037
+967,Night Creams,SUNDAY RILEY,Luna Sleeping Night Oil,$55.0,4.0959,994.0,277.0,0.632568,riley,0.4461253926636893
+968,Night Creams,SUNDAY RILEY,Luna Sleeping Night Oil,$55.0,4.0959,994.0,277.0,0.632568,retinol,0.37165905284068906
+969,Night Creams,SUNDAY RILEY,Luna Sleeping Night Oil,$55.0,4.0959,994.0,277.0,0.632568,blue,0.31252368050603463
+970,Night Creams,Origins,High Potency Night-A-Mins™ Mineral-Enriched Renewal Cream,$43.0,4.3608,972.0,265.5,0.471128,orange,0.2222407915312149
+971,Night Creams,Origins,High Potency Night-A-Mins™ Mineral-Enriched Renewal Cream,$43.0,4.3608,972.0,265.5,0.471128,origins,0.4908807550207538
+972,Night Creams,Origins,High Potency Night-A-Mins™ Mineral-Enriched Renewal Cream,$43.0,4.3608,972.0,265.5,0.471128,absorbs,0.2703050537908487
+973,Night Creams,Origins,High Potency Night-A-Mins™ Mineral-Enriched Renewal Cream,$43.0,4.3608,972.0,265.5,0.471128,mins,0.17221763837886653
+974,Night Creams,Origins,High Potency Night-A-Mins™ Mineral-Enriched Renewal Cream,$43.0,4.3608,972.0,265.5,0.471128,citrus,0.2693772716018685
+975,Highlighter,Yves Saint Laurent,TOUCHE ÉCLAT - Radiant Touch,$42.00,4.3483,3710.0,949.5,0.537687,highlight,0.21392240847462113
+976,Highlighter,Yves Saint Laurent,TOUCHE ÉCLAT - Radiant Touch,$42.00,4.3483,3710.0,949.5,0.537687,concealers,0.23327939530282382
+977,Highlighter,Yves Saint Laurent,TOUCHE ÉCLAT - Radiant Touch,$42.00,4.3483,3710.0,949.5,0.537687,highlighter,0.373819517829377
+978,Highlighter,Yves Saint Laurent,TOUCHE ÉCLAT - Radiant Touch,$42.00,4.3483,3710.0,949.5,0.537687,circles,0.46815932448655423
+979,Highlighter,Yves Saint Laurent,TOUCHE ÉCLAT - Radiant Touch,$42.00,4.3483,3710.0,949.5,0.537687,highlighting,0.2633618955995323
+980,Highlighter,bareMinerals,bareMinerals All-Over Face Color,$21.00,4.5853,3278.0,831.0,0.444058,radiance,0.3221125098637702
+981,Highlighter,bareMinerals,bareMinerals All-Over Face Color,$21.00,4.5853,3278.0,831.0,0.444058,warmth,0.5095133443637702
+982,Highlighter,bareMinerals,bareMinerals All-Over Face Color,$21.00,4.5853,3278.0,831.0,0.444058,bare,0.2724317556766789
+983,Highlighter,bareMinerals,bareMinerals All-Over Face Color,$21.00,4.5853,3278.0,831.0,0.444058,blush,0.33991035795120905
+984,Highlighter,bareMinerals,bareMinerals All-Over Face Color,$21.00,4.5853,3278.0,831.0,0.444058,bronzer,0.3673482553487503
+985,Highlighter,BECCA,Shimmering Skin Perfector® Pressed Highlighter,$38.00,4.6242,2798.0,719.5,0.39466100000000004,highlight,0.3381867857821558
+986,Highlighter,BECCA,Shimmering Skin Perfector® Pressed Highlighter,$38.00,4.6242,2798.0,719.5,0.39466100000000004,shade,0.13098783956351104
+987,Highlighter,BECCA,Shimmering Skin Perfector® Pressed Highlighter,$38.00,4.6242,2798.0,719.5,0.39466100000000004,becca,0.27812115330139037
+988,Highlighter,BECCA,Shimmering Skin Perfector® Pressed Highlighter,$38.00,4.6242,2798.0,719.5,0.39466100000000004,highlighter,0.8265659756054126
+989,Highlighter,BECCA,Shimmering Skin Perfector® Pressed Highlighter,$38.00,4.6242,2798.0,719.5,0.39466100000000004,pigmented,0.11008659484684112
+990,Highlighter,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.437328,nars,0.27807324124393945
+991,Highlighter,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.437328,blush,0.7295992043393669
+992,Highlighter,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.437328,shade,0.20079709028517254
+993,Highlighter,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.437328,lips,0.26457176728439763
+994,Highlighter,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.437328,highlighter,0.24366918830515705
+995,Highlighter,Benefit Cosmetics,High Beam Liquid Face Highlighter,$26.00,4.3775,2488.0,636.0,0.550395,highlight,0.303906386678504
+996,Highlighter,Benefit Cosmetics,High Beam Liquid Face Highlighter,$26.00,4.3775,2488.0,636.0,0.550395,cheekbones,0.2529227730202417
+997,Highlighter,Benefit Cosmetics,High Beam Liquid Face Highlighter,$26.00,4.3775,2488.0,636.0,0.550395,highlighter,0.7418256135263042
+998,Highlighter,Benefit Cosmetics,High Beam Liquid Face Highlighter,$26.00,4.3775,2488.0,636.0,0.550395,shimmer,0.2123334398587871
+999,Highlighter,Benefit Cosmetics,High Beam Liquid Face Highlighter,$26.00,4.3775,2488.0,636.0,0.550395,polish,0.1623951953105562
+1000,Concealer,NARS,Radiant Creamy Concealer,$13.0,4.3249,7075.0,1776.25,0.513095,covers,0.2803168634283825
+1001,Concealer,NARS,Radiant Creamy Concealer,$13.0,4.3249,7075.0,1776.25,0.513095,concealers,0.391462312864632
+1002,Concealer,NARS,Radiant Creamy Concealer,$13.0,4.3249,7075.0,1776.25,0.513095,cakey,0.24202248865983764
+1003,Concealer,NARS,Radiant Creamy Concealer,$13.0,4.3249,7075.0,1776.25,0.513095,crease,0.29576196509286923
+1004,Concealer,NARS,Radiant Creamy Concealer,$13.0,4.3249,7075.0,1776.25,0.513095,circles,0.4587628968834794
+1005,Concealer,Benefit Cosmetics,Erase Paste Brightening Concealer,$26.00,4.1416,4707.0,1190.75,0.49823,covers,0.14590974149547162
+1006,Concealer,Benefit Cosmetics,Erase Paste Brightening Concealer,$26.00,4.1416,4707.0,1190.75,0.49823,erase,0.2359812036170296
+1007,Concealer,Benefit Cosmetics,Erase Paste Brightening Concealer,$26.00,4.1416,4707.0,1190.75,0.49823,creases,0.17033065996533875
+1008,Concealer,Benefit Cosmetics,Erase Paste Brightening Concealer,$26.00,4.1416,4707.0,1190.75,0.49823,circles,0.7919720270343429
+1009,Concealer,Benefit Cosmetics,Erase Paste Brightening Concealer,$26.00,4.1416,4707.0,1190.75,0.49823,paste,0.27561658761151214
+1010,Concealer,Benefit Cosmetics,Boi-ing Industrial-Strength Full Coverage Concealer,$20.00,4.192,4573.0,1154.25,0.38217399999999996,covers,0.28432568612071524
+1011,Concealer,Benefit Cosmetics,Boi-ing Industrial-Strength Full Coverage Concealer,$20.00,4.192,4573.0,1154.25,0.38217399999999996,concealers,0.28113955333193735
+1012,Concealer,Benefit Cosmetics,Boi-ing Industrial-Strength Full Coverage Concealer,$20.00,4.192,4573.0,1154.25,0.38217399999999996,blemishes,0.3231860909133557
+1013,Concealer,Benefit Cosmetics,Boi-ing Industrial-Strength Full Coverage Concealer,$20.00,4.192,4573.0,1154.25,0.38217399999999996,cakey,0.19492571729814173
+1014,Concealer,Benefit Cosmetics,Boi-ing Industrial-Strength Full Coverage Concealer,$20.00,4.192,4573.0,1154.25,0.38217399999999996,circles,0.6196402111222589
+1015,Concealer,MAKE UP FOR EVER,Full Cover Concealer,$34.00,4.3525,4413.0,1121.25,0.5265380000000001,covers,0.4179705451469272
+1016,Concealer,MAKE UP FOR EVER,Full Cover Concealer,$34.00,4.3525,4413.0,1121.25,0.5265380000000001,concealers,0.25917201210100804
+1017,Concealer,MAKE UP FOR EVER,Full Cover Concealer,$34.00,4.3525,4413.0,1121.25,0.5265380000000001,blemishes,0.28187570306081877
+1018,Concealer,MAKE UP FOR EVER,Full Cover Concealer,$34.00,4.3525,4413.0,1121.25,0.5265380000000001,shade,0.2317248526889525
+1019,Concealer,MAKE UP FOR EVER,Full Cover Concealer,$34.00,4.3525,4413.0,1121.25,0.5265380000000001,circles,0.47728861418451063
+1020,Concealer,bareMinerals,bareMinerals Broad Spectrum Multi-Tasking Face,$20.00,4.5066,4101.0,1036.25,0.535772,rested,0.5527993956771713
+1021,Concealer,bareMinerals,bareMinerals Broad Spectrum Multi-Tasking Face,$20.00,4.5066,4101.0,1036.25,0.535772,covers,0.26874648300953213
+1022,Concealer,bareMinerals,bareMinerals Broad Spectrum Multi-Tasking Face,$20.00,4.5066,4101.0,1036.25,0.535772,bareminerals,0.24210865709935828
+1023,Concealer,bareMinerals,bareMinerals Broad Spectrum Multi-Tasking Face,$20.00,4.5066,4101.0,1036.25,0.535772,circles,0.40841075252750475
+1024,Concealer,bareMinerals,bareMinerals Broad Spectrum Multi-Tasking Face,$20.00,4.5066,4101.0,1036.25,0.535772,minerals,0.21974736666818642
+1025,Sheet Masks,SEPHORA COLLECTION,Face Mask,$6.00,3.9768,1379.0,348.5,0.5008239999999999,masks,0.7131170170551219
+1026,Sheet Masks,SEPHORA COLLECTION,Face Mask,$6.00,3.9768,1379.0,348.5,0.5008239999999999,honey,0.2133409709277101
+1027,Sheet Masks,SEPHORA COLLECTION,Face Mask,$6.00,3.9768,1379.0,348.5,0.5008239999999999,rose,0.327520588060786
+1028,Sheet Masks,SEPHORA COLLECTION,Face Mask,$6.00,3.9768,1379.0,348.5,0.5008239999999999,green,0.18459771100325556
+1029,Sheet Masks,SEPHORA COLLECTION,Face Mask,$6.00,3.9768,1379.0,348.5,0.5008239999999999,sheet,0.4272709902446566
+1030,Sheet Masks,SEPHORA COLLECTION,Face Mask,$6.00,4.2158,552.0,142.0,0.441229,masks,0.6964809632464785
+1031,Sheet Masks,SEPHORA COLLECTION,Face Mask,$6.00,4.2158,552.0,142.0,0.441229,tea,0.23549573103086574
+1032,Sheet Masks,SEPHORA COLLECTION,Face Mask,$6.00,4.2158,552.0,142.0,0.441229,rose,0.22703742969166618
+1033,Sheet Masks,SEPHORA COLLECTION,Face Mask,$6.00,4.2158,552.0,142.0,0.441229,green,0.2497134777820747
+1034,Sheet Masks,SEPHORA COLLECTION,Face Mask,$6.00,4.2158,552.0,142.0,0.441229,sheet,0.5038872725582398
+1035,Sheet Masks,boscia,Charcoal Pore-Minimizing Hydrogel Mask,$8.00,2.7518,420.0,109.5,0.550457,masks,0.39578308504972143
+1036,Sheet Masks,boscia,Charcoal Pore-Minimizing Hydrogel Mask,$8.00,2.7518,420.0,109.5,0.550457,slippery,0.2596098585167465
+1037,Sheet Masks,boscia,Charcoal Pore-Minimizing Hydrogel Mask,$8.00,2.7518,420.0,109.5,0.550457,boscia,0.26982461339775493
+1038,Sheet Masks,boscia,Charcoal Pore-Minimizing Hydrogel Mask,$8.00,2.7518,420.0,109.5,0.550457,slimy,0.5287990259841716
+1039,Sheet Masks,boscia,Charcoal Pore-Minimizing Hydrogel Mask,$8.00,2.7518,420.0,109.5,0.550457,sheet,0.31649646663229725
+1040,Sheet Masks,SEPHORA COLLECTION,Eye Mask,$5.00,3.9856,351.0,91.0,0.544325,masks,0.5669255608529662
+1041,Sheet Masks,SEPHORA COLLECTION,Eye Mask,$5.00,3.9856,351.0,91.0,0.544325,rose,0.32560920858729503
+1042,Sheet Masks,SEPHORA COLLECTION,Eye Mask,$5.00,3.9856,351.0,91.0,0.544325,green,0.20990897260949232
+1043,Sheet Masks,SEPHORA COLLECTION,Eye Mask,$5.00,3.9856,351.0,91.0,0.544325,circles,0.30609891584029525
+1044,Sheet Masks,SEPHORA COLLECTION,Eye Mask,$5.00,3.9856,351.0,91.0,0.544325,cooling,0.21594269814100397
+1045,Sheet Masks,SK-II,Brightening Derm Revival Mask,$170.00,4.4,10.0,88.5,0.395154,masks,0.5967535142763951
+1046,Sheet Masks,SK-II,Brightening Derm Revival Mask,$170.00,4.4,10.0,88.5,0.395154,bumps,0.1722642073684019
+1047,Sheet Masks,SK-II,Brightening Derm Revival Mask,$170.00,4.4,10.0,88.5,0.395154,tightens,0.15569411994385096
+1048,Sheet Masks,SK-II,Brightening Derm Revival Mask,$170.00,4.4,10.0,88.5,0.395154,essence,0.15417542734997813
+1049,Sheet Masks,SK-II,Brightening Derm Revival Mask,$170.00,4.4,10.0,88.5,0.395154,makeupi,0.15887932926690349
+1050,Bronzer,NARS,Bronzing Powder,$40.00,4.7045,3234.0,829.5,0.412743,orange,0.12712690561227913
+1051,Bronzer,NARS,Bronzing Powder,$40.00,4.7045,3234.0,829.5,0.412743,nars,0.15619672955590094
+1052,Bronzer,NARS,Bronzing Powder,$40.00,4.7045,3234.0,829.5,0.412743,contour,0.12059235964609863
+1053,Bronzer,NARS,Bronzing Powder,$40.00,4.7045,3234.0,829.5,0.412743,shimmer,0.1954986208101795
+1054,Bronzer,NARS,Bronzing Powder,$40.00,4.7045,3234.0,829.5,0.412743,bronzer,0.9107732529553921
+1055,Bronzer,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.471922,nars,0.27807324124393945
+1056,Bronzer,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.471922,blush,0.7295992043393669
+1057,Bronzer,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.471922,shade,0.20079709028517254
+1058,Bronzer,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.471922,lips,0.26457176728439763
+1059,Bronzer,NARS,The Multiple,$39.00,4.3558,2509.0,647.75,0.471922,highlighter,0.24366918830515705
+1060,Bronzer,Too Faced,Soleil Matte Bronzer,$30.00,4.6644,2514.0,644.5,0.437328,milk,0.153103218719948
+1061,Bronzer,Too Faced,Soleil Matte Bronzer,$30.00,4.6644,2514.0,644.5,0.437328,chocolate,0.5448797490907463
+1062,Bronzer,Too Faced,Soleil Matte Bronzer,$30.00,4.6644,2514.0,644.5,0.437328,shade,0.12224914155419958
+1063,Bronzer,Too Faced,Soleil Matte Bronzer,$30.00,4.6644,2514.0,644.5,0.437328,contouring,0.12252783379466352
+1064,Bronzer,Too Faced,Soleil Matte Bronzer,$30.00,4.6644,2514.0,644.5,0.437328,bronzer,0.7680149528368979
+1065,Bronzer,NARS,Blush/Bronzer Duo,$24.0,4.4972,2472.0,631.0,0.36534099999999997,duo,0.25142797271221556
+1066,Bronzer,NARS,Blush/Bronzer Duo,$24.0,4.4972,2472.0,631.0,0.36534099999999997,nars,0.17711330076854023
+1067,Bronzer,NARS,Blush/Bronzer Duo,$24.0,4.4972,2472.0,631.0,0.36534099999999997,blush,0.5980706373755633
+1068,Bronzer,NARS,Blush/Bronzer Duo,$24.0,4.4972,2472.0,631.0,0.36534099999999997,bronzer,0.6962441000807232
+1069,Bronzer,NARS,Blush/Bronzer Duo,$24.0,4.4972,2472.0,631.0,0.36534099999999997,colors,0.11011975160219427
+1070,Bronzer,Benefit Cosmetics,Hoola Matte Bronzer,$15.0,4.5612,1981.0,503.75,0.544859,orange,0.1334596165292045
+1071,Bronzer,Benefit Cosmetics,Hoola Matte Bronzer,$15.0,4.5612,1981.0,503.75,0.544859,bronze,0.10156408982482416
+1072,Bronzer,Benefit Cosmetics,Hoola Matte Bronzer,$15.0,4.5612,1981.0,503.75,0.544859,contour,0.2133436997821255
+1073,Bronzer,Benefit Cosmetics,Hoola Matte Bronzer,$15.0,4.5612,1981.0,503.75,0.544859,contouring,0.13119265484022186
+1074,Bronzer,Benefit Cosmetics,Hoola Matte Bronzer,$15.0,4.5612,1981.0,503.75,0.544859,bronzer,0.9248600209681362
+1075,Volume,Living Proof,Full Thickening Cream,$15.0,4.1272,2161.0,548.75,0.547516,proof,0.2052725855106592
+1076,Volume,Living Proof,Full Thickening Cream,$15.0,4.1272,2161.0,548.75,0.547516,volume,0.5998328191011904
+1077,Volume,Living Proof,Full Thickening Cream,$15.0,4.1272,2161.0,548.75,0.547516,blow,0.26161176299045724
+1078,Volume,Living Proof,Full Thickening Cream,$15.0,4.1272,2161.0,548.75,0.547516,limp,0.20649363031811796
+1079,Volume,Living Proof,Full Thickening Cream,$15.0,4.1272,2161.0,548.75,0.547516,living,0.19988420828171397
+1080,Volume,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493227,wavy,0.42381145222509825
+1081,Volume,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493227,waves,0.5470840686186736
+1082,Volume,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493227,wave,0.2250600584740967
+1083,Volume,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493227,beach,0.23915002015392187
+1084,Volume,Bumble and bumble,Surf Spray,$16.0,3.6327,2090.0,531.25,0.493227,beachy,0.22637961460083048
+1085,Volume,Drybar,Detox Dry Shampoo,$13.0,3.8006,1617.0,411.5,0.473592,volume,0.1476988579479646
+1086,Volume,Drybar,Detox Dry Shampoo,$13.0,3.8006,1617.0,411.5,0.473592,shampoos,0.3627592689225867
+1087,Volume,Drybar,Detox Dry Shampoo,$13.0,3.8006,1617.0,411.5,0.473592,scalp,0.11874407521096206
+1088,Volume,Drybar,Detox Dry Shampoo,$13.0,3.8006,1617.0,411.5,0.473592,shampoo,0.8629758884609668
+1089,Volume,Drybar,Detox Dry Shampoo,$13.0,3.8006,1617.0,411.5,0.473592,roots,0.1197349160346609
+1090,Volume,Rita Hazan,Root Concealer Touch-Up Spray Temporary Gray Coverage,$25.00,3.9255,1558.0,402.75,0.51891,root,0.36573729553570505
+1091,Volume,Rita Hazan,Root Concealer Touch-Up Spray Temporary Gray Coverage,$25.00,3.9255,1558.0,402.75,0.51891,gray,0.45143269872476033
+1092,Volume,Rita Hazan,Root Concealer Touch-Up Spray Temporary Gray Coverage,$25.00,3.9255,1558.0,402.75,0.51891,grey,0.19774670264809818
+1093,Volume,Rita Hazan,Root Concealer Touch-Up Spray Temporary Gray Coverage,$25.00,3.9255,1558.0,402.75,0.51891,roots,0.615300062327214
+1094,Volume,Rita Hazan,Root Concealer Touch-Up Spray Temporary Gray Coverage,$25.00,3.9255,1558.0,402.75,0.51891,covers,0.17604431857760852
+1095,Volume,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,curls,0.2388707217250967
+1096,Volume,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,frizz,0.2728605179029949
+1097,Volume,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,style,0.5400274227301453
+1098,Volume,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,blow,0.2522006071825579
+1099,Volume,Living Proof,Prime Style Extender™,$12.0,4.3771,1420.0,362.0,0.49175399999999997,styling,0.2584994380133636
+1100,Face Primer,Urban Decay,All Nighter Long-Lasting Makeup Setting Spray,$15.0,4.3977,5672.0,1426.5,0.541027,sprays,0.2387214116532971
+1101,Face Primer,Urban Decay,All Nighter Long-Lasting Makeup Setting Spray,$15.0,4.3977,5672.0,1426.5,0.541027,nighter,0.15570555917855985
+1102,Face Primer,Urban Decay,All Nighter Long-Lasting Makeup Setting Spray,$15.0,4.3977,5672.0,1426.5,0.541027,decay,0.1076856259823112
+1103,Face Primer,Urban Decay,All Nighter Long-Lasting Makeup Setting Spray,$15.0,4.3977,5672.0,1426.5,0.541027,urban,0.11186983414807622
+1104,Face Primer,Urban Decay,All Nighter Long-Lasting Makeup Setting Spray,$15.0,4.3977,5672.0,1426.5,0.541027,setting,0.8627253483171082
+1105,Face Primer,Smashbox,Iconic Photo Finish Foundation Primer,$10.0,4.3272,5479.0,1375.75,0.496539,primers,0.6888124713462034
+1106,Face Primer,Smashbox,Iconic Photo Finish Foundation Primer,$10.0,4.3272,5479.0,1375.75,0.496539,photo,0.144769084299452
+1107,Face Primer,Smashbox,Iconic Photo Finish Foundation Primer,$10.0,4.3272,5479.0,1375.75,0.496539,smashbox,0.34039891914681764
+1108,Face Primer,Smashbox,Iconic Photo Finish Foundation Primer,$10.0,4.3272,5479.0,1375.75,0.496539,silicone,0.17019945957340882
+1109,Face Primer,Smashbox,Iconic Photo Finish Foundation Primer,$10.0,4.3272,5479.0,1375.75,0.496539,zone,0.14575675380791553
+1110,Face Primer,Benefit Cosmetics,The POREfessional Face Primer,$12.0,4.0911,4885.0,1228.25,0.47725,primers,0.4754982291967586
+1111,Face Primer,Benefit Cosmetics,The POREfessional Face Primer,$12.0,4.0911,4885.0,1228.25,0.47725,pore,0.3516022197840255
+1112,Face Primer,Benefit Cosmetics,The POREfessional Face Primer,$12.0,4.0911,4885.0,1228.25,0.47725,zone,0.3029417434209888
+1113,Face Primer,Benefit Cosmetics,The POREfessional Face Primer,$12.0,4.0911,4885.0,1228.25,0.47725,minimizes,0.22941290170747752
+1114,Face Primer,Benefit Cosmetics,The POREfessional Face Primer,$12.0,4.0911,4885.0,1228.25,0.47725,minimizing,0.23501374341233192
+1115,Face Primer,Hourglass,Veil Mineral Primer,$19.0,4.343999999999999,4378.0,1105.0,0.49758900000000006,primers,0.6288598717857045
+1116,Face Primer,Hourglass,Veil Mineral Primer,$19.0,4.343999999999999,4378.0,1105.0,0.49758900000000006,hourglass,0.3463614694852057
+1117,Face Primer,Hourglass,Veil Mineral Primer,$19.0,4.343999999999999,4378.0,1105.0,0.49758900000000006,foundations,0.15670992362573252
+1118,Face Primer,Hourglass,Veil Mineral Primer,$19.0,4.343999999999999,4378.0,1105.0,0.49758900000000006,zone,0.17010868781463478
+1119,Face Primer,Hourglass,Veil Mineral Primer,$19.0,4.343999999999999,4378.0,1105.0,0.49758900000000006,pump,0.2240283665561821
+1120,Face Primer,bareMinerals,Prime Time™ Foundation Primer,$25.00,4.4021,3178.0,808.0,0.458701,primers,0.4511607700218157
+1121,Face Primer,bareMinerals,Prime Time™ Foundation Primer,$25.00,4.4021,3178.0,808.0,0.458701,bare,0.3107997505651984
+1122,Face Primer,bareMinerals,Prime Time™ Foundation Primer,$25.00,4.4021,3178.0,808.0,0.458701,pump,0.30708210143566894
+1123,Face Primer,bareMinerals,Prime Time™ Foundation Primer,$25.00,4.4021,3178.0,808.0,0.458701,bareminerals,0.46926590541500546
+1124,Face Primer,bareMinerals,Prime Time™ Foundation Primer,$25.00,4.4021,3178.0,808.0,0.458701,minerals,0.3630829629476565
+1125,Eye Palettes,Urban Decay,Naked Palette,$54.00,4.7768,7957.0,2017.25,0.44232299999999997,palette,0.8451775843927508
+1126,Eye Palettes,Urban Decay,Naked Palette,$54.00,4.7768,7957.0,2017.25,0.44232299999999997,naked,0.27766821753282045
+1127,Eye Palettes,Urban Decay,Naked Palette,$54.00,4.7768,7957.0,2017.25,0.44232299999999997,shades,0.14864758230279554
+1128,Eye Palettes,Urban Decay,Naked Palette,$54.00,4.7768,7957.0,2017.25,0.44232299999999997,shadows,0.15281919657918053
+1129,Eye Palettes,Urban Decay,Naked Palette,$54.00,4.7768,7957.0,2017.25,0.44232299999999997,colors,0.3047767933327786
+1130,Eye Palettes,Urban Decay,Naked2 Palette,$54.00,4.6603,6545.0,1664.25,0.398327,palette,0.8282707114670803
+1131,Eye Palettes,Urban Decay,Naked2 Palette,$54.00,4.6603,6545.0,1664.25,0.398327,pigmented,0.16882658125198238
+1132,Eye Palettes,Urban Decay,Naked2 Palette,$54.00,4.6603,6545.0,1664.25,0.398327,naked,0.2428159725483744
+1133,Eye Palettes,Urban Decay,Naked2 Palette,$54.00,4.6603,6545.0,1664.25,0.398327,shades,0.1929014797224765
+1134,Eye Palettes,Urban Decay,Naked2 Palette,$54.00,4.6603,6545.0,1664.25,0.398327,colors,0.29570782896610964
+1135,Eye Palettes,Urban Decay,Naked3 Palette,$54.00,4.4349,5476.0,1397.0,0.42284399999999994,palette,0.8190720583278384
+1136,Eye Palettes,Urban Decay,Naked3 Palette,$54.00,4.4349,5476.0,1397.0,0.42284399999999994,naked,0.21028902622202023
+1137,Eye Palettes,Urban Decay,Naked3 Palette,$54.00,4.4349,5476.0,1397.0,0.42284399999999994,shades,0.1970306587207585
+1138,Eye Palettes,Urban Decay,Naked3 Palette,$54.00,4.4349,5476.0,1397.0,0.42284399999999994,shadows,0.15912175883125637
+1139,Eye Palettes,Urban Decay,Naked3 Palette,$54.00,4.4349,5476.0,1397.0,0.42284399999999994,colors,0.32450355753846216
+1140,Eye Palettes,Too Faced,Natural Eye Neutral Eye Shadow Collection,$36.00,4.6597,4107.0,1045.75,0.412023,palette,0.8748126817845819
+1141,Eye Palettes,Too Faced,Natural Eye Neutral Eye Shadow Collection,$36.00,4.6597,4107.0,1045.75,0.412023,pigmented,0.1413563724427356
+1142,Eye Palettes,Too Faced,Natural Eye Neutral Eye Shadow Collection,$36.00,4.6597,4107.0,1045.75,0.412023,shades,0.15680786368332927
+1143,Eye Palettes,Too Faced,Natural Eye Neutral Eye Shadow Collection,$36.00,4.6597,4107.0,1045.75,0.412023,shadows,0.17054252751655463
+1144,Eye Palettes,Too Faced,Natural Eye Neutral Eye Shadow Collection,$36.00,4.6597,4107.0,1045.75,0.412023,colors,0.28810463757050225
+1145,Eye Palettes,Anastasia Beverly Hills,Modern Renaissance Eye Shadow Palette,$42.00,4.8266,4049.0,1034.25,0.264853,palette,0.8791469881270799
+1146,Eye Palettes,Anastasia Beverly Hills,Modern Renaissance Eye Shadow Palette,$42.00,4.8266,4049.0,1034.25,0.264853,pigmented,0.2296729503626065
+1147,Eye Palettes,Anastasia Beverly Hills,Modern Renaissance Eye Shadow Palette,$42.00,4.8266,4049.0,1034.25,0.264853,fallout,0.10901531050177815
+1148,Eye Palettes,Anastasia Beverly Hills,Modern Renaissance Eye Shadow Palette,$42.00,4.8266,4049.0,1034.25,0.264853,shadows,0.20050319961458607
+1149,Eye Palettes,Anastasia Beverly Hills,Modern Renaissance Eye Shadow Palette,$42.00,4.8266,4049.0,1034.25,0.264853,colors,0.2660992721212094
+1150,Setting Spray & Powder,Urban Decay,All Nighter Long-Lasting Makeup Setting Spray,$15.0,4.3979,5672.0,1426.5,0.541027,sprays,0.2387214116532971
+1151,Setting Spray & Powder,Urban Decay,All Nighter Long-Lasting Makeup Setting Spray,$15.0,4.3979,5672.0,1426.5,0.541027,nighter,0.15570555917855985
+1152,Setting Spray & Powder,Urban Decay,All Nighter Long-Lasting Makeup Setting Spray,$15.0,4.3979,5672.0,1426.5,0.541027,decay,0.1076856259823112
+1153,Setting Spray & Powder,Urban Decay,All Nighter Long-Lasting Makeup Setting Spray,$15.0,4.3979,5672.0,1426.5,0.541027,urban,0.11186983414807622
+1154,Setting Spray & Powder,Urban Decay,All Nighter Long-Lasting Makeup Setting Spray,$15.0,4.3979,5672.0,1426.5,0.541027,setting,0.8627253483171082
+1155,Setting Spray & Powder,bareMinerals,Mineral Veil,$22.00,4.5866,5486.0,1383.5,0.542991,illuminating,0.2297417851233969
+1156,Setting Spray & Powder,bareMinerals,Mineral Veil,$22.00,4.5866,5486.0,1383.5,0.542991,veil,0.6971407104518491
+1157,Setting Spray & Powder,bareMinerals,Mineral Veil,$22.00,4.5866,5486.0,1383.5,0.542991,bareminerals,0.15670466698095173
+1158,Setting Spray & Powder,bareMinerals,Mineral Veil,$22.00,4.5866,5486.0,1383.5,0.542991,mineral,0.4947150177273985
+1159,Setting Spray & Powder,bareMinerals,Mineral Veil,$22.00,4.5866,5486.0,1383.5,0.542991,setting,0.1495483671496278
+1160,Setting Spray & Powder,Laura Mercier,Translucent Loose Setting Powder,$23.0,4.4786,4223.0,1068.25,0.619062,bake,0.1967727092637708
+1161,Setting Spray & Powder,Laura Mercier,Translucent Loose Setting Powder,$23.0,4.4786,4223.0,1068.25,0.619062,powders,0.25920469576126837
+1162,Setting Spray & Powder,Laura Mercier,Translucent Loose Setting Powder,$23.0,4.4786,4223.0,1068.25,0.619062,baking,0.2316247024018716
+1163,Setting Spray & Powder,Laura Mercier,Translucent Loose Setting Powder,$23.0,4.4786,4223.0,1068.25,0.619062,setting,0.6840437847098711
+1164,Setting Spray & Powder,Laura Mercier,Translucent Loose Setting Powder,$23.0,4.4786,4223.0,1068.25,0.619062,translucent,0.3938418976933343
+1165,Setting Spray & Powder,bareMinerals,bareMinerals All-Over Face Color,$21.00,4.5853,3278.0,831.0,0.444058,radiance,0.3221125098637702
+1166,Setting Spray & Powder,bareMinerals,bareMinerals All-Over Face Color,$21.00,4.5853,3278.0,831.0,0.444058,warmth,0.5095133443637702
+1167,Setting Spray & Powder,bareMinerals,bareMinerals All-Over Face Color,$21.00,4.5853,3278.0,831.0,0.444058,bare,0.2724317556766789
+1168,Setting Spray & Powder,bareMinerals,bareMinerals All-Over Face Color,$21.00,4.5853,3278.0,831.0,0.444058,blush,0.33991035795120905
+1169,Setting Spray & Powder,bareMinerals,bareMinerals All-Over Face Color,$21.00,4.5853,3278.0,831.0,0.444058,bronzer,0.3673482553487503
+1170,Setting Spray & Powder,Urban Decay,De-Slick Oil-Control Makeup Setting Spray,$15.0,3.9326,3053.0,771.5,0.472762,sprays,0.2111775327585919
+1171,Setting Spray & Powder,Urban Decay,De-Slick Oil-Control Makeup Setting Spray,$15.0,3.9326,3053.0,771.5,0.472762,nighter,0.4328975191630856
+1172,Setting Spray & Powder,Urban Decay,De-Slick Oil-Control Makeup Setting Spray,$15.0,3.9326,3053.0,771.5,0.472762,blot,0.16998450933444686
+1173,Setting Spray & Powder,Urban Decay,De-Slick Oil-Control Makeup Setting Spray,$15.0,3.9326,3053.0,771.5,0.472762,zone,0.15872911461550554
+1174,Setting Spray & Powder,Urban Decay,De-Slick Oil-Control Makeup Setting Spray,$15.0,3.9326,3053.0,771.5,0.472762,setting,0.7477655203210093
+1175,Under-Eye Concealer,NARS,Radiant Creamy Concealer,$13.0,4.3237,7075.0,1776.25,0.5085609999999999,covers,0.2803168634283825
+1176,Under-Eye Concealer,NARS,Radiant Creamy Concealer,$13.0,4.3237,7075.0,1776.25,0.5085609999999999,concealers,0.391462312864632
+1177,Under-Eye Concealer,NARS,Radiant Creamy Concealer,$13.0,4.3237,7075.0,1776.25,0.5085609999999999,cakey,0.24202248865983764
+1178,Under-Eye Concealer,NARS,Radiant Creamy Concealer,$13.0,4.3237,7075.0,1776.25,0.5085609999999999,crease,0.29576196509286923
+1179,Under-Eye Concealer,NARS,Radiant Creamy Concealer,$13.0,4.3237,7075.0,1776.25,0.5085609999999999,circles,0.4587628968834794
+1180,Under-Eye Concealer,Benefit Cosmetics,Erase Paste Brightening Concealer,$26.00,4.1416,4707.0,1190.75,0.49823,covers,0.14590974149547162
+1181,Under-Eye Concealer,Benefit Cosmetics,Erase Paste Brightening Concealer,$26.00,4.1416,4707.0,1190.75,0.49823,erase,0.2359812036170296
+1182,Under-Eye Concealer,Benefit Cosmetics,Erase Paste Brightening Concealer,$26.00,4.1416,4707.0,1190.75,0.49823,creases,0.17033065996533875
+1183,Under-Eye Concealer,Benefit Cosmetics,Erase Paste Brightening Concealer,$26.00,4.1416,4707.0,1190.75,0.49823,circles,0.7919720270343429
+1184,Under-Eye Concealer,Benefit Cosmetics,Erase Paste Brightening Concealer,$26.00,4.1416,4707.0,1190.75,0.49823,paste,0.27561658761151214
+1185,Under-Eye Concealer,Benefit Cosmetics,Boi-ing Industrial-Strength Full Coverage Concealer,$20.00,4.192,4573.0,1154.25,0.38217399999999996,covers,0.28432568612071524
+1186,Under-Eye Concealer,Benefit Cosmetics,Boi-ing Industrial-Strength Full Coverage Concealer,$20.00,4.192,4573.0,1154.25,0.38217399999999996,concealers,0.28113955333193735
+1187,Under-Eye Concealer,Benefit Cosmetics,Boi-ing Industrial-Strength Full Coverage Concealer,$20.00,4.192,4573.0,1154.25,0.38217399999999996,blemishes,0.3231860909133557
+1188,Under-Eye Concealer,Benefit Cosmetics,Boi-ing Industrial-Strength Full Coverage Concealer,$20.00,4.192,4573.0,1154.25,0.38217399999999996,cakey,0.19492571729814173
+1189,Under-Eye Concealer,Benefit Cosmetics,Boi-ing Industrial-Strength Full Coverage Concealer,$20.00,4.192,4573.0,1154.25,0.38217399999999996,circles,0.6196402111222589
+1190,Under-Eye Concealer,MAKE UP FOR EVER,Full Cover Concealer,$34.00,4.3525,4413.0,1121.25,0.5265380000000001,covers,0.4179705451469272
+1191,Under-Eye Concealer,MAKE UP FOR EVER,Full Cover Concealer,$34.00,4.3525,4413.0,1121.25,0.5265380000000001,concealers,0.25917201210100804
+1192,Under-Eye Concealer,MAKE UP FOR EVER,Full Cover Concealer,$34.00,4.3525,4413.0,1121.25,0.5265380000000001,blemishes,0.28187570306081877
+1193,Under-Eye Concealer,MAKE UP FOR EVER,Full Cover Concealer,$34.00,4.3525,4413.0,1121.25,0.5265380000000001,shade,0.2317248526889525
+1194,Under-Eye Concealer,MAKE UP FOR EVER,Full Cover Concealer,$34.00,4.3525,4413.0,1121.25,0.5265380000000001,circles,0.47728861418451063
+1195,Under-Eye Concealer,bareMinerals,bareMinerals Broad Spectrum Multi-Tasking Face,$20.00,4.5066,4101.0,1036.25,0.535772,rested,0.5527993956771713
+1196,Under-Eye Concealer,bareMinerals,bareMinerals Broad Spectrum Multi-Tasking Face,$20.00,4.5066,4101.0,1036.25,0.535772,covers,0.26874648300953213
+1197,Under-Eye Concealer,bareMinerals,bareMinerals Broad Spectrum Multi-Tasking Face,$20.00,4.5066,4101.0,1036.25,0.535772,bareminerals,0.24210865709935828
+1198,Under-Eye Concealer,bareMinerals,bareMinerals Broad Spectrum Multi-Tasking Face,$20.00,4.5066,4101.0,1036.25,0.535772,circles,0.40841075252750475
+1199,Under-Eye Concealer,bareMinerals,bareMinerals Broad Spectrum Multi-Tasking Face,$20.00,4.5066,4101.0,1036.25,0.535772,minerals,0.21974736666818642
+1200,Body Lotions & Body Oils,Sol de Janeiro,Brazilian Bum Bum Cream,$20.0,4.2624,1109.0,288.25,0.571923,glitter,0.30345888662387216
+1201,Body Lotions & Body Oils,Sol de Janeiro,Brazilian Bum Bum Cream,$20.0,4.2624,1109.0,288.25,0.571923,firming,0.2819503602507284
+1202,Body Lotions & Body Oils,Sol de Janeiro,Brazilian Bum Bum Cream,$20.0,4.2624,1109.0,288.25,0.571923,absorbs,0.17662697736525237
+1203,Body Lotions & Body Oils,Sol de Janeiro,Brazilian Bum Bum Cream,$20.0,4.2624,1109.0,288.25,0.571923,shimmer,0.5749259134050677
+1204,Body Lotions & Body Oils,Sol de Janeiro,Brazilian Bum Bum Cream,$20.0,4.2624,1109.0,288.25,0.571923,tightening,0.24426182763012444
+1205,Body Lotions & Body Oils,Josie Maran,Whipped Argan Oil Body Butter,$12.0,4.5374,1009.0,259.25,0.44834300000000005,butter,0.5057448807468192
+1206,Body Lotions & Body Oils,Josie Maran,Whipped Argan Oil Body Butter,$12.0,4.5374,1009.0,259.25,0.44834300000000005,vanilla,0.5709668705767099
+1207,Body Lotions & Body Oils,Josie Maran,Whipped Argan Oil Body Butter,$12.0,4.5374,1009.0,259.25,0.44834300000000005,citrus,0.32649116397636974
+1208,Body Lotions & Body Oils,Josie Maran,Whipped Argan Oil Body Butter,$12.0,4.5374,1009.0,259.25,0.44834300000000005,scents,0.21491374446287506
+1209,Body Lotions & Body Oils,Josie Maran,Whipped Argan Oil Body Butter,$12.0,4.5374,1009.0,259.25,0.44834300000000005,sweet,0.19828509178713288
+1210,Body Lotions & Body Oils,DERMAdoctor,KP Duty® Lotion,$10.0,4.1314,936.0,240.0,0.405534,chicken,0.1852192821146244
+1211,Body Lotions & Body Oils,DERMAdoctor,KP Duty® Lotion,$10.0,4.1314,936.0,240.0,0.405534,scrub,0.3079449689274415
+1212,Body Lotions & Body Oils,DERMAdoctor,KP Duty® Lotion,$10.0,4.1314,936.0,240.0,0.405534,arms,0.7154494583206166
+1213,Body Lotions & Body Oils,DERMAdoctor,KP Duty® Lotion,$10.0,4.1314,936.0,240.0,0.405534,duty,0.22976636787039378
+1214,Body Lotions & Body Oils,DERMAdoctor,KP Duty® Lotion,$10.0,4.1314,936.0,240.0,0.405534,bumps,0.44355432765217734
+1215,Body Lotions & Body Oils,Caudalie,Divine Oil,$32.0,4.4566,867.0,233.75,0.49953800000000004,floral,0.17014265496310396
+1216,Body Lotions & Body Oils,Caudalie,Divine Oil,$32.0,4.4566,867.0,233.75,0.49953800000000004,divine,0.592074271970304
+1217,Body Lotions & Body Oils,Caudalie,Divine Oil,$32.0,4.4566,867.0,233.75,0.49953800000000004,caudalie,0.4175826680734888
+1218,Body Lotions & Body Oils,Caudalie,Divine Oil,$32.0,4.4566,867.0,233.75,0.49953800000000004,legs,0.14751803788780005
+1219,Body Lotions & Body Oils,Caudalie,Divine Oil,$32.0,4.4566,867.0,233.75,0.49953800000000004,absorbs,0.26953282649336
+1220,Body Lotions & Body Oils,LAVANILA,The Healthy Body Butter,$19.00,4.5423,852.0,223.5,0.515177,pure,0.10705779462305767
+1221,Body Lotions & Body Oils,LAVANILA,The Healthy Body Butter,$19.00,4.5423,852.0,223.5,0.515177,vanilla,0.8575504455714155
+1222,Body Lotions & Body Oils,LAVANILA,The Healthy Body Butter,$19.00,4.5423,852.0,223.5,0.515177,lavender,0.11507319443093772
+1223,Body Lotions & Body Oils,LAVANILA,The Healthy Body Butter,$19.00,4.5423,852.0,223.5,0.515177,coconut,0.16240044379987056
+1224,Body Lotions & Body Oils,LAVANILA,The Healthy Body Butter,$19.00,4.5423,852.0,223.5,0.515177,butter,0.3985733820167474
+1225,Anti-Aging,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.498475,removal,0.22860690446775253
+1226,Anti-Aging,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.498475,legs,0.34975036645180585
+1227,Anti-Aging,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.498475,hairs,0.2690254277131157
+1228,Anti-Aging,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.498475,laser,0.535593516131453
+1229,Anti-Aging,Tria,Hair Removal Laser 4X,$449.00,4.1555,284.0,296.5,0.498475,growth,0.2831652696802585
+1230,Anti-Aging,Tria,Age-Defying Laser,$495.00,3.8,120.0,278.25,0.516265,charge,0.21496559726465417
+1231,Anti-Aging,Tria,Age-Defying Laser,$495.00,3.8,120.0,278.25,0.516265,redness,0.0961292024725905
+1232,Anti-Aging,Tria,Age-Defying Laser,$495.00,3.8,120.0,278.25,0.516265,laser,0.7458984264639331
+1233,Anti-Aging,Tria,Age-Defying Laser,$495.00,3.8,120.0,278.25,0.516265,level,0.3788533646391824
+1234,Anti-Aging,Tria,Age-Defying Laser,$495.00,3.8,120.0,278.25,0.516265,wrinkles,0.14764712717740192
+1235,Anti-Aging,iluminage,Touch Permanent Hair Reduction,$445.00,3.7910000000000004,67.0,240.0,0.560474,laser,0.3819109464781924
+1236,Anti-Aging,iluminage,Touch Permanent Hair Reduction,$445.00,3.7910000000000004,67.0,240.0,0.560474,legs,0.5320392751477907
+1237,Anti-Aging,iluminage,Touch Permanent Hair Reduction,$445.00,3.7910000000000004,67.0,240.0,0.560474,arms,0.2360481248317545
+1238,Anti-Aging,iluminage,Touch Permanent Hair Reduction,$445.00,3.7910000000000004,67.0,240.0,0.560474,reduction,0.2966630431315826
+1239,Anti-Aging,iluminage,Touch Permanent Hair Reduction,$445.00,3.7910000000000004,67.0,240.0,0.560474,growth,0.2217096684290544
+1240,Anti-Aging,Tria,Hair Removal Laser 4X,$449.00,4.875,8.0,227.5,0.556183,directions,0.19822558869234705
+1241,Anti-Aging,Tria,Hair Removal Laser 4X,$449.00,4.875,8.0,227.5,0.556183,painful,0.26137402047276287
+1242,Anti-Aging,Tria,Hair Removal Laser 4X,$449.00,4.875,8.0,227.5,0.556183,setting,0.37225304289275235
+1243,Anti-Aging,Tria,Hair Removal Laser 4X,$449.00,4.875,8.0,227.5,0.556183,level,0.43239664135148725
+1244,Anti-Aging,Tria,Hair Removal Laser 4X,$449.00,4.875,8.0,227.5,0.556183,warming,0.21902523428288032
+1245,Anti-Aging,iluminage,Touch Permanent Hair Reduction + Epliator Cartridge and Precision Adapter,$445.00,3.0,9.0,225.5,0.55877,leg,0.19316682755899736
+1246,Anti-Aging,iluminage,Touch Permanent Hair Reduction + Epliator Cartridge and Precision Adapter,$445.00,3.0,9.0,225.5,0.55877,shave,0.18824598666310172
+1247,Anti-Aging,iluminage,Touch Permanent Hair Reduction + Epliator Cartridge and Precision Adapter,$445.00,3.0,9.0,225.5,0.55877,reduction,0.46081322149147697
+1248,Anti-Aging,iluminage,Touch Permanent Hair Reduction + Epliator Cartridge and Precision Adapter,$445.00,3.0,9.0,225.5,0.55877,growth,0.27550919849301087
+1249,Anti-Aging,iluminage,Touch Permanent Hair Reduction + Epliator Cartridge and Precision Adapter,$445.00,3.0,9.0,225.5,0.55877,precision,0.2897502413384961
+1250,Hair Color,Rita Hazan,Root Concealer Touch-Up Spray Temporary Gray Coverage,$25.00,3.9255,1558.0,402.75,0.51891,root,0.36573729553570505
+1251,Hair Color,Rita Hazan,Root Concealer Touch-Up Spray Temporary Gray Coverage,$25.00,3.9255,1558.0,402.75,0.51891,gray,0.45143269872476033
+1252,Hair Color,Rita Hazan,Root Concealer Touch-Up Spray Temporary Gray Coverage,$25.00,3.9255,1558.0,402.75,0.51891,grey,0.19774670264809818
+1253,Hair Color,Rita Hazan,Root Concealer Touch-Up Spray Temporary Gray Coverage,$25.00,3.9255,1558.0,402.75,0.51891,roots,0.615300062327214
+1254,Hair Color,Rita Hazan,Root Concealer Touch-Up Spray Temporary Gray Coverage,$25.00,3.9255,1558.0,402.75,0.51891,covers,0.17604431857760852
+1255,Hair Color,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,frizz,0.40312925274514577
+1256,Hair Color,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,conditioner,0.24660214008884163
+1257,Hair Color,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,blow,0.23278860697266113
+1258,Hair Color,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,frizzy,0.36709057157240865
+1259,Hair Color,ALTERNA Haircare,CAVIAR CC Cream for Hair 10-in-1 Complete Correction,$25.0,4.2898,1020.0,268.5,0.513844,curly,0.3122290949757446
+1260,Hair Color,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,frizz,0.5926659088921936
+1261,Hair Color,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,frizzy,0.3462716429415043
+1262,Hair Color,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,mist,0.3483505891875959
+1263,Hair Color,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,curly,0.19571394420666638
+1264,Hair Color,ALTERNA Haircare,Bamboo Smooth Kendi Oil Dry Oil Mist,$25.00,4.5501,810.0,216.0,0.56672,weigh,0.19778444549471438
+1265,Hair Color,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.9734,723.0,186.0,0.503689,frizzy,0.24303666236230456
+1266,Hair Color,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.9734,723.0,186.0,0.503689,conditioner,0.6221983496793818
+1267,Hair Color,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.9734,723.0,186.0,0.503689,damaged,0.19626821572367797
+1268,Hair Color,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.9734,723.0,186.0,0.503689,curly,0.20789076114256727
+1269,Hair Color,Briogeo,"Don’t Despair, Repair!™ Deep Conditioning Mask",$9.0,3.9734,723.0,186.0,0.503689,conditioning,0.3214788300409444
+1270,Hair Color,Ouai,Wave Spray,$12.0,3.7,565.0,148.0,0.49661099999999997,wavy,0.4282469570979694
+1271,Hair Color,Ouai,Wave Spray,$12.0,3.7,565.0,148.0,0.49661099999999997,curls,0.19313666785010336
+1272,Hair Color,Ouai,Wave Spray,$12.0,3.7,565.0,148.0,0.49661099999999997,waves,0.4852600907018654
+1273,Hair Color,Ouai,Wave Spray,$12.0,3.7,565.0,148.0,0.49661099999999997,curly,0.21436556943416898
+1274,Hair Color,Ouai,Wave Spray,$12.0,3.7,565.0,148.0,0.49661099999999997,wave,0.4691314150191394
+1275,Moisturizer & Treatments,Bite Beauty,Agave Lip Mask,$26.00,4.4229,2845.0,725.25,0.519861,balm,0.1257169412386178
+1276,Moisturizer & Treatments,Bite Beauty,Agave Lip Mask,$26.00,4.4229,2845.0,725.25,0.519861,lip,0.4115077466363798
+1277,Moisturizer & Treatments,Bite Beauty,Agave Lip Mask,$26.00,4.4229,2845.0,725.25,0.519861,chapped,0.15679834384210192
+1278,Moisturizer & Treatments,Bite Beauty,Agave Lip Mask,$26.00,4.4229,2845.0,725.25,0.519861,lipstick,0.08318894824746693
+1279,Moisturizer & Treatments,Bite Beauty,Agave Lip Mask,$26.00,4.4229,2845.0,725.25,0.519861,lips,0.8613191214564919
+1280,Moisturizer & Treatments,Jack Black,Intense Therapy Lip Balm SPF 25,$7.50,4.6912,2647.0,666.25,0.48130600000000007,lip,0.4631158382523593
+1281,Moisturizer & Treatments,Jack Black,Intense Therapy Lip Balm SPF 25,$7.50,4.6912,2647.0,666.25,0.48130600000000007,mint,0.17581898091599696
+1282,Moisturizer & Treatments,Jack Black,Intense Therapy Lip Balm SPF 25,$7.50,4.6912,2647.0,666.25,0.48130600000000007,balm,0.4704814479604858
+1283,Moisturizer & Treatments,Jack Black,Intense Therapy Lip Balm SPF 25,$7.50,4.6912,2647.0,666.25,0.48130600000000007,lips,0.6787775385294588
+1284,Moisturizer & Treatments,Jack Black,Intense Therapy Lip Balm SPF 25,$7.50,4.6912,2647.0,666.25,0.48130600000000007,balms,0.16136695870055687
+1285,Moisturizer & Treatments,Perfekt,Skin Perfection Gel,$19.5,4.0603,1742.0,446.0,0.54832,perfection,0.18656719058484386
+1286,Moisturizer & Treatments,Perfekt,Skin Perfection Gel,$19.5,4.0603,1742.0,446.0,0.54832,tinted,0.295851060598653
+1287,Moisturizer & Treatments,Perfekt,Skin Perfection Gel,$19.5,4.0603,1742.0,446.0,0.54832,radiant,0.30601136584991384
+1288,Moisturizer & Treatments,Perfekt,Skin Perfection Gel,$19.5,4.0603,1742.0,446.0,0.54832,redness,0.21483494673406262
+1289,Moisturizer & Treatments,Perfekt,Skin Perfection Gel,$19.5,4.0603,1742.0,446.0,0.54832,pump,0.40577919089215425
+1290,Moisturizer & Treatments,boscia,Oil-Free Daily Hydration SPF 15,$36.00,4.0205,1217.0,323.25,0.47845200000000004,moisturizers,0.23376176230857673
+1291,Moisturizer & Treatments,boscia,Oil-Free Daily Hydration SPF 15,$36.00,4.0205,1217.0,323.25,0.47845200000000004,sunscreen,0.1544993832745021
+1292,Moisturizer & Treatments,boscia,Oil-Free Daily Hydration SPF 15,$36.00,4.0205,1217.0,323.25,0.47845200000000004,boscia,0.5534496534691448
+1293,Moisturizer & Treatments,boscia,Oil-Free Daily Hydration SPF 15,$36.00,4.0205,1217.0,323.25,0.47845200000000004,spf,0.612029776512442
+1294,Moisturizer & Treatments,boscia,Oil-Free Daily Hydration SPF 15,$36.00,4.0205,1217.0,323.25,0.47845200000000004,absorbs,0.2693689720488071
+1295,Moisturizer & Treatments,Peter Thomas Roth,Max Complexion Correction Pads,$40.00,4.4257,1109.0,298.25,0.442187,pad,0.1592871753045219
+1296,Moisturizer & Treatments,Peter Thomas Roth,Max Complexion Correction Pads,$40.00,4.4257,1109.0,298.25,0.442187,ptr,0.16870513095417788
+1297,Moisturizer & Treatments,Peter Thomas Roth,Max Complexion Correction Pads,$40.00,4.4257,1109.0,298.25,0.442187,cystic,0.10394241655088776
+1298,Moisturizer & Treatments,Peter Thomas Roth,Max Complexion Correction Pads,$40.00,4.4257,1109.0,298.25,0.442187,blackheads,0.16292136276710423
+1299,Moisturizer & Treatments,Peter Thomas Roth,Max Complexion Correction Pads,$40.00,4.4257,1109.0,298.25,0.442187,pads,0.8628899350831702
+1300,Eye Creams & Treatments,Origins,GinZing™ Refreshing Eye Cream,$30.00,3.8551,1826.0,472.25,0.415304,bags,0.1516833431456385
+1301,Eye Creams & Treatments,Origins,GinZing™ Refreshing Eye Cream,$30.00,3.8551,1826.0,472.25,0.415304,puffy,0.1478131068026976
+1302,Eye Creams & Treatments,Origins,GinZing™ Refreshing Eye Cream,$30.00,3.8551,1826.0,472.25,0.415304,puffiness,0.44611058842481094
+1303,Eye Creams & Treatments,Origins,GinZing™ Refreshing Eye Cream,$30.00,3.8551,1826.0,472.25,0.415304,brightening,0.17775463585817936
+1304,Eye Creams & Treatments,Origins,GinZing™ Refreshing Eye Cream,$30.00,3.8551,1826.0,472.25,0.415304,circles,0.7572650634491367
+1305,Eye Creams & Treatments,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,$57.00,4.2744,1537.0,413.75,0.485,wrinkles,0.6088021080439103
+1306,Eye Creams & Treatments,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,$57.00,4.2744,1537.0,413.75,0.485,shiseido,0.31083843116620374
+1307,Eye Creams & Treatments,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,$57.00,4.2744,1537.0,413.75,0.485,jar,0.15442287373080318
+1308,Eye Creams & Treatments,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,$57.00,4.2744,1537.0,413.75,0.485,circles,0.34905421352399457
+1309,Eye Creams & Treatments,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,$57.00,4.2744,1537.0,413.75,0.485,wrinkle,0.1808292945010616
+1310,Eye Creams & Treatments,CLINIQUE,All About Eyes,$32.0,4.0794,1437.0,376.25,0.521097,puffy,0.17850271821619096
+1311,Eye Creams & Treatments,CLINIQUE,All About Eyes,$32.0,4.0794,1437.0,376.25,0.521097,darkness,0.13271116532745797
+1312,Eye Creams & Treatments,CLINIQUE,All About Eyes,$32.0,4.0794,1437.0,376.25,0.521097,clinique,0.14782785255594713
+1313,Eye Creams & Treatments,CLINIQUE,All About Eyes,$32.0,4.0794,1437.0,376.25,0.521097,puffiness,0.5455674127676644
+1314,Eye Creams & Treatments,CLINIQUE,All About Eyes,$32.0,4.0794,1437.0,376.25,0.521097,circles,0.713064800350327
+1315,Eye Creams & Treatments,CLINIQUE,All About Eyes™ Rich,$32.0,4.1915,1268.0,334.0,0.5044930000000001,puffiness,0.4821765078596031
+1316,Eye Creams & Treatments,CLINIQUE,All About Eyes™ Rich,$32.0,4.1915,1268.0,334.0,0.5044930000000001,jar,0.134861145082861
+1317,Eye Creams & Treatments,CLINIQUE,All About Eyes™ Rich,$32.0,4.1915,1268.0,334.0,0.5044930000000001,clinique,0.1987436230396509
+1318,Eye Creams & Treatments,CLINIQUE,All About Eyes™ Rich,$32.0,4.1915,1268.0,334.0,0.5044930000000001,circles,0.7499307958296397
+1319,Eye Creams & Treatments,CLINIQUE,All About Eyes™ Rich,$32.0,4.1915,1268.0,334.0,0.5044930000000001,wrinkles,0.14577307733921993
+1320,Eye Creams & Treatments,CLINIQUE,All About Eyes Serum De-Puffing Eye Massage,$30.00,3.7995,819.0,220.5,0.5809850000000001,bags,0.23969787403668139
+1321,Eye Creams & Treatments,CLINIQUE,All About Eyes Serum De-Puffing Eye Massage,$30.00,3.7995,819.0,220.5,0.5809850000000001,puffy,0.29115782196966256
+1322,Eye Creams & Treatments,CLINIQUE,All About Eyes Serum De-Puffing Eye Massage,$30.00,3.7995,819.0,220.5,0.5809850000000001,puffiness,0.6905180839783374
+1323,Eye Creams & Treatments,CLINIQUE,All About Eyes Serum De-Puffing Eye Massage,$30.00,3.7995,819.0,220.5,0.5809850000000001,roller,0.2945036451706172
+1324,Eye Creams & Treatments,CLINIQUE,All About Eyes Serum De-Puffing Eye Massage,$30.00,3.7995,819.0,220.5,0.5809850000000001,circles,0.30686126500956223
+1325,Lip Gloss,Buxom,Full-On™ Lip Polish,$20.00,4.6354,11127.0,2792.75,0.534628,lip,0.394168802504189
+1326,Lip Gloss,Buxom,Full-On™ Lip Polish,$20.00,4.6354,11127.0,2792.75,0.534628,plumping,0.2492756039067601
+1327,Lip Gloss,Buxom,Full-On™ Lip Polish,$20.00,4.6354,11127.0,2792.75,0.534628,gloss,0.6171315273040856
+1328,Lip Gloss,Buxom,Full-On™ Lip Polish,$20.00,4.6354,11127.0,2792.75,0.534628,lips,0.48000811353856243
+1329,Lip Gloss,Buxom,Full-On™ Lip Polish,$20.00,4.6354,11127.0,2792.75,0.534628,tingle,0.17363378807266558
+1330,Lip Gloss,SEPHORA COLLECTION,Ultra Shine Lip Gel,$5.0,4.4396,2533.0,636.75,0.38390799999999997,nude,0.1091228546359558
+1331,Lip Gloss,SEPHORA COLLECTION,Ultra Shine Lip Gel,$5.0,4.4396,2533.0,636.75,0.38390799999999997,shade,0.0965526555545835
+1332,Lip Gloss,SEPHORA COLLECTION,Ultra Shine Lip Gel,$5.0,4.4396,2533.0,636.75,0.38390799999999997,gloss,0.7759279837959602
+1333,Lip Gloss,SEPHORA COLLECTION,Ultra Shine Lip Gel,$5.0,4.4396,2533.0,636.75,0.38390799999999997,lips,0.3735352007100974
+1334,Lip Gloss,SEPHORA COLLECTION,Ultra Shine Lip Gel,$5.0,4.4396,2533.0,636.75,0.38390799999999997,lip,0.4278023582707361
+1335,Lip Gloss,Yves Saint Laurent,Vernis À Lèvres Glossy Lip Stain,$36.00,4.2328,2135.0,552.75,0.550024,lip,0.4146104556080972
+1336,Lip Gloss,Yves Saint Laurent,Vernis À Lèvres Glossy Lip Stain,$36.00,4.2328,2135.0,552.75,0.550024,glossy,0.2863287081941318
+1337,Lip Gloss,Yves Saint Laurent,Vernis À Lèvres Glossy Lip Stain,$36.00,4.2328,2135.0,552.75,0.550024,gloss,0.37408139436790294
+1338,Lip Gloss,Yves Saint Laurent,Vernis À Lèvres Glossy Lip Stain,$36.00,4.2328,2135.0,552.75,0.550024,lips,0.44328768537263424
+1339,Lip Gloss,Yves Saint Laurent,Vernis À Lèvres Glossy Lip Stain,$36.00,4.2328,2135.0,552.75,0.550024,stain,0.5091659785479458
+1340,Lip Gloss,Buxom,Full-On™ Lip Cream,$20.00,4.6134,1872.0,479.0,0.40985299999999997,lip,0.4602573424505588
+1341,Lip Gloss,Buxom,Full-On™ Lip Cream,$20.00,4.6134,1872.0,479.0,0.40985299999999997,plumping,0.25546084804861063
+1342,Lip Gloss,Buxom,Full-On™ Lip Cream,$20.00,4.6134,1872.0,479.0,0.40985299999999997,gloss,0.5380796239410597
+1343,Lip Gloss,Buxom,Full-On™ Lip Cream,$20.00,4.6134,1872.0,479.0,0.40985299999999997,lips,0.4855581480133517
+1344,Lip Gloss,Buxom,Full-On™ Lip Cream,$20.00,4.6134,1872.0,479.0,0.40985299999999997,minty,0.18043291835470132
+1345,Lip Gloss,CLINIQUE,Superbalm Moisturizing Gloss,$17.00,4.5347,1672.0,427.5,0.39264,lip,0.2879606880323255
+1346,Lip Gloss,CLINIQUE,Superbalm Moisturizing Gloss,$17.00,4.5347,1672.0,427.5,0.39264,lipstick,0.16987457994839378
+1347,Lip Gloss,CLINIQUE,Superbalm Moisturizing Gloss,$17.00,4.5347,1672.0,427.5,0.39264,gloss,0.7576725655096618
+1348,Lip Gloss,CLINIQUE,Superbalm Moisturizing Gloss,$17.00,4.5347,1672.0,427.5,0.39264,lips,0.3402847988538463
+1349,Lip Gloss,CLINIQUE,Superbalm Moisturizing Gloss,$17.00,4.5347,1672.0,427.5,0.39264,honey,0.3432749795472945
+1350,Moisturizers,philosophy,Hope In A Jar,$44.0,3.9925,6666.0,1689.25,0.354638,moisturizers,0.14908314786516397
+1351,Moisturizers,philosophy,Hope In A Jar,$44.0,3.9925,6666.0,1689.25,0.354638,dog,0.14155855475565138
+1352,Moisturizers,philosophy,Hope In A Jar,$44.0,3.9925,6666.0,1689.25,0.354638,philosophy,0.40389103969335793
+1353,Moisturizers,philosophy,Hope In A Jar,$44.0,3.9925,6666.0,1689.25,0.354638,absorbs,0.20042386834036602
+1354,Moisturizers,philosophy,Hope In A Jar,$44.0,3.9925,6666.0,1689.25,0.354638,jar,0.7353703695042951
+1355,Moisturizers,Josie Maran,100 percent Pure Argan Oil,$16.0,4.5182,6659.0,1673.75,0.548449,josie,0.2800041928500464
+1356,Moisturizers,Josie Maran,100 percent Pure Argan Oil,$16.0,4.5182,6659.0,1673.75,0.548449,drops,0.4691472885671971
+1357,Moisturizers,Josie Maran,100 percent Pure Argan Oil,$16.0,4.5182,6659.0,1673.75,0.548449,cuticles,0.23307789054733238
+1358,Moisturizers,Josie Maran,100 percent Pure Argan Oil,$16.0,4.5182,6659.0,1673.75,0.548449,argan,0.5541904852587284
+1359,Moisturizers,Josie Maran,100 percent Pure Argan Oil,$16.0,4.5182,6659.0,1673.75,0.548449,maran,0.22049245902721815
+1360,Moisturizers,First Aid Beauty,Ultra Repair® Cream Intense Hydration,$6.5,4.5938,5174.0,1297.5,0.5209739999999999,moisturizers,0.22836216616318045
+1361,Moisturizers,First Aid Beauty,Ultra Repair® Cream Intense Hydration,$6.5,4.5938,5174.0,1297.5,0.5209739999999999,redness,0.19816442287350017
+1362,Moisturizers,First Aid Beauty,Ultra Repair® Cream Intense Hydration,$6.5,4.5938,5174.0,1297.5,0.5209739999999999,repair,0.2453351237503174
+1363,Moisturizers,First Aid Beauty,Ultra Repair® Cream Intense Hydration,$6.5,4.5938,5174.0,1297.5,0.5209739999999999,eczema,0.5018892954046146
+1364,Moisturizers,First Aid Beauty,Ultra Repair® Cream Intense Hydration,$6.5,4.5938,5174.0,1297.5,0.5209739999999999,fab,0.1923948648820733
+1365,Moisturizers,CLINIQUE,Dramatically Different Moisturizing Gel,$5.0,4.4649,2929.0,735.75,0.46862700000000007,moisturizers,0.5140341588584666
+1366,Moisturizers,CLINIQUE,Dramatically Different Moisturizing Gel,$5.0,4.4649,2929.0,735.75,0.46862700000000007,pump,0.16495504508994693
+1367,Moisturizers,CLINIQUE,Dramatically Different Moisturizing Gel,$5.0,4.4649,2929.0,735.75,0.46862700000000007,clinique,0.38033188933037293
+1368,Moisturizers,CLINIQUE,Dramatically Different Moisturizing Gel,$5.0,4.4649,2929.0,735.75,0.46862700000000007,absorbs,0.4188214553433826
+1369,Moisturizers,CLINIQUE,Dramatically Different Moisturizing Gel,$5.0,4.4649,2929.0,735.75,0.46862700000000007,zone,0.23316068304231394
+1370,Moisturizers,CLINIQUE,Moisture Surge Extended Thirst Relief,$12.0,4.5,2394.0,605.5,0.558353,moisturizers,0.3508262168511646
+1371,Moisturizers,CLINIQUE,Moisture Surge Extended Thirst Relief,$12.0,4.5,2394.0,605.5,0.558353,clinique,0.42235926219518655
+1372,Moisturizers,CLINIQUE,Moisture Surge Extended Thirst Relief,$12.0,4.5,2394.0,605.5,0.558353,absorbs,0.34301272205065503
+1373,Moisturizers,CLINIQUE,Moisture Surge Extended Thirst Relief,$12.0,4.5,2394.0,605.5,0.558353,surge,0.47550937395536585
+1374,Moisturizers,CLINIQUE,Moisture Surge Extended Thirst Relief,$12.0,4.5,2394.0,605.5,0.558353,jar,0.28827567606747523

@@ -1,0 +1,84 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+
+div.page-header h1 {
+    font-size: 48px;
+    color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#bg{
+    background-repeat:repeat;
+}
+
+div.frame_container-fluid {
+    position:relative;
+    left:35%;
+}
+
+div.frame_container-fluid form input {
+    position:relative;
+    left:12%;
+}
+
+p.num_results {
+    font-weight:bold;
+    font-size:20px;
+}
+
+div.search_results {
+    font-weight: bold;
+    font-size:36px;
+    text-align: center;
+}
+
+div.category_text {
+    font-weight:bold;
+    font-size:36px;
+    text-align: center;
+}
+
+div.category_wordcloud {
+    font-weight:bold;
+    font-size:20px;
+    text-align: center;
+}
+
+div.category_summary {
+    font-weight:bold;
+    font-size:20px;
+    text-align: center;
+}
+
+div.general_text {
+    font-weight: bold;
+    font-size:36px;
+    text-align:center;
+}
+
+div.top_brands {
+    font-weight:bold;
+    font-size:20px;
+    text-align:center;
+}
+
+div.most_popular {
+    font-weight:bold;
+    font-size:20px;
+    text-align:center;
+}
+
+div.best_price {
+    font-weight:bold;
+    font-size:20px;
+    text-align:center;
+}
+
+div.images {
+    text-align: center;
+}
