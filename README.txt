@@ -17,3 +17,6 @@ value of TF instead of TF * IDF, go to line 21, replace it with sentence "return
 To run:
   python similarity.py file1.txt file2.txt
 
+
+To run:
+  python simliarity_2.py
