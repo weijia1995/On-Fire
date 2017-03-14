@@ -30,7 +30,7 @@ COLUMN_NAMES = dict(
         similarity_score = 'Similarity Score of Product Description and Reviews',
         similarity_rank = 'Similarity Rank',
         word = 'Key Word',
-        dfidf = 'Importance: TF-IDF Score')
+        dfidf = 'Importance of Key Word: TF-IDF Score')
 
 
 def _load_column(filename, col=0):
