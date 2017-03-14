@@ -35,4 +35,13 @@ To run:
 To run:
   python simliarity_2.py
   
-## All results are saved to shorten runing time
+### User Interface
+
+
+Before run:
+    go to the folder named "user_interface"
+To run:
+    python3 manage.py runserver
+  
+  
+### All results are saved to shorten runing time
