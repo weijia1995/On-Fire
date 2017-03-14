@@ -20,3 +20,9 @@ To run:
 
 To run:
   python simliarity_2.py
+
+————User Interface————
+Before run:
+    go to the folder named "user_interface"
+To run:
+    python3 manage.py runserver
