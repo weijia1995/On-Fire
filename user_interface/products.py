@@ -14,6 +14,9 @@ if not os.access(output_dir, os.F_OK):
 
 
 def result_csv(filename='update_final.csv'):
+    '''
+    This is an auxiliary function to the plotting function
+    '''
 
     products = pd.read_csv(filename, usecols = [1,2,3,4,5,6,7], encoding='utf-8').replace('null', 0)
     
@@ -35,40 +38,38 @@ def result_csv(filename='update_final.csv'):
     
     return result
     
-# Convert to csv
-#result = result_csv()
-
 
 def plots(category, wordfile):
+    '''
+    Generate plots for overall view
+    
+    Input:
+        result: dataframe reading from 'final_result.csv'
+    
+    Return:
+        Plots
+    '''
+
     result = result_csv()
     data = result.loc[category]
     fig = plt.figure()
     ax1 = fig.add_subplot(311)
     ax2 = fig.add_subplot(312)
     ax3 = fig.add_subplot(313)
-#    plt.title('{}'.format(category)) 
     
     sns.barplot(x = 'price', y = 'brand_name', data=data, palette="Blues", ax=ax1)
-    #ax = sns.barplot(x="tip", y="day", data=tips)
     ax1.set_xticks([])
-#    ax1.set_yticks([])  
     
     sns.barplot(x = 'num_review', y = 'brand_name', data=data, palette="Blues", ax = ax2)
     ax2.set_xticks([])
-#    ax2.set_yticks([]) 
-#    ax2.xlabel('Number of Reviews')
     
     sns.barplot(x = 'rating',  y = 'brand_name', data=data, palette="Blues", ax = ax3)
-#    ax3.xlabel('rating')
     ax3.set_xticks([])
-#    ax3.set_yticks([]) 
 
     output_path = os.path.join(output_dir, "category_summary.png")
     plt.savefig(output_path, bbox_inches='tight')
     
     
-    
-#    words = pd.read_csv('test.csv', usecols=[2,3])
     words = pd.read_csv(wordfile, usecols=[1,9,10]).set_index('category')
     
     worddata = words.loc[category]
@@ -79,11 +80,10 @@ def plots(category, wordfile):
     
     plt.imshow(wc)
     plt.axis("off")
-#    wc = WordCloud(max_font_size=40).generate(cat)
+
     output_path = os.path.join(output_dir, "category_wordcloud.png")
     plt.savefig(output_path, bbox_inches='tight')
-#    plt.imshow(wc)
-#    plt.axis("off")
+
 #    plt.show()
 
 
