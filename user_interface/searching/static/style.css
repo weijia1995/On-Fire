@@ -31,6 +31,16 @@ p.num_results {
     font-size:20px;
 }
 
+p.num_words {
+    font-weight:bold;
+    font-size:20px;
+}
+
+p.total_lines {
+    font-weight:bold;
+    font-size:20px;
+}
+
 div.search_results {
     font-weight: bold;
     font-size:36px;
