@@ -14,6 +14,9 @@ if not os.access(output_dir, os.F_OK):
 
 
 def result_csv(filename='update_final.csv'):
+    '''
+    This is an auxiliary function to the plotting function
+    '''
 
     products = pd.read_csv(filename, usecols = [1,2,3,4,5,6,7], encoding='utf-8').replace('null', 0)
     
