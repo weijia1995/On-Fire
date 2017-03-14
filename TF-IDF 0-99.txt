@@ -1,0 +1,1198 @@
+Top words in 0_rev.txt:
+  Word: influenster, TF-IDF: 0.0122425792
+  Word: foundation, TF-IDF: 0.0110826272
+  Word: bristles, TF-IDF: 0.0088564897
+  Word: hourglass, TF-IDF: 0.008589042
+  Word: brush, TF-IDF: 0.0070458022
+  Word: vanish, TF-IDF: 0.0067673636
+  Word: dense, TF-IDF: 0.0038830201
+  Word: brushes, TF-IDF: 0.0036277427
+  Word: blends, TF-IDF: 0.0029820385
+  Word: foundations, TF-IDF: 0.002360366
+
+Top words in 1_rev.txt:
+  Word: concealer, TF-IDF: 0.0142602391
+  Word: bristles, TF-IDF: 0.0110884074
+  Word: lock-it, TF-IDF: 0.0082789501
+  Word: brush, TF-IDF: 0.0073590176
+  Word: influenster, TF-IDF: 0.0071241561
+  Word: brushes, TF-IDF: 0.0037938961
+  Word: blending, TF-IDF: 0.0035731429
+  Word: von, TF-IDF: 0.0027350588
+  Word: blender, TF-IDF: 0.002709401
+  Word: blends, TF-IDF: 0.0022549532
+
+Top words in 2_rev.txt:
+  Word: bristles, TF-IDF: 0.0105206127
+  Word: setting, TF-IDF: 0.0084868113
+  Word: influenster, TF-IDF: 0.0080542307
+  Word: brush, TF-IDF: 0.007183193
+  Word: powder, TF-IDF: 0.0062074477
+  Word: lock-it, TF-IDF: 0.0062046699
+  Word: brushes, TF-IDF: 0.0050131458
+  Word: fluffy, TF-IDF: 0.0040204937
+  Word: tapered, TF-IDF: 0.0034519875
+  Word: von, TF-IDF: 0.0029865167
+
+Top words in 3_rev.txt:
+  Word: foundation, TF-IDF: 0.0095582717
+  Word: bristles, TF-IDF: 0.0078573288
+  Word: brush, TF-IDF: 0.0063261121
+  Word: blender, TF-IDF: 0.0039228765
+  Word: amazonian, TF-IDF: 0.0037784308
+  Word: shedding, TF-IDF: 0.0034442777
+  Word: brushes, TF-IDF: 0.0034347603
+  Word: airbrushed, TF-IDF: 0.0026430634
+  Word: clay, TF-IDF: 0.0021663443
+  Word: blends, TF-IDF: 0.0018420868
+
+Top words in 4_rev.txt:
+  Word: foundation, TF-IDF: 0.0091522852
+  Word: brush, TF-IDF: 0.0067064599
+  Word: bristles, TF-IDF: 0.0057815611
+  Word: brushes, TF-IDF: 0.0048461352
+  Word: airbrushed, TF-IDF: 0.0036514327
+  Word: airbrush, TF-IDF: 0.0025507606
+  Word: foundations, TF-IDF: 0.0022822144
+  Word: coverage, TF-IDF: 0.0020537066
+  Word: streaks, TF-IDF: 0.0019547433
+  Word: liquid, TF-IDF: 0.001645967
+
+Top words in 5_rev.txt:
+  Word: eye, TF-IDF: 0.0027689697
+  Word: wrinkles, TF-IDF: 0.0025088212
+  Word: shiseido, TF-IDF: 0.0021732178
+  Word: eyes, TF-IDF: 0.0020947323
+  Word: circles, TF-IDF: 0.0019135234
+  Word: crows, TF-IDF: 0.0011315282
+  Word: cream, TF-IDF: 0.0011261252
+  Word: puffiness, TF-IDF: 0.0009198274
+  Word: benefiance, TF-IDF: 0.0009008316
+  Word: creams, TF-IDF: 0.0008976814
+
+Top words in 6_rev.txt:
+  Word: pads, TF-IDF: 0.0115227413
+  Word: retinoid, TF-IDF: 0.0036983179
+  Word: philosophy, TF-IDF: 0.0033035722
+  Word: retinol, TF-IDF: 0.0017609342
+  Word: pad, TF-IDF: 0.0014218147
+  Word: pores, TF-IDF: 0.001190815
+  Word: anti-aging, TF-IDF: 0.0011732774
+  Word: miracle, TF-IDF: 0.0010849803
+  Word: wrinkles, TF-IDF: 0.0010806429
+  Word: acne, TF-IDF: 0.0010587563
+
+Top words in 7_rev.txt:
+  Word: retinol, TF-IDF: 0.0062251959
+  Word: philosophy, TF-IDF: 0.0029363534
+  Word: acne, TF-IDF: 0.0027763363
+  Word: pores, TF-IDF: 0.0018559416
+  Word: wrinkles, TF-IDF: 0.001330976
+  Word: breakouts, TF-IDF: 0.0011567323
+  Word: forehead, TF-IDF: 0.0008501569
+  Word: scars, TF-IDF: 0.0008161541
+  Word: retinoid, TF-IDF: 0.0007790026
+  Word: anti-aging, TF-IDF: 0.0007702929
+
+Top words in 8_rev.txt:
+  Word: philosophy, TF-IDF: 0.0033344192
+  Word: jar, TF-IDF: 0.0028559964
+  Word: moisturizer, TF-IDF: 0.0026346568
+  Word: mw, TF-IDF: 0.0013701812
+  Word: anti-aging, TF-IDF: 0.0012467803
+  Word: miracle, TF-IDF: 0.0012111652
+  Word: worker, TF-IDF: 0.0011395811
+  Word: absorbs, TF-IDF: 0.0010487633
+  Word: hiaj, TF-IDF: 0.0008748575
+  Word: wrinkles, TF-IDF: 0.00078287
+
+Top words in 9_rev.txt:
+  Word: perricone, TF-IDF: 0.0075238484
+  Word: moisturizer, TF-IDF: 0.0035335631
+  Word: plasma, TF-IDF: 0.0025476137
+  Word: roses, TF-IDF: 0.0017465642
+  Word: absorbs, TF-IDF: 0.0011715718
+  Word: rose, TF-IDF: 0.0010885217
+  Word: moisturizers, TF-IDF: 0.001010695
+  Word: jar, TF-IDF: 0.0009539489
+  Word: md, TF-IDF: 0.0008580159
+  Word: smell, TF-IDF: 0.0006128634
+
+Top words in 10_rev.txt:
+  Word: lips, TF-IDF: 0.011463822
+  Word: champagne, TF-IDF: 0.005325038
+  Word: chapped, TF-IDF: 0.0044760707
+  Word: mask, TF-IDF: 0.0026988422
+  Word: balm, TF-IDF: 0.0026812678
+  Word: agave, TF-IDF: 0.0023307153
+  Word: smashed, TF-IDF: 0.0020197433
+  Word: balms, TF-IDF: 0.00196922
+  Word: lipstick, TF-IDF: 0.0019269455
+  Word: bite, TF-IDF: 0.0017876095
+
+Top words in 11_rev.txt:
+  Word: balm, TF-IDF: 0.0133137691
+  Word: lips, TF-IDF: 0.0116688132
+  Word: balms, TF-IDF: 0.0067686991
+  Word: mint, TF-IDF: 0.0051429066
+  Word: chapped, TF-IDF: 0.0045646587
+  Word: blackberry, TF-IDF: 0.0033724657
+  Word: shea, TF-IDF: 0.0029798713
+  Word: chapstick, TF-IDF: 0.0029030487
+  Word: jack, TF-IDF: 0.0028276487
+  Word: grapefruit, TF-IDF: 0.0026825684
+
+Top words in 12_rev.txt:
+  Word: waves, TF-IDF: 0.0100983202
+  Word: wavy, TF-IDF: 0.0072716381
+  Word: hair, TF-IDF: 0.0055274693
+  Word: beachy, TF-IDF: 0.0043011364
+  Word: spray, TF-IDF: 0.0040307613
+  Word: crunchy, TF-IDF: 0.0039762925
+  Word: wave, TF-IDF: 0.0035344054
+  Word: volume, TF-IDF: 0.0034893255
+  Word: salt, TF-IDF: 0.0031474022
+  Word: curly, TF-IDF: 0.0031259513
+
+Top words in 13_rev.txt:
+  Word: cleanser, TF-IDF: 0.0096968273
+  Word: warming, TF-IDF: 0.0084247924
+  Word: boscia, TF-IDF: 0.0027115606
+  Word: pores, TF-IDF: 0.002502854
+  Word: sensation, TF-IDF: 0.0020348584
+  Word: acne, TF-IDF: 0.0019429458
+  Word: warms, TF-IDF: 0.0018920412
+  Word: cleansers, TF-IDF: 0.0018477543
+  Word: detoxifying, TF-IDF: 0.0016040587
+  Word: blackheads, TF-IDF: 0.0013200711
+
+Top words in 14_rev.txt:
+  Word: perfekt, TF-IDF: 0.0072221329
+  Word: coverage, TF-IDF: 0.0031141744
+  Word: foundation, TF-IDF: 0.0024669478
+  Word: primer, TF-IDF: 0.0013793494
+  Word: pores, TF-IDF: 0.0011059274
+  Word: tinted, TF-IDF: 0.0011041786
+  Word: pump, TF-IDF: 0.0010914176
+  Word: radiant, TF-IDF: 0.0010264876
+  Word: per-fekt, TF-IDF: 0.0010016779
+  Word: redness, TF-IDF: 0.0006916529
+
+Top words in 15_rev.txt:
+  Word: remover, TF-IDF: 0.0185745658
+  Word: influenster, TF-IDF: 0.0154793943
+  Word: waterproof, TF-IDF: 0.0089363466
+  Word: removers, TF-IDF: 0.008036988
+  Word: removes, TF-IDF: 0.0046916381
+  Word: mascara, TF-IDF: 0.0044644899
+  Word: makeup, TF-IDF: 0.0035399408
+  Word: complimentary, TF-IDF: 0.0033599271
+  Word: bi-facil, TF-IDF: 0.0028601596
+  Word: removing, TF-IDF: 0.002620176
+
+Top words in 16_rev.txt:
+  Word: remover, TF-IDF: 0.0169511275
+  Word: waterproof, TF-IDF: 0.0153532775
+  Word: mascara, TF-IDF: 0.0066749963
+  Word: removers, TF-IDF: 0.0062576484
+  Word: removes, TF-IDF: 0.0041456603
+  Word: cotton, TF-IDF: 0.0036772044
+  Word: eyeliner, TF-IDF: 0.0035793683
+  Word: makeup, TF-IDF: 0.0027925998
+  Word: eye, TF-IDF: 0.0023256551
+  Word: removing, TF-IDF: 0.0021200619
+
+Top words in 17_rev.txt:
+  Word: remover, TF-IDF: 0.0047392827
+  Word: cleanser, TF-IDF: 0.0044918368
+  Word: cleansing, TF-IDF: 0.0043487847
+  Word: waterproof, TF-IDF: 0.0043402426
+  Word: removes, TF-IDF: 0.0042119024
+  Word: boscia, TF-IDF: 0.0033352953
+  Word: makeup, TF-IDF: 0.0026581029
+  Word: mascara, TF-IDF: 0.0024334169
+  Word: rinse, TF-IDF: 0.0019047446
+  Word: wipes, TF-IDF: 0.0015748351
+
+Top words in 18_rev.txt:
+  Word: remover, TF-IDF: 0.0155955491
+  Word: waterproof, TF-IDF: 0.0083027623
+  Word: removers, TF-IDF: 0.0074691645
+  Word: mascara, TF-IDF: 0.0056983259
+  Word: removes, TF-IDF: 0.0048112198
+  Word: eyeliner, TF-IDF: 0.0038642707
+  Word: makeup, TF-IDF: 0.0027471539
+  Word: cotton, TF-IDF: 0.0027014436
+  Word: removing, TF-IDF: 0.0024062683
+  Word: eyes, TF-IDF: 0.0020908717
+
+Top words in 19_rev.txt:
+  Word: remover, TF-IDF: 0.0129740214
+  Word: waterproof, TF-IDF: 0.0110345338
+  Word: removers, TF-IDF: 0.0062754785
+  Word: mascara, TF-IDF: 0.005818424
+  Word: removes, TF-IDF: 0.0039963783
+  Word: eyeliner, TF-IDF: 0.0037044332
+  Word: eyes, TF-IDF: 0.0032892031
+  Word: cotton, TF-IDF: 0.0029918929
+  Word: sens'eyes, TF-IDF: 0.002249829
+  Word: eye, TF-IDF: 0.002210011
+
+Top words in 20_rev.txt:
+  Word: mask, TF-IDF: 0.0057889431
+  Word: pores, TF-IDF: 0.0033266445
+  Word: glamglow, TF-IDF: 0.0030489417
+  Word: blackheads, TF-IDF: 0.0024379387
+  Word: acne, TF-IDF: 0.0022046901
+  Word: masks, TF-IDF: 0.0017335405
+  Word: supermud, TF-IDF: 0.0014030944
+  Word: treatment, TF-IDF: 0.0010786851
+  Word: clears, TF-IDF: 0.0009087964
+  Word: breakouts, TF-IDF: 0.0008497662
+
+Top words in 21_rev.txt:
+  Word: mask, TF-IDF: 0.0064729683
+  Word: blackheads, TF-IDF: 0.0046840015
+  Word: pores, TF-IDF: 0.0034724195
+  Word: peel, TF-IDF: 0.0030973149
+  Word: peeled, TF-IDF: 0.0023796743
+  Word: masks, TF-IDF: 0.0016247045
+  Word: heads, TF-IDF: 0.0016203198
+  Word: peeling, TF-IDF: 0.001531727
+  Word: pulled, TF-IDF: 0.0014712029
+  Word: pulls, TF-IDF: 0.0013439015
+
+Top words in 22_rev.txt:
+  Word: mask, TF-IDF: 0.0062560051
+  Word: pores, TF-IDF: 0.0044530513
+  Word: charcoal, TF-IDF: 0.0039799041
+  Word: blackheads, TF-IDF: 0.0039604796
+  Word: masks, TF-IDF: 0.0022524443
+  Word: origins, TF-IDF: 0.0014382638
+  Word: acne, TF-IDF: 0.0013588407
+  Word: glamglow, TF-IDF: 0.0011432859
+  Word: cleared, TF-IDF: 0.0008747521
+  Word: clay, TF-IDF: 0.0007649468
+
+Top words in 23_rev.txt:
+  Word: mask, TF-IDF: 0.0045687944
+  Word: glamglow, TF-IDF: 0.004220065
+  Word: tingle, TF-IDF: 0.0025775857
+  Word: tingling, TF-IDF: 0.0023677227
+  Word: youthmud, TF-IDF: 0.0021649411
+  Word: masks, TF-IDF: 0.0020623406
+  Word: pores, TF-IDF: 0.0016141103
+  Word: burning, TF-IDF: 0.0015331552
+  Word: sensation, TF-IDF: 0.0015104467
+  Word: supermud, TF-IDF: 0.001426281
+
+Top words in 24_rev.txt:
+  Word: rose, TF-IDF: 0.0026944307
+  Word: korres, TF-IDF: 0.0023850112
+  Word: roses, TF-IDF: 0.0021715159
+  Word: sleeping, TF-IDF: 0.0014159002
+  Word: acne, TF-IDF: 0.0013411068
+  Word: wild, TF-IDF: 0.0011282356
+  Word: brightening, TF-IDF: 0.0010736261
+  Word: smell, TF-IDF: 0.0009572342
+  Word: brighter, TF-IDF: 0.0009149338
+  Word: jar, TF-IDF: 0.0008895387
+
+Top words in 25_rev.txt:
+  Word: lolita, TF-IDF: 0.013150729
+  Word: lipstick, TF-IDF: 0.0104633689
+  Word: lipsticks, TF-IDF: 0.0087114566
+  Word: ludwig, TF-IDF: 0.0087036044
+  Word: ophelia, TF-IDF: 0.0065760566
+  Word: sanctuary, TF-IDF: 0.0063826432
+  Word: hawkwind, TF-IDF: 0.0059958163
+  Word: lips, TF-IDF: 0.0045999908
+  Word: vampira, TF-IDF: 0.0038682686
+  Word: kvd, TF-IDF: 0.0035666345
+
+Top words in 26_rev.txt:
+  Word: lipstick, TF-IDF: 0.0062662054
+  Word: lipsticks, TF-IDF: 0.0050267485
+  Word: stain, TF-IDF: 0.0044951963
+  Word: mauve, TF-IDF: 0.0040527466
+  Word: lips, TF-IDF: 0.00403886
+  Word: stains, TF-IDF: 0.0034889308
+  Word: colors, TF-IDF: 0.0033897401
+  Word: sorbet, TF-IDF: 0.0030199096
+  Word: blackberry, TF-IDF: 0.0027929952
+  Word: marvelous, TF-IDF: 0.0024196886
+
+Top words in 27_rev.txt:
+  Word: lipstick, TF-IDF: 0.0170191422
+  Word: dolce, TF-IDF: 0.0096990046
+  Word: lipsticks, TF-IDF: 0.0064250717
+  Word: nars, TF-IDF: 0.0057771962
+  Word: empress, TF-IDF: 0.0042894142
+  Word: lips, TF-IDF: 0.0042459924
+  Word: audacious, TF-IDF: 0.0039164217
+  Word: nude, TF-IDF: 0.0036778795
+  Word: afghan, TF-IDF: 0.0032453028
+  Word: pigalle, TF-IDF: 0.0032453028
+
+Top words in 28_rev.txt:
+  Word: cruella, TF-IDF: 0.0260889264
+  Word: pencil, TF-IDF: 0.0110597929
+  Word: pencils, TF-IDF: 0.0070299315
+  Word: lipstick, TF-IDF: 0.0058795165
+  Word: dragon, TF-IDF: 0.0055633275
+  Word: bahama, TF-IDF: 0.004864213
+  Word: dolce, TF-IDF: 0.0048514735
+  Word: lips, TF-IDF: 0.0047784577
+  Word: damned, TF-IDF: 0.0045330816
+  Word: machine, TF-IDF: 0.003989587
+
+Top words in 29_rev.txt:
+  Word: lipstick, TF-IDF: 0.0143091861
+  Word: honeycomb, TF-IDF: 0.0099006349
+  Word: lipsticks, TF-IDF: 0.0088907439
+  Word: bite, TF-IDF: 0.0063951728
+  Word: bouche, TF-IDF: 0.0050556434
+  Word: thistle, TF-IDF: 0.0042368995
+  Word: lips, TF-IDF: 0.00387869
+  Word: gazpacho, TF-IDF: 0.0037917325
+  Word: amuse, TF-IDF: 0.003317866
+  Word: whiskey, TF-IDF: 0.0031087813
+
+Top words in 30_rev.txt:
+  Word: firming, TF-IDF: 0.0066000218
+  Word: grace, TF-IDF: 0.0062383607
+  Word: lotion, TF-IDF: 0.0050865859
+  Word: emulsion, TF-IDF: 0.0044946719
+  Word: philosophy, TF-IDF: 0.0025730281
+  Word: scent, TF-IDF: 0.0019956907
+  Word: perfume, TF-IDF: 0.0019140724
+  Word: smells, TF-IDF: 0.0014156073
+  Word: smell, TF-IDF: 0.0013985154
+  Word: fragrance, TF-IDF: 0.0013270005
+
+Top words in 31_rev.txt:
+  Word: flowerbomb, TF-IDF: 0.0292236145
+  Word: precious, TF-IDF: 0.0101962249
+  Word: perfume, TF-IDF: 0.0080695323
+  Word: rolf, TF-IDF: 0.0068448032
+  Word: viktor, TF-IDF: 0.0064361532
+  Word: influenster, TF-IDF: 0.0062377002
+  Word: floral, TF-IDF: 0.0034781338
+  Word: fragrance, TF-IDF: 0.0028386136
+  Word: scent, TF-IDF: 0.0023265844
+  Word: wrists, TF-IDF: 0.0022326453
+
+Top words in 32_rev.txt:
+  Word: grace, TF-IDF: 0.0114281255
+  Word: lotion, TF-IDF: 0.0072316141
+  Word: philosophy, TF-IDF: 0.0043287797
+  Word: pure, TF-IDF: 0.0032871642
+  Word: scent, TF-IDF: 0.0027448514
+  Word: lotions, TF-IDF: 0.0018962291
+  Word: perfume, TF-IDF: 0.0018853407
+  Word: perfumed, TF-IDF: 0.0018196462
+  Word: smell, TF-IDF: 0.0015653746
+  Word: fragrance, TF-IDF: 0.0013505264
+
+Top words in 33_rev.txt:
+  Word: unconditional, TF-IDF: 0.0123492845
+  Word: firming, TF-IDF: 0.0097684048
+  Word: lotion, TF-IDF: 0.0057982054
+  Word: philosophy, TF-IDF: 0.0055266785
+  Word: emulsion, TF-IDF: 0.004347953
+  Word: grace, TF-IDF: 0.0028497302
+  Word: scent, TF-IDF: 0.002614417
+  Word: sweet, TF-IDF: 0.002329447
+  Word: fragrance, TF-IDF: 0.0019757103
+  Word: perfume, TF-IDF: 0.0017281522
+
+Top words in 34_rev.txt:
+  Word: lotion, TF-IDF: 0.0081657289
+  Word: falling, TF-IDF: 0.003514432
+  Word: scent, TF-IDF: 0.0034461618
+  Word: perfume, TF-IDF: 0.0031644326
+  Word: philosophy, TF-IDF: 0.0025826938
+  Word: grace, TF-IDF: 0.0025568998
+  Word: fragrance, TF-IDF: 0.002302197
+  Word: scents, TF-IDF: 0.001835794
+  Word: firming, TF-IDF: 0.001739014
+  Word: sweet, TF-IDF: 0.0014447554
+
+Top words in 35_rev.txt:
+  Word: argan, TF-IDF: 0.003020887
+  Word: drops, TF-IDF: 0.0027209646
+  Word: cuticles, TF-IDF: 0.0016085442
+  Word: josie, TF-IDF: 0.0016005906
+  Word: maran, TF-IDF: 0.0012709789
+  Word: acne, TF-IDF: 0.001228654
+  Word: moisturizer, TF-IDF: 0.0011301225
+  Word: hair, TF-IDF: 0.0007540341
+  Word: patches, TF-IDF: 0.000693039
+  Word: oils, TF-IDF: 0.0006833337
+
+Top words in 36_rev.txt:
+  Word: contesti, TF-IDF: 0.0063775039
+  Word: hair, TF-IDF: 0.0057851789
+  Word: frizz, TF-IDF: 0.0055257814
+  Word: bumble, TF-IDF: 0.0049577357
+  Word: frizzy, TF-IDF: 0.0044501707
+  Word: contestthis, TF-IDF: 0.0032852178
+  Word: curly, TF-IDF: 0.002962603
+  Word: wavy, TF-IDF: 0.0019582448
+  Word: contest, TF-IDF: 0.0018852966
+  Word: influenster, TF-IDF: 0.0017963289
+
+Top words in 37_rev.txt:
+  Word: argan, TF-IDF: 0.0026808824
+  Word: drops, TF-IDF: 0.0021039451
+  Word: acne, TF-IDF: 0.001645088
+  Word: moisturizer, TF-IDF: 0.0013873899
+  Word: josie, TF-IDF: 0.0012555694
+  Word: cuticles, TF-IDF: 0.0010815501
+  Word: maran, TF-IDF: 0.00098546
+  Word: dropper, TF-IDF: 0.0009582406
+  Word: breakouts, TF-IDF: 0.0009216529
+  Word: oily, TF-IDF: 0.0007477324
+
+Top words in 38_rev.txt:
+  Word: divine, TF-IDF: 0.0034543475
+  Word: caudalie, TF-IDF: 0.0030872056
+  Word: absorbs, TF-IDF: 0.0013287523
+  Word: scent, TF-IDF: 0.0011498533
+  Word: hair, TF-IDF: 0.0011251581
+  Word: floral, TF-IDF: 0.0010210859
+  Word: smell, TF-IDF: 0.0009709869
+  Word: smells, TF-IDF: 0.0009589606
+  Word: legs, TF-IDF: 0.0009503305
+  Word: oils, TF-IDF: 0.0008552867
+
+Top words in 39_rev.txt:
+  Word: frizz, TF-IDF: 0.0063846947
+  Word: hair, TF-IDF: 0.006016583
+  Word: frizzy, TF-IDF: 0.004188814
+  Word: spray, TF-IDF: 0.0023317445
+  Word: curly, TF-IDF: 0.0020092482
+  Word: wavy, TF-IDF: 0.0018602262
+  Word: bamboo, TF-IDF: 0.001710986
+  Word: kendi, TF-IDF: 0.0016931446
+  Word: shiny, TF-IDF: 0.0014158572
+  Word: sprays, TF-IDF: 0.0013455237
+
+Top words in 40_rev.txt:
+  Word: deodorant, TF-IDF: 0.0421297343
+  Word: deodorants, TF-IDF: 0.0149059099
+  Word: vanilla, TF-IDF: 0.007823678
+  Word: aluminum, TF-IDF: 0.006240044
+  Word: antiperspirant, TF-IDF: 0.0053062256
+  Word: lavanila, TF-IDF: 0.0031744067
+  Word: underarms, TF-IDF: 0.0029200413
+  Word: anti-perspirant, TF-IDF: 0.0023816811
+  Word: lavender, TF-IDF: 0.002308173
+  Word: odor, TF-IDF: 0.0021205536
+
+Top words in 41_rev.txt:
+  Word: shea, TF-IDF: 0.0079180202
+  Word: l'occitane, TF-IDF: 0.0060447528
+  Word: blossom, TF-IDF: 0.0059143364
+  Word: cherry, TF-IDF: 0.0052237426
+  Word: amande, TF-IDF: 0.0034391577
+  Word: butter, TF-IDF: 0.003295724
+  Word: almond, TF-IDF: 0.0030908151
+  Word: lavender, TF-IDF: 0.0030357698
+  Word: lotion, TF-IDF: 0.0016865407
+  Word: purse, TF-IDF: 0.0015923712
+
+Top words in 42_rev.txt:
+  Word: love.smells, TF-IDF: 0.0351795056
+  Word: devine, TF-IDF: 0.0189011033
+  Word: grace, TF-IDF: 0.0089486546
+  Word: shampoo, TF-IDF: 0.006125555
+  Word: philosophy, TF-IDF: 0.0046315172
+  Word: shower, TF-IDF: 0.0037937593
+  Word: feminine, TF-IDF: 0.0030820899
+  Word: lathers, TF-IDF: 0.0029562689
+  Word: scent, TF-IDF: 0.0023578732
+  Word: perfume, TF-IDF: 0.0018019598
+
+Top words in 43_rev.txt:
+  Word: firming, TF-IDF: 0.0066000218
+  Word: grace, TF-IDF: 0.0062383607
+  Word: lotion, TF-IDF: 0.0050865859
+  Word: emulsion, TF-IDF: 0.0044946719
+  Word: philosophy, TF-IDF: 0.0025730281
+  Word: scent, TF-IDF: 0.0019956907
+  Word: perfume, TF-IDF: 0.0019140724
+  Word: smells, TF-IDF: 0.0014156073
+  Word: smell, TF-IDF: 0.0013985154
+  Word: fragrance, TF-IDF: 0.0013270005
+
+Top words in 44_rev.txt:
+  Word: apricot, TF-IDF: 0.0095180565
+  Word: vanilla, TF-IDF: 0.0079765796
+  Word: butter, TF-IDF: 0.0045271001
+  Word: citrus, TF-IDF: 0.0039974442
+  Word: butters, TF-IDF: 0.0031134859
+  Word: honeysuckle, TF-IDF: 0.0029532417
+  Word: scents, TF-IDF: 0.0023711407
+  Word: josie, TF-IDF: 0.0023070664
+  Word: whipped, TF-IDF: 0.0021515283
+  Word: sweet, TF-IDF: 0.0020215747
+
+Top words in 45_rev.txt:
+  Word: foundation, TF-IDF: 0.0057740922
+  Word: coverage, TF-IDF: 0.0037387435
+  Word: bareminerals, TF-IDF: 0.0036947911
+  Word: minerals, TF-IDF: 0.0023874653
+  Word: foundations, TF-IDF: 0.0022488348
+  Word: powder, TF-IDF: 0.0016952748
+  Word: cakey, TF-IDF: 0.0014442537
+  Word: mineral, TF-IDF: 0.0010563058
+  Word: buildable, TF-IDF: 0.0009622465
+  Word: liquid, TF-IDF: 0.0009571467
+
+Top words in 46_rev.txt:
+  Word: foundation, TF-IDF: 0.0080398912
+  Word: coverage, TF-IDF: 0.0044365792
+  Word: cakey, TF-IDF: 0.0032003957
+  Word: blender, TF-IDF: 0.0023181722
+  Word: foundations, TF-IDF: 0.0021040002
+  Word: kvd, TF-IDF: 0.0016835827
+  Word: shade, TF-IDF: 0.0015157504
+  Word: matched, TF-IDF: 0.0013687793
+  Word: von, TF-IDF: 0.0011949575
+  Word: setting, TF-IDF: 0.0010037475
+
+Top words in 47_rev.txt:
+  Word: foundation, TF-IDF: 0.006484359
+  Word: bareminerals, TF-IDF: 0.0040595757
+  Word: coverage, TF-IDF: 0.0031525334
+  Word: minerals, TF-IDF: 0.0028679468
+  Word: foundations, TF-IDF: 0.0021301493
+  Word: powder, TF-IDF: 0.0016238373
+  Word: shade, TF-IDF: 0.0012504994
+  Word: acne, TF-IDF: 0.0012125926
+  Word: veil, TF-IDF: 0.0011854567
+  Word: mineral, TF-IDF: 0.0011033819
+
+Top words in 48_rev.txt:
+  Word: foundation, TF-IDF: 0.0088261783
+  Word: coverage, TF-IDF: 0.004487208
+  Word: foundations, TF-IDF: 0.002394916
+  Word: cakey, TF-IDF: 0.0015983869
+  Word: blender, TF-IDF: 0.001313859
+  Word: mufe, TF-IDF: 0.0012958569
+  Word: shade, TF-IDF: 0.0011738316
+  Word: mattifying, TF-IDF: 0.00098209
+  Word: matches, TF-IDF: 0.000931213
+  Word: oily, TF-IDF: 0.000850216
+
+Top words in 49_rev.txt:
+  Word: foundation, TF-IDF: 0.0077676257
+  Word: coverage, TF-IDF: 0.0050104401
+  Word: foundations, TF-IDF: 0.0023512877
+  Word: cakey, TF-IDF: 0.0021910549
+  Word: shade, TF-IDF: 0.0020888117
+  Word: buildable, TF-IDF: 0.0017799961
+  Word: oxidizes, TF-IDF: 0.0015582509
+  Word: naked, TF-IDF: 0.0012828653
+  Word: blender, TF-IDF: 0.0012117471
+  Word: optical, TF-IDF: 0.0011064461
+
+Top words in 50_rev.txt:
+  Word: serum, TF-IDF: 0.0040852818
+  Word: influenster, TF-IDF: 0.0019868786
+  Word: vitamin, TF-IDF: 0.0019145764
+  Word: henriksen, TF-IDF: 0.0015684514
+  Word: acne, TF-IDF: 0.001564576
+  Word: brighter, TF-IDF: 0.0010766712
+  Word: scars, TF-IDF: 0.0010464947
+  Word: truth, TF-IDF: 0.0009805863
+  Word: moisturizer, TF-IDF: 0.0009539295
+  Word: collagen, TF-IDF: 0.0009291969
+
+Top words in 51_rev.txt:
+  Word: pores, TF-IDF: 0.0072424525
+  Word: primer, TF-IDF: 0.0040820067
+  Word: primers, TF-IDF: 0.0025474684
+  Word: porefessional, TF-IDF: 0.0025433565
+  Word: brandt, TF-IDF: 0.0024747798
+  Word: foundation, TF-IDF: 0.0020060941
+  Word: pore, TF-IDF: 0.0014076773
+  Word: refiner, TF-IDF: 0.0013876857
+  Word: minimizing, TF-IDF: 0.0013804032
+  Word: mattifies, TF-IDF: 0.0011427786
+
+Top words in 52_rev.txt:
+  Word: acne, TF-IDF: 0.0043891776
+  Word: scars, TF-IDF: 0.0043862251
+  Word: spots, TF-IDF: 0.0026676141
+  Word: corrector, TF-IDF: 0.0021694373
+  Word: marks, TF-IDF: 0.0013983999
+  Word: dark, TF-IDF: 0.0013485911
+  Word: clinical, TF-IDF: 0.0012660956
+  Word: clinique, TF-IDF: 0.0012514402
+  Word: serum, TF-IDF: 0.0011484228
+  Word: scarring, TF-IDF: 0.001140024
+
+Top words in 53_rev.txt:
+  Word: acne, TF-IDF: 0.0055882083
+  Word: eradikate, TF-IDF: 0.0040851583
+  Word: pimples, TF-IDF: 0.0035894625
+  Word: sulfur, TF-IDF: 0.003193495
+  Word: pimple, TF-IDF: 0.0026557864
+  Word: cystic, TF-IDF: 0.0022798112
+  Word: treatment, TF-IDF: 0.0017386284
+  Word: zits, TF-IDF: 0.0016184428
+  Word: blemishes, TF-IDF: 0.0015355855
+  Word: q-tip, TF-IDF: 0.0015046339
+
+Top words in 54_rev.txt:
+  Word: mask, TF-IDF: 0.0045687944
+  Word: glamglow, TF-IDF: 0.004220065
+  Word: tingle, TF-IDF: 0.0025775857
+  Word: tingling, TF-IDF: 0.0023677227
+  Word: youthmud, TF-IDF: 0.0021649411
+  Word: masks, TF-IDF: 0.0020623406
+  Word: pores, TF-IDF: 0.0016141103
+  Word: burning, TF-IDF: 0.0015331552
+  Word: sensation, TF-IDF: 0.0015104467
+  Word: supermud, TF-IDF: 0.001426281
+
+Top words in 55_rev.txt:
+  Word: lashes, TF-IDF: 0.0216085039
+  Word: mascara, TF-IDF: 0.0189463092
+  Word: eyelashes, TF-IDF: 0.0060422886
+  Word: mascaras, TF-IDF: 0.0058730299
+  Word: lengthening, TF-IDF: 0.004472283
+  Word: lengthens, TF-IDF: 0.0043528979
+  Word: clumpy, TF-IDF: 0.0035513527
+  Word: wand, TF-IDF: 0.0032891941
+  Word: volume, TF-IDF: 0.0032600234
+  Word: length, TF-IDF: 0.0025325433
+
+Top words in 56_rev.txt:
+  Word: lashes, TF-IDF: 0.0190310026
+  Word: mascara, TF-IDF: 0.018415094
+  Word: mascaras, TF-IDF: 0.0074911842
+  Word: eyelashes, TF-IDF: 0.0055490959
+  Word: clumpy, TF-IDF: 0.0041459477
+  Word: volume, TF-IDF: 0.0034825214
+  Word: flakes, TF-IDF: 0.0024252132
+  Word: raccoon, TF-IDF: 0.002240974
+  Word: wand, TF-IDF: 0.0022093021
+  Word: smudges, TF-IDF: 0.002166897
+
+Top words in 57_rev.txt:
+  Word: mascara, TF-IDF: 0.0209555619
+  Word: lashes, TF-IDF: 0.0208926666
+  Word: mascaras, TF-IDF: 0.0101628582
+  Word: buxom, TF-IDF: 0.0062703354
+  Word: eyelashes, TF-IDF: 0.0059506845
+  Word: volume, TF-IDF: 0.0054726134
+  Word: lengthens, TF-IDF: 0.0047941588
+  Word: separates, TF-IDF: 0.0033490544
+  Word: clumps, TF-IDF: 0.0032894533
+  Word: lengthening, TF-IDF: 0.0028191947
+
+Top words in 58_rev.txt:
+  Word: lashes, TF-IDF: 0.019033404
+  Word: mascara, TF-IDF: 0.0181525848
+  Word: mascaras, TF-IDF: 0.0078504544
+  Word: eyelashes, TF-IDF: 0.0066861044
+  Word: badgal, TF-IDF: 0.0056035901
+  Word: volume, TF-IDF: 0.0042408238
+  Word: lengthens, TF-IDF: 0.0039820655
+  Word: clumping, TF-IDF: 0.0024417021
+  Word: clumps, TF-IDF: 0.0023508462
+  Word: coats, TF-IDF: 0.0022253715
+
+Top words in 59_rev.txt:
+  Word: lashes, TF-IDF: 0.0188021154
+  Word: mascara, TF-IDF: 0.0187260394
+  Word: mascaras, TF-IDF: 0.0096120749
+  Word: eyelashes, TF-IDF: 0.0056038186
+  Word: clumpy, TF-IDF: 0.0048447642
+  Word: lengthens, TF-IDF: 0.0043253804
+  Word: volume, TF-IDF: 0.0043192195
+  Word: lengthening, TF-IDF: 0.0034282368
+  Word: clumps, TF-IDF: 0.0024339156
+  Word: length, TF-IDF: 0.0022806084
+
+Top words in 60_rev.txt:
+  Word: lips, TF-IDF: 0.0084765819
+  Word: balm, TF-IDF: 0.004874274
+  Word: chapstick, TF-IDF: 0.0044486136
+  Word: tulip, TF-IDF: 0.0044445223
+  Word: sugar, TF-IDF: 0.0033182335
+  Word: balms, TF-IDF: 0.00272994
+  Word: lipstick, TF-IDF: 0.0026791914
+  Word: petal, TF-IDF: 0.0024424457
+  Word: nude, TF-IDF: 0.0020226947
+  Word: untinted, TF-IDF: 0.0020079536
+
+Top words in 61_rev.txt:
+  Word: lips, TF-IDF: 0.0095991034
+  Word: salve, TF-IDF: 0.0092958599
+  Word: balm, TF-IDF: 0.0063705081
+  Word: chapped, TF-IDF: 0.0045197903
+  Word: cuticles, TF-IDF: 0.0040445084
+  Word: rosebud, TF-IDF: 0.0038490557
+  Word: balms, TF-IDF: 0.0022340553
+  Word: rose, TF-IDF: 0.0016274784
+  Word: elbows, TF-IDF: 0.00157888
+  Word: chapstick, TF-IDF: 0.0015679162
+
+Top words in 62_rev.txt:
+  Word: jasmine, TF-IDF: 0.0114244637
+  Word: guava, TF-IDF: 0.0092150198
+  Word: lips, TF-IDF: 0.0088441149
+  Word: pomegranate, TF-IDF: 0.008246703
+  Word: quince, TF-IDF: 0.0055531679
+  Word: balm, TF-IDF: 0.0051945534
+  Word: korres, TF-IDF: 0.0044450482
+  Word: butter, TF-IDF: 0.0037866301
+  Word: mango, TF-IDF: 0.0037464309
+  Word: wild, TF-IDF: 0.0026887512
+
+Top words in 63_rev.txt:
+  Word: lilac, TF-IDF: 0.0128255417
+  Word: lips, TF-IDF: 0.0080887853
+  Word: balm, TF-IDF: 0.0071915417
+  Word: coral, TF-IDF: 0.0063204393
+  Word: pink, TF-IDF: 0.004692108
+  Word: lipstick, TF-IDF: 0.0032137851
+  Word: balms, TF-IDF: 0.0024816368
+  Word: shade, TF-IDF: 0.0024128189
+  Word: dior, TF-IDF: 0.0022139988
+  Word: berry, TF-IDF: 0.0018553911
+
+Top words in 64_rev.txt:
+  Word: lips, TF-IDF: 0.011463822
+  Word: champagne, TF-IDF: 0.005325038
+  Word: chapped, TF-IDF: 0.0044760707
+  Word: mask, TF-IDF: 0.0026988422
+  Word: balm, TF-IDF: 0.0026812678
+  Word: agave, TF-IDF: 0.0023307153
+  Word: smashed, TF-IDF: 0.0020197433
+  Word: balms, TF-IDF: 0.00196922
+  Word: lipstick, TF-IDF: 0.0019269455
+  Word: bite, TF-IDF: 0.0017876095
+
+Top words in 65_rev.txt:
+  Word: nails, TF-IDF: 0.0159225935
+  Word: pills, TF-IDF: 0.0068866464
+  Word: vitamins, TF-IDF: 0.0062124764
+  Word: supplements, TF-IDF: 0.0049410075
+  Word: phyto, TF-IDF: 0.0040920531
+  Word: growth, TF-IDF: 0.0036883581
+  Word: hair, TF-IDF: 0.0036511209
+  Word: growing, TF-IDF: 0.0035020244
+  Word: supplement, TF-IDF: 0.0034524754
+  Word: biotin, TF-IDF: 0.0027236517
+
+Top words in 66_rev.txt:
+  Word: hair, TF-IDF: 0.0055964984
+  Word: frizz, TF-IDF: 0.0044219596
+  Word: frizzy, TF-IDF: 0.0041814614
+  Word: curly, TF-IDF: 0.0029557999
+  Word: caviar, TF-IDF: 0.0027310327
+  Word: conditioner, TF-IDF: 0.0025410859
+  Word: curls, TF-IDF: 0.0021828892
+  Word: styling, TF-IDF: 0.0020699684
+  Word: wavy, TF-IDF: 0.001964252
+  Word: leave-in, TF-IDF: 0.0016848221
+
+Top words in 67_rev.txt:
+  Word: influenster, TF-IDF: 0.01433872
+  Word: bonita, TF-IDF: 0.0077190175
+  Word: pre-wash, TF-IDF: 0.006794682
+  Word: hair, TF-IDF: 0.0051654455
+  Word: protein, TF-IDF: 0.0042900748
+  Word: voxbox, TF-IDF: 0.0030453205
+  Word: bonitavoxbox, TF-IDF: 0.0029930884
+  Word: madam, TF-IDF: 0.0029930884
+  Word: shampoo, TF-IDF: 0.0029102283
+  Word: walker, TF-IDF: 0.002891354
+
+Top words in 68_rev.txt:
+  Word: frizz, TF-IDF: 0.0063846947
+  Word: hair, TF-IDF: 0.006016583
+  Word: frizzy, TF-IDF: 0.004188814
+  Word: spray, TF-IDF: 0.0023317445
+  Word: curly, TF-IDF: 0.0020092482
+  Word: wavy, TF-IDF: 0.0018602262
+  Word: bamboo, TF-IDF: 0.001710986
+  Word: kendi, TF-IDF: 0.0016931446
+  Word: shiny, TF-IDF: 0.0014158572
+  Word: sprays, TF-IDF: 0.0013455237
+
+Top words in 69_rev.txt:
+  Word: conditioner, TF-IDF: 0.0064019883
+  Word: briogeo, TF-IDF: 0.0062911883
+  Word: hair, TF-IDF: 0.0054714776
+  Word: conditioning, TF-IDF: 0.0035787642
+  Word: mask, TF-IDF: 0.0033860764
+  Word: frizzy, TF-IDF: 0.0027590973
+  Word: despair, TF-IDF: 0.0021731395
+  Word: curly, TF-IDF: 0.0020478741
+  Word: shampoo, TF-IDF: 0.0017249262
+  Word: damaged, TF-IDF: 0.0016691733
+
+Top words in 70_rev.txt:
+  Word: funnel, TF-IDF: 0.0147232886
+  Word: flowerbomb, TF-IDF: 0.0124211025
+  Word: perfume, TF-IDF: 0.0070263235
+  Word: rollerball, TF-IDF: 0.0054214141
+  Word: refill, TF-IDF: 0.0050589156
+  Word: atomizer, TF-IDF: 0.0028233942
+  Word: floral, TF-IDF: 0.0026645919
+  Word: roller, TF-IDF: 0.0021376297
+  Word: refillable, TF-IDF: 0.0021161714
+  Word: perfumes, TF-IDF: 0.0020657402
+
+Top words in 71_rev.txt:
+  Word: nirvana, TF-IDF: 0.0238763675
+  Word: scents, TF-IDF: 0.0086899344
+  Word: rollerball, TF-IDF: 0.0080968171
+  Word: rollerballs, TF-IDF: 0.0053415911
+  Word: fragrances, TF-IDF: 0.0036655643
+  Word: perfumes, TF-IDF: 0.0030557759
+  Word: roller, TF-IDF: 0.0027103881
+  Word: sandalwood, TF-IDF: 0.002532342
+  Word: floral, TF-IDF: 0.0025100039
+  Word: layered, TF-IDF: 0.002438722
+
+Top words in 72_rev.txt:
+  Word: scents, TF-IDF: 0.0121310195
+  Word: moss, TF-IDF: 0.011363901
+  Word: commodity, TF-IDF: 0.0111401542
+  Word: mimosa, TF-IDF: 0.0109251745
+  Word: wool, TF-IDF: 0.009881653
+  Word: whiskey, TF-IDF: 0.0089913707
+  Word: magnolia, TF-IDF: 0.0073019821
+  Word: fragrances, TF-IDF: 0.0067120555
+  Word: book, TF-IDF: 0.0045327445
+  Word: unisex, TF-IDF: 0.0039695807
+
+Top words in 73_rev.txt:
+  Word: tocca, TF-IDF: 0.0247658929
+  Word: simone, TF-IDF: 0.0131113551
+  Word: florence, TF-IDF: 0.0116545378
+  Word: cleopatra, TF-IDF: 0.0109748743
+  Word: scents, TF-IDF: 0.0101141071
+  Word: rollerballs, TF-IDF: 0.0075175092
+  Word: stella, TF-IDF: 0.0065133448
+  Word: rollerball, TF-IDF: 0.006330604
+  Word: adhesive, TF-IDF: 0.0062378895
+  Word: glue, TF-IDF: 0.0060987844
+
+Top words in 74_rev.txt:
+  Word: burch, TF-IDF: 0.0186337441
+  Word: scents, TF-IDF: 0.0054237296
+  Word: perfume, TF-IDF: 0.0044683212
+  Word: bottles, TF-IDF: 0.0039787116
+  Word: feminine.i, TF-IDF: 0.0029080402
+  Word: perfumes, TF-IDF: 0.0027696904
+  Word: 250, TF-IDF: 0.0027547822
+  Word: fragrances, TF-IDF: 0.0025515953
+  Word: cute, TF-IDF: 0.0024853889
+  Word: duo, TF-IDF: 0.0023003889
+
+Top words in 75_rev.txt:
+  Word: palette, TF-IDF: 0.0336449947
+  Word: naked, TF-IDF: 0.0103923102
+  Word: colors, TF-IDF: 0.0075901261
+  Word: palettes, TF-IDF: 0.007521728
+  Word: pallet, TF-IDF: 0.0065539146
+  Word: shadows, TF-IDF: 0.0053398305
+  Word: shades, TF-IDF: 0.0046155734
+  Word: pigmented, TF-IDF: 0.003466475
+  Word: colours, TF-IDF: 0.00301735
+  Word: shimmery, TF-IDF: 0.0023693272
+
+Top words in 76_rev.txt:
+  Word: palette, TF-IDF: 0.0296505055
+  Word: naked, TF-IDF: 0.00849172
+  Word: colors, TF-IDF: 0.006870434
+  Word: pallet, TF-IDF: 0.0065995609
+  Word: palettes, TF-IDF: 0.0065747524
+  Word: shades, TF-IDF: 0.0055392304
+  Word: shadows, TF-IDF: 0.0052050288
+  Word: pigmented, TF-IDF: 0.0045450756
+  Word: pallete, TF-IDF: 0.003951965
+  Word: eyeshadow, TF-IDF: 0.0038916285
+
+Top words in 77_rev.txt:
+  Word: palette, TF-IDF: 0.0295831798
+  Word: palettes, TF-IDF: 0.0081058743
+  Word: colors, TF-IDF: 0.007421822
+  Word: naked, TF-IDF: 0.0072321521
+  Word: pallet, TF-IDF: 0.0064281557
+  Word: shades, TF-IDF: 0.005656665
+  Word: shadows, TF-IDF: 0.0050003928
+  Word: fallout, TF-IDF: 0.0044346757
+  Word: colours, TF-IDF: 0.0043853839
+  Word: pigmented, TF-IDF: 0.0038348258
+
+Top words in 78_rev.txt:
+  Word: palette, TF-IDF: 0.0332383914
+  Word: colors, TF-IDF: 0.007106731
+  Word: palettes, TF-IDF: 0.0064906138
+  Word: shadows, TF-IDF: 0.0057778322
+  Word: shades, TF-IDF: 0.0047660556
+  Word: pigmented, TF-IDF: 0.0041572881
+  Word: pallet, TF-IDF: 0.0041187444
+  Word: colours, TF-IDF: 0.0032322008
+  Word: teddy, TF-IDF: 0.0027138041
+  Word: eyeshadow, TF-IDF: 0.002707767
+
+Top words in 79_rev.txt:
+  Word: palette, TF-IDF: 0.0394667831
+  Word: pigmented, TF-IDF: 0.0078319369
+  Word: shadows, TF-IDF: 0.0077756728
+  Word: colors, TF-IDF: 0.0075710873
+  Word: pallet, TF-IDF: 0.0065429003
+  Word: palettes, TF-IDF: 0.005837288
+  Word: fallout, TF-IDF: 0.0051912857
+  Word: eyeshadow, TF-IDF: 0.0032349032
+  Word: colours, TF-IDF: 0.0031774184
+  Word: shades, TF-IDF: 0.0027881101
+
+Top words in 80_rev.txt:
+  Word: transformation, TF-IDF: 0.0034289556
+  Word: serum, TF-IDF: 0.0032093213
+  Word: invigorating, TF-IDF: 0.0031426773
+  Word: truth, TF-IDF: 0.0027869251
+  Word: acne, TF-IDF: 0.0020105087
+  Word: henriksen, TF-IDF: 0.001690006
+  Word: vitamin, TF-IDF: 0.0015941021
+  Word: trio, TF-IDF: 0.0014990232
+  Word: sheer, TF-IDF: 0.0014441165
+  Word: moisturizer, TF-IDF: 0.0012190883
+
+Top words in 81_rev.txt:
+  Word: influenster, TF-IDF: 0.0059196849
+  Word: system, TF-IDF: 0.0036788707
+  Word: steps, TF-IDF: 0.0029993252
+  Word: henriksen, TF-IDF: 0.0025603178
+  Word: vitamin, TF-IDF: 0.0022083924
+  Word: pods, TF-IDF: 0.0019354398
+  Word: step, TF-IDF: 0.001800013
+  Word: tingling, TF-IDF: 0.0013916184
+  Word: 3-step, TF-IDF: 0.0013053293
+  Word: sugar, TF-IDF: 0.001305033
+
+Top words in 82_rev.txt:
+  Word: acne, TF-IDF: 0.0067058201
+  Word: system, TF-IDF: 0.0037204953
+  Word: clinique, TF-IDF: 0.0025788856
+  Word: solutions, TF-IDF: 0.002094926
+  Word: cleared, TF-IDF: 0.0019213788
+  Word: clearing, TF-IDF: 0.0015342865
+  Word: toner, TF-IDF: 0.0014906828
+  Word: breakouts, TF-IDF: 0.0014832831
+  Word: proactive, TF-IDF: 0.0013943451
+  Word: proactiv, TF-IDF: 0.0011567819
+
+Top words in 83_rev.txt:
+  Word: genes, TF-IDF: 0.019193663
+  Word: luna, TF-IDF: 0.0147957004
+  Word: riley, TF-IDF: 0.0030861521
+  Word: sunday, TF-IDF: 0.0022072017
+  Word: lactic, TF-IDF: 0.0021665142
+  Word: duo, TF-IDF: 0.0018253572
+  Word: acne, TF-IDF: 0.0011517567
+  Word: tidal, TF-IDF: 0.0010449509
+  Word: acid, TF-IDF: 0.0009659946
+  Word: pores, TF-IDF: 0.00083642
+
+Top words in 84_rev.txt:
+  Word: influenster, TF-IDF: 0.015995159
+  Word: laszlo, TF-IDF: 0.0071321236
+  Word: detoxifying, TF-IDF: 0.0050522326
+  Word: cleansing, TF-IDF: 0.0040601027
+  Word: soap, TF-IDF: 0.0028975492
+  Word: complimentary, TF-IDF: 0.0021270044
+  Word: duo, TF-IDF: 0.0019933184
+  Word: cleanser, TF-IDF: 0.0016664601
+  Word: erno, TF-IDF: 0.0015971211
+  Word: purposes, TF-IDF: 0.0015335951
+
+Top words in 85_rev.txt:
+  Word: contesti, TF-IDF: 0.0065063384
+  Word: hair, TF-IDF: 0.0057702866
+  Word: frizz, TF-IDF: 0.0055979237
+  Word: bumble, TF-IDF: 0.0051107031
+  Word: frizzy, TF-IDF: 0.0044006728
+  Word: contestthis, TF-IDF: 0.0032937978
+  Word: curly, TF-IDF: 0.0029703404
+  Word: wavy, TF-IDF: 0.0019633591
+  Word: contest, TF-IDF: 0.0018902204
+  Word: influenster, TF-IDF: 0.0018010204
+
+Top words in 86_rev.txt:
+  Word: hair, TF-IDF: 0.0055964984
+  Word: frizz, TF-IDF: 0.0044219596
+  Word: frizzy, TF-IDF: 0.0041814614
+  Word: curly, TF-IDF: 0.0029557999
+  Word: caviar, TF-IDF: 0.0027310327
+  Word: conditioner, TF-IDF: 0.0025410859
+  Word: curls, TF-IDF: 0.0021828892
+  Word: styling, TF-IDF: 0.0020699684
+  Word: wavy, TF-IDF: 0.001964252
+  Word: leave-in, TF-IDF: 0.0016848221
+
+Top words in 87_rev.txt:
+  Word: curls, TF-IDF: 0.0136885529
+  Word: ouidad, TF-IDF: 0.0112035914
+  Word: curly, TF-IDF: 0.0107709379
+  Word: frizz, TF-IDF: 0.0092717289
+  Word: frizzy, TF-IDF: 0.005474123
+  Word: hair, TF-IDF: 0.0046538067
+  Word: crunchy, TF-IDF: 0.0044834056
+  Word: wavy, TF-IDF: 0.0032747814
+  Word: humidity, TF-IDF: 0.0032240988
+  Word: curl, TF-IDF: 0.0023317697
+
+Top words in 88_rev.txt:
+  Word: hair, TF-IDF: 0.0059469787
+  Word: contesti, TF-IDF: 0.0046333841
+  Word: frizz, TF-IDF: 0.0033615763
+  Word: bumble, TF-IDF: 0.0031882421
+  Word: frizzy, TF-IDF: 0.003171814
+  Word: styling, TF-IDF: 0.0022135685
+  Word: protectant, TF-IDF: 0.0018273564
+  Word: curly, TF-IDF: 0.0017158916
+  Word: detangler, TF-IDF: 0.0016568761
+  Word: heat, TF-IDF: 0.0016024623
+
+Top words in 89_rev.txt:
+  Word: frizz, TF-IDF: 0.0063846947
+  Word: hair, TF-IDF: 0.006016583
+  Word: frizzy, TF-IDF: 0.004188814
+  Word: spray, TF-IDF: 0.0023317445
+  Word: curly, TF-IDF: 0.0020092482
+  Word: wavy, TF-IDF: 0.0018602262
+  Word: bamboo, TF-IDF: 0.001710986
+  Word: kendi, TF-IDF: 0.0016931446
+  Word: shiny, TF-IDF: 0.0014158572
+  Word: sprays, TF-IDF: 0.0013455237
+
+Top words in 90_rev.txt:
+  Word: jar, TF-IDF: 0.00360099
+  Word: moisturizer, TF-IDF: 0.0027976445
+  Word: philosophy, TF-IDF: 0.0025270675
+  Word: smell, TF-IDF: 0.0017553824
+  Word: purity, TF-IDF: 0.0010121437
+  Word: absorbs, TF-IDF: 0.0009975516
+  Word: smells, TF-IDF: 0.0009376547
+  Word: dog, TF-IDF: 0.0008665851
+  Word: moisturizers, TF-IDF: 0.0007591213
+  Word: renewed, TF-IDF: 0.0007266845
+
+Top words in 91_rev.txt:
+  Word: argan, TF-IDF: 0.003020887
+  Word: drops, TF-IDF: 0.0027209646
+  Word: cuticles, TF-IDF: 0.0016085442
+  Word: josie, TF-IDF: 0.0016005906
+  Word: maran, TF-IDF: 0.0012709789
+  Word: acne, TF-IDF: 0.001228654
+  Word: moisturizer, TF-IDF: 0.0011301225
+  Word: hair, TF-IDF: 0.0007540341
+  Word: patches, TF-IDF: 0.000693039
+  Word: oils, TF-IDF: 0.0006833337
+
+Top words in 92_rev.txt:
+  Word: eczema, TF-IDF: 0.0021331856
+  Word: moisturizer, TF-IDF: 0.002014361
+  Word: lotion, TF-IDF: 0.0009544555
+  Word: acne, TF-IDF: 0.0009403809
+  Word: repair, TF-IDF: 0.0008952801
+  Word: moisturizers, TF-IDF: 0.0008263454
+  Word: patches, TF-IDF: 0.0007941785
+  Word: redness, TF-IDF: 0.0006437087
+  Word: absorbs, TF-IDF: 0.0006314771
+  Word: hydrating, TF-IDF: 0.0005716485
+
+Top words in 93_rev.txt:
+  Word: moisturizer, TF-IDF: 0.0037784499
+  Word: moisturizers, TF-IDF: 0.0018903063
+  Word: absorbs, TF-IDF: 0.0015977196
+  Word: clinique, TF-IDF: 0.0013881826
+  Word: gel, TF-IDF: 0.0013387337
+  Word: acne, TF-IDF: 0.0012133248
+  Word: lotion, TF-IDF: 0.0011511912
+  Word: oily, TF-IDF: 0.0011221272
+  Word: lightweight, TF-IDF: 0.0009168951
+  Word: t-zone, TF-IDF: 0.0007997934
+
+Top words in 94_rev.txt:
+  Word: moisturizer, TF-IDF: 0.0034741116
+  Word: surge, TF-IDF: 0.0019980019
+  Word: clinique, TF-IDF: 0.001738951
+  Word: moisturizers, TF-IDF: 0.0015111401
+  Word: absorbs, TF-IDF: 0.0014408451
+  Word: jar, TF-IDF: 0.001189386
+  Word: acne, TF-IDF: 0.0011507889
+  Word: moisture, TF-IDF: 0.0008678604
+  Word: gel, TF-IDF: 0.0006745462
+  Word: hydrated, TF-IDF: 0.0006422693
+
+Top words in 95_rev.txt:
+  Word: serum, TF-IDF: 0.0040818022
+  Word: influenster, TF-IDF: 0.00199367
+  Word: vitamin, TF-IDF: 0.0019647825
+  Word: henriksen, TF-IDF: 0.0015738126
+  Word: acne, TF-IDF: 0.0015699239
+  Word: brighter, TF-IDF: 0.0010578441
+  Word: scars, TF-IDF: 0.0010500718
+  Word: truth, TF-IDF: 0.000983938
+  Word: moisturizer, TF-IDF: 0.0009571901
+
+Top words in 96_rev.txt:
+  Word: korres, TF-IDF: 0.0060794644
+  Word: brightening, TF-IDF: 0.0027769134
+  Word: moisturizer, TF-IDF: 0.0023901626
+  Word: rose, TF-IDF: 0.00181612
+  Word: wild, TF-IDF: 0.0013045892
+  Word: moisturizers, TF-IDF: 0.0011079535
+  Word: jar, TF-IDF: 0.0010463692
+  Word: absorbs, TF-IDF: 0.0010298518
+  Word: sleeping, TF-IDF: 0.0010207758
+  Word: facial, TF-IDF: 0.0008613364
+
+Top words in 97_rev.txt:
+  Word: rose, TF-IDF: 0.0026944307
+  Word: korres, TF-IDF: 0.0023850112
+  Word: roses, TF-IDF: 0.0021715159
+  Word: sleeping, TF-IDF: 0.0014159002
+  Word: acne, TF-IDF: 0.0013411068
+  Word: wild, TF-IDF: 0.0011282356
+  Word: brightening, TF-IDF: 0.0010736261
+  Word: smell, TF-IDF: 0.0009572342
+  Word: brighter, TF-IDF: 0.0009149338
+  Word: jar, TF-IDF: 0.0008895387
+
+Top words in 98_rev.txt:
+  Word: murad, TF-IDF: 0.0029200134
+  Word: spots, TF-IDF: 0.0028258182
+  Word: hydroquinone, TF-IDF: 0.0027929676
+  Word: acne, TF-IDF: 0.002447125
+  Word: lightening, TF-IDF: 0.0024242928
+  Word: scars, TF-IDF: 0.0023393517
+  Word: freckles, TF-IDF: 0.0020654989
+  Word: serum, TF-IDF: 0.0020252069
+  Word: lightened, TF-IDF: 0.0018761008
+  Word: hyperpigmentation, TF-IDF: 0.0012369418
+
+Top words in 99_rev.txt:
+  Word: genes, TF-IDF: 0.0078384436
+  Word: luna, TF-IDF: 0.0066187957
+  Word: riley, TF-IDF: 0.0031075523
+  Word: lactic, TF-IDF: 0.0027372972
+  Word: sunday, TF-IDF: 0.0023343493
+  Word: acne, TF-IDF: 0.0019808518
+  Word: acid, TF-IDF: 0.001457945
+  Word: lemongrass, TF-IDF: 0.0013165288
+  Word: tidal, TF-IDF: 0.0011819745
+  Word: scars, TF-IDF: 0.0010585984
