@@ -26,12 +26,11 @@ COLUMN_NAMES = dict(
         num_review = 'Number of Reviews',
         price = 'Price',
         rating = 'Rating',
-        score = 'Score',
-        similarity_score = 'Similarity Score',
+        score = 'Recommendation Score',
+        similarity_score = 'Similarity Score of Product Description and Reviews',
         similarity_rank = 'Similarity Rank',
         word = 'Key Word',
-        dfidf = 'TF-IDF',
-        Unnamed = 'Index')
+        dfidf = 'Importance: TF-IDF Score')
 
 
 def _load_column(filename, col=0):
@@ -110,7 +109,9 @@ def index(request):
         columns, result = res
     
         context['result'] = result
-        context['num_results'] = int(len(result)/5)
+        context['num_products'] = int(len(result)/5)
+        context['num_words'] = int(len(result)/5)
+        context['total_lines'] = len(result)
         context['columns'] = [COLUMN_NAMES.get(x, x) for x in columns]
         #context['content_analysis'] = 
         

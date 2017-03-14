@@ -69,7 +69,7 @@ def plots(category, wordfile):
     
     
 #    words = pd.read_csv('test.csv', usecols=[2,3])
-    words = pd.read_csv(wordfile, usecols=[1,8,9]).set_index('category')
+    words = pd.read_csv(wordfile, usecols=[1,9,10]).set_index('category')
     
     worddata = words.loc[category]
     
@@ -108,10 +108,9 @@ def find_products(args_from_ui):
     else:
         file_name = 'num_review_top5.csv'
     
-    df = pd.read_csv(file_name)
+    df = pd.read_csv(file_name, usecols=range(1,11), dtype={'rating':np.float,'num_review':np.int,'score':np.float,'similarity_score':np.float, 'dfidf':np.float})
+    df = df.round({'rating':1, 'score': 6, 'similarity_score':6, 'dfidf':6})
     headers = list(df)
-    
-    df.round({'score': 1, 'similarity_score': 6})
 
     df = df[df['category'] == args_from_ui['category']]
     data = df.values.tolist()
@@ -119,3 +118,4 @@ def find_products(args_from_ui):
     plots(args_from_ui['category'], file_name)
     
     return headers, data
+
