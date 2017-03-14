@@ -45,4 +45,4 @@ To run:
     activate your web browser, then go to http://127.0.0.1:8000/
   
   
-### All results are saved to shorten runing time
+#### Note: All results are saved to shorten runing time
