@@ -1,0 +1,276 @@
+,category,brand_name,name,price,rating,url,num_review,score
+0,Face Brushes,surratt beauty,Artistique Highlight Brush,$115.00,5.0,http://www.sephora.com/artistique-highlight-brush-P394814,1.0,4.979338842975206
+1,Face Brushes,surratt beauty,Artistique Face Brush,$230.00,5.0,http://www.sephora.com/artistique-face-brush-P394816,2.0,4.9789029535864975
+2,Face Brushes,KEVYN AUCOIN,The Large Powder Brush,$75.00,5.0,http://www.sephora.com/the-large-powder-brush-P404816,1.0,4.969135802469136
+3,Face Brushes,Black Up,Contouring Brush,$59.00,5.0,http://www.sephora.com/contouring-brush-P409814,1.0,4.961538461538462
+4,Face Brushes,KEVYN AUCOIN,The Neo Powder Brush,$60.00,0.0,http://www.sephora.com/the-neo-powder-brush-P416355,1.0,4.959016393442623
+5,Fine Lines & Wrinkles,Guerlain,Abeille Royale 1-Month Youth Treatment,$265.00,5.0,http://www.sephora.com/abeille-royale-1-month-youth-treatment-P397607,1.0,4.990774907749078
+6,Fine Lines & Wrinkles,Algenist,Catalyst Alguronic Acid Power Treatment,$145.00,5.0,http://www.sephora.com/catalyst-alguronic-acid-power-treatment-P402603,1.0,4.983443708609271
+7,Fine Lines & Wrinkles,KAPLAN MD,Intensive Eye Concentrate,$85.00,2.0,http://www.sephora.com/intensive-eye-concentrate-P392463,1.0,4.971590909090909
+8,Fine Lines & Wrinkles,Tria,Nourishing Eye Renewal Cream,$65.00,1.0,http://www.sephora.com/nourishing-eye-renewal-cream-P398819,1.0,4.962686567164179
+9,Fine Lines & Wrinkles,Lancer,The Method: Nourish Sensitive Skin,$125.00,4.25,http://www.sephora.com/the-method-nourish-sensitive-skin-P399744,4.0,4.924812030075188
+10,Men's,The Art of Shaving,Lexington Collection™ Shave Set,$150.00,2.0,http://www.sephora.com/lexington-collection-shave-set-P404493,1.0,4.983660130718954
+11,Men's,The Art of Shaving,Lexington Collection™ Razor & Cartridge,$125.00,5.0,http://www.sephora.com/lexington-collection-tm-razor-cartridge-P387951,1.0,4.980916030534351
+12,Men's,HERMÈS,Voyage d’Hermès Moisturizing Face and Body Balm,$74.00,4.0,http://www.sephora.com/voyage-d-hermes-moisturizing-face-body-balm-P380628,1.0,4.968354430379747
+13,Men's,CHANEL,BLEU DE CHANEL After Shave Lotion,$60.00,5.0,http://www.sephora.com/bleu-de-chanel-after-shave-balm-P275200,1.0,4.962121212121212
+14,Men's,Anthony,High Performance Age Defying Trio,$59.00,5.0,http://www.sephora.com/high-performance-age-defying-trio-P397374,1.0,4.961538461538462
+15,Makeup Removers,Lancer,Makeup Removing Wipes,$40.00,4.0,http://www.sephora.com/makeup-removing-wipes-P408901,2.0,4.891304347826087
+16,Makeup Removers,Bobbi Brown,Line & Define Long-Wear Eye Set,$56.00,3.5,http://www.sephora.com/line-define-long-wear-eye-set-P414773,4.0,4.841269841269841
+17,Makeup Removers,Cinema Secrets,Call Time Gentle Cleansing Water,$16.00,3.3333,http://www.sephora.com/call-time-gentle-cleansing-water-P410841,3.0,4.659090909090909
+18,Makeup Removers,Bobbi Brown,Eye Makeup Remover,$41.00,3.625,http://www.sephora.com/eye-makeup-remover-P395512,9.0,4.5754716981132075
+19,Makeup Removers,Laura Mercier,Flawless Skin Dual-Action Eye Makeup Remover Oil-Free,$24.00,4.0,http://www.sephora.com/flawless-skin-dual-action-eye-makeup-remover-oil-free-P280930,7.0,4.5
+20,Face Masks,Omorovicza,Instant Plumping Cream Overnight Mask,$260.00,3.5,http://www.sephora.com/instant-plumping-cream-P309213,2.0,4.981132075471698
+21,Face Masks,Skin Inc.,Mask To Perfection,$95.00,5.0,http://www.sephora.com/mask-to-perfection-P406102,1.0,4.975247524752476
+22,Face Masks,Tata Harper,The Multi-Masking Collection,$178.00,4.5,http://www.sephora.com/the-multi-masking-collection-P412769,2.0,4.9728260869565215
+23,Face Masks,Lancer,Younger® Revealing Mask Intense,$250.00,3.6667,http://www.sephora.com/younger-revealing-mask-intense-P414110,3.0,4.970703125
+24,Face Masks,Lancer,Radiance Awakening Mask Intense,$140.00,4.0,http://www.sephora.com/radiance-awakening-mask-intense-P415663,2.0,4.965753424657534
+25,Lipstick,Black Up,Matte Liquid Lipcolor,$27.50,4.0,http://www.sephora.com/matte-liquid-lipcolor-P416363,1.0,4.921875
+26,Lipstick,TOM FORD,Lip Color Shine,$53.00,5.0,http://www.sephora.com/lip-color-shine-P416223,2.0,4.916666666666667
+27,Lipstick,Smashbox,Be Legendary Cream Lipstick Palette,$75.00,3.5,http://www.sephora.com/be-legendary-cream-lipstick-palette-P416406,3.0,4.907407407407407
+28,Lipstick,TOM FORD,Lip Color Matte,$53.00,5.0,http://www.sephora.com/lip-color-matte-P416222,3.0,4.877049180327869
+29,Lipstick,Urban Decay,Vice Lipstick Stockpile,$325.00,4.6316,http://www.sephora.com/vice-lipstick-stockpile-P414299,19.0,4.863505747126437
+30,Lotions & Oils,Dior,J’adore Huile Divine Oil,$85.00,5.0,http://www.sephora.com/j-adore-huile-divine-oil-P413672,1.0,4.972527472527473
+31,Lotions & Oils,Tory Burch,Tory Burch Crème De Florale Body Crème,$82.00,5.0,http://www.sephora.com/tory-burch-creme-de-florale-body-cr-egrave-me-P404284,1.0,4.971590909090909
+32,Lotions & Oils,TOM FORD,Oud Wood Body Moisturizer,$67.00,5.0,http://www.sephora.com/oud-wood-body-moisturizer-P393173,1.0,4.965753424657534
+33,Lotions & Oils,Michael Kors,Michael Kors Body Crème,$60.00,5.0,http://www.sephora.com/michael-kors-body-creme-P395446,1.0,4.962121212121212
+34,Lotions & Oils,AERIN,Gardenia Rattan Body Cream,$58.00,5.0,http://www.sephora.com/gardenia-rattan-body-cream-P395776,1.0,4.9609375
+35,Hair Oil,Shiseido,Future Solution LX Replenishing Treatment Oil,$175.00,5.0,http://www.sephora.com/future-solution-lx-replenishing-treatment-oil-P405402,3.0,4.959016393442623
+36,Hair Oil,Rahua,Elixir,$175.00,4.8,http://www.sephora.com/elixir-P407491,5.0,4.932065217391305
+37,Hair Oil,Rahua,Elixir Daily Hair Drops,$105.00,4.5,http://www.sephora.com/elixir-daily-hair-drops-P408244,4.0,4.911504424778761
+38,Hair Oil,Perricone MD,PRE:EMPT SERIES™ The Fixer Solid Oil Balm,$38.00,0.0,http://www.sephora.com/pre-empt-series-fixer-solid-oil-balm-P415709,2.0,4.875
+39,Hair Oil,Moroccanoil,Pure Argan Oil,$52.00,5.0,http://www.sephora.com/pure-argan-oil-P412114,3.0,4.875
+40,Bath & Body,Tory Burch,Tory Burch Crème De Florale Body Crème,$82.00,5.0,http://www.sephora.com/tory-burch-creme-de-florale-body-cr-egrave-me-P404284,1.0,4.971590909090909
+41,Bath & Body,TOM FORD,Oud Wood Body Moisturizer,$67.00,5.0,http://www.sephora.com/oud-wood-body-moisturizer-P393173,1.0,4.965753424657534
+42,Bath & Body,Michael Kors,Michael Kors Body Crème,$60.00,5.0,http://www.sephora.com/michael-kors-body-creme-P395446,1.0,4.962121212121212
+43,Bath & Body,AERIN,Lilac Path Body Cream,$58.00,5.0,http://www.sephora.com/lilac-path-body-cream-P395770,1.0,4.9609375
+44,Bath & Body,AERIN,Gardenia Rattan Body Cream,$58.00,5.0,http://www.sephora.com/gardenia-rattan-body-cream-P395776,1.0,4.9609375
+45,Foundation,Dior,Capture Totale Dreamskin Perfect Skin Cushion Broad Spectrum SPF 50 Refill,$42.00,5.0,http://www.sephora.com/capture-totale-dreamskin-perfect-skin-cushion-broad-spectrum-spf-50-refill-P415684,1.0,4.947916666666667
+46,Foundation,philosophy,Renewed Hope in a Jar Skin Tint,$39.00,5.0,http://www.sephora.com/renewed-hope-in-jar-skin-tint-P417009,1.0,4.944444444444445
+47,Foundation,Dr. Jart+,Air Mesh,$48.00,5.0,http://www.sephora.com/air-mesh-P416583,2.0,4.909090909090909
+48,Foundation,Erborian,Liquid BB Crème Au Ginseng Cushion Compact,$48.00,3.0,http://www.sephora.com/liquid-bb-cr-me-au-ginseng-cushion-compact-P411366,2.0,4.90566037735849
+49,Foundation,bareMinerals,Ingrid Nilsen Be Your best Self 4-Piece Customizable Set,$50.00,4.6,http://www.sephora.com/ingrid-nilsen-be-your-best-self-4-piece-customizable-set-P417101,5.0,4.788135593220339
+50,Face Serums,Lancer,Lift Serum Intense with Stem Cell Recovery Complex,$275.00,5.0,http://www.sephora.com/lift-serum-intense-with-stem-cell-recovery-complex-P406736,1.0,4.9911032028469755
+51,Face Serums,Lancer,Younger® Pure Youth Serum with MIMIXYL™,$275.00,5.0,http://www.sephora.com/younger-pure-youth-serum-with-mimixyl-P406610,1.0,4.9911032028469755
+52,Face Serums,Guerlain,Abeille Royale 1-Month Youth Treatment,$265.00,5.0,http://www.sephora.com/abeille-royale-1-month-youth-treatment-P397607,1.0,4.990774907749078
+53,Face Serums,AmorePacific,All Day Balancing Care Serum,$200.00,5.0,http://www.sephora.com/all-day-balancing-care-serum-P412405,1.0,4.987864077669903
+54,Face Serums,Kate Somerville,KateCeuticals™ Restor8 Replenishing Serum,$170.00,5.0,http://www.sephora.com/kateceuticals-restor8-replenishing-serum-P409918,1.0,4.985795454545454
+55,Mascara,Lancer,Lash Serum Intense,$150.00,4.0,http://www.sephora.com/lash-serum-intense-P414108,2.0,4.967948717948718
+56,Mascara,Chosungah 22,Dong Gong Minn Rocking Volume Mascara,$22.00,3.0,http://www.sephora.com/dong-gong-minn-rocking-volume-mascara-P408033,1.0,4.903846153846154
+57,Mascara,Bobbi Brown,Line & Define Long-Wear Eye Set,$56.00,3.5,http://www.sephora.com/line-define-long-wear-eye-set-P414773,4.0,4.841269841269841
+58,Mascara,Guerlain,My Beauty Essentials Set,$32.00,0.0,http://www.sephora.com/my-beauty-essentials-set-P416772,3.0,4.785714285714286
+59,Mascara,Marc Jacobs Beauty,About Lash Night 3-Piece Mascara And Eyeliner Collection,$36.00,4.0,http://www.sephora.com/about-lash-night-3-piece-mascara-eyeliner-collection-P411243,4.0,4.7727272727272725
+60,Lip Balms & Treatments,Kari Gran,Lip Whip Duo,$42.00,5.0,http://www.sephora.com/lip-whip-duo-P406307,1.0,4.947916666666667
+61,Lip Balms & Treatments,Fresh,In The Buff Bundle,$42.00,0.0,http://www.sephora.com/in-buff-bundle-P416956,1.0,4.941860465116279
+62,Lip Balms & Treatments,rms beauty,Lip & Skin Balm,$36.00,4.0,http://www.sephora.com/lip-skin-balm-P415649,1.0,4.939024390243903
+63,Lip Balms & Treatments,VERSO SKINCARE,Lip Serum,$65.00,3.5,http://www.sephora.com/lip-serum-P414719,2.0,4.928571428571429
+64,Lip Balms & Treatments,Fresh,Nourishing Naturals Lip Duo,$28.00,5.0,http://www.sephora.com/nourishing-naturals-lip-duo-P416324,2.0,4.857142857142857
+65,Scalp & Hair Treatments,Phyto,Phytoplage Sublime After Sun Hair & Body Oil,$40.00,4.0,http://www.sephora.com/phytoplage-sublime-after-sun-hair-body-oil-P394360,1.0,4.944444444444445
+66,Scalp & Hair Treatments,Phyto,Phytospecific Rich Hydration Mask,$39.00,1.0,http://www.sephora.com/phytospecific-rich-hydration-mask-P389803,1.0,4.939024390243903
+67,Scalp & Hair Treatments,Sachajuan,Hair In The Sun,$32.00,5.0,http://www.sephora.com/hair-in-sun-P410235,1.0,4.934210526315789
+68,Scalp & Hair Treatments,Rahua,Elixir,$175.00,4.8,http://www.sephora.com/elixir-P407491,5.0,4.932065217391305
+69,Scalp & Hair Treatments,Phyto,Phytologist Botanical Scalp and Hair Concentrate,$95.00,5.0,http://www.sephora.com/phytologist-botanical-scalp-hair-concentrate-P411362,3.0,4.927184466019417
+70,Perfume Gift Sets,Atelier Cologne,Collection Azur Deluxe Gift Set,$295.00,1.0,http://www.sephora.com/collection-azur-deluxe-gift-set-P401557,1.0,4.991582491582491
+71,Perfume Gift Sets,Chloé,Chloe Signature Prestige Gift Set,$138.00,5.0,http://www.sephora.com/chloe-signature-prestige-gift-set-P411914,1.0,4.982638888888889
+72,Perfume Gift Sets,Viktor & Rolf,Flowerbomb Gift Set,$120.00,5.0,http://www.sephora.com/flowerbomb-gift-set-P415800,1.0,4.98015873015873
+73,Perfume Gift Sets,Tory Burch,Tory Burch Gift Set,$110.00,5.0,http://www.sephora.com/tory-burch-gift-set-P411726,1.0,4.978448275862069
+74,Perfume Gift Sets,kate spade new york,Live Colorfully Gift Set,$98.00,5.0,http://www.sephora.com/live-colorfully-gift-set-P411330,1.0,4.975961538461538
+75,Makeup Palettes,Smashbox,Be Legendary Cream Lipstick Palette,$75.00,3.5,http://www.sephora.com/be-legendary-cream-lipstick-palette-P416406,3.0,4.907407407407407
+76,Makeup Palettes,Viseart,Highlight & Contour Palette,$80.00,4.25,http://www.sephora.com/highlight-contour-palette-P412348,4.0,4.886363636363637
+77,Makeup Palettes,Natasha Denona,Eyeshadow Palette 10,$95.00,5.0,http://www.sephora.com/eyeshadow-palette-10-P411827,6.0,4.8584905660377355
+78,Makeup Palettes,Guerlain,Palette 5 Couleurs,$69.00,3.4,http://www.sephora.com/palette-5-couleurs-P412121,5.0,4.837662337662338
+79,Makeup Palettes,CLINIQUE,Pretty Easy Brow Palette,$34.50,4.6667,http://www.sephora.com/pretty-easy-brow-palette-P400706,3.0,4.817073170731708
+80,Value & Gift Sets,NuFACE,Trinity Facial Toning Device + Wrinkle Reducer Attachment Bundle,$429.00,5.0,http://www.sephora.com/trinity-facial-toning-device-wrinkle-reducer-attachment-bundle-P393600,1.0,4.994252873563219
+81,Value & Gift Sets,ghd,The Smooth & finish Kit,$279.00,4.0,http://www.sephora.com/the-smooth-finish-kit-P408694,1.0,4.991197183098592
+82,Value & Gift Sets,iluminage,Deluxe Skin Smoothing Set,$475.00,4.5,http://www.sephora.com/deluxe-skin-smoothing-set-P406918,2.0,4.98960498960499
+83,Value & Gift Sets,NuFACE,White Rose Mini Facial Toning Device,$225.00,1.0,http://www.sephora.com/white-rose-mini-facial-toning-device-P401172,1.0,4.988986784140969
+84,Value & Gift Sets,ghd,Copper Luxe Air Professional Hairdryer,$199.00,5.0,http://www.sephora.com/copper-luxe-air-professional-hairdryer-P414090,1.0,4.987804878048781
+85,Curls & Coils,Rahua,Hair Detox And Renewal Treatment Kit,$98.00,3.0,http://www.sephora.com/hair-detox-renewal-treatment-kit-P410648,2.0,4.951456310679611
+86,Curls & Coils,DevaCurl,Livin’ Large Super Curly Edition Set,$88.00,5.0,http://www.sephora.com/livin-large-super-curly-edition-set-P415712,2.0,4.947368421052632
+87,Curls & Coils,Ouidad,Curl Quencher® Trial Set for Tight Curls,$36.00,4.0,http://www.sephora.com/curl-quencher-trial-set-for-tight-curls-P401134,1.0,4.939024390243903
+88,Curls & Coils,DevaCurl,Bombshell Waves,$40.00,0.0,http://www.sephora.com/bombshell-waves-P417005,1.0,4.939024390243903
+89,Curls & Coils,Vernon Francois,PURE~FRO® Conditioner,$33.00,5.0,http://www.sephora.com/pure-fro-conditioner-P416307,1.0,4.935897435897436
+90,Dryness,Givenchy,Hydra Sparkling Recharging Luminescence Mask,$49.00,0.0,http://www.sephora.com/recharging-luminescence-moistuizing-mask-P395014,1.0,4.95
+91,Dryness,SK-II,Skin Signature Melting Rich Cream,$260.00,3.2222,http://www.sephora.com/skin-signature-melting-rich-cream-P375862,9.0,4.917279411764706
+92,Dryness,Guerlain,Super Aqua-Day Cream,$135.00,4.2857,http://www.sephora.com/super-aqua-day-cream-P386530,7.0,4.88013698630137
+93,Dryness,Fresh,Crème Ancienne® Infusion Toner,$90.00,4.0,http://www.sephora.com/creme-ancienne-r-infusion-toner-P392618,5.0,4.873737373737374
+94,Dryness,Dior,Hydra Life Beauty Awakening Rehydrating Mask Capsules,$42.00,4.6667,http://www.sephora.com/hydra-life-beauty-awakening-rehydrating-mask-capsules-P408131,3.0,4.846938775510204
+95,Dark Spots,Shiseido,Future Solution LX Total Protective Emulsion Broad Spectrum SPF 18 Sunscreen,$240.00,4.5,http://www.sephora.com/future-solution-lx-total-protective-emulsion-broad-spectrum-spf-18-sunscreen-P384789,2.0,4.979674796747967
+96,Dark Spots,Estée Lauder,Nutritious Rosy Prism™ Radiant Essence,$80.00,4.0,http://www.sephora.com/nutritious-rosy-prism-radiant-essence-P389239,1.0,4.970588235294118
+97,Dark Spots,Clarins,Super Restorative Night Age Spot Correcting Replenishing Cream,$135.00,4.5,http://www.sephora.com/super-restorative-night-age-spot-correcting-replenishing-cream-P388544,2.0,4.964539007092198
+98,Dark Spots,Shiseido,Future Solution LX Ultimate Regenerating Serum,$225.00,4.75,http://www.sephora.com/future-solution-lx-ultimate-regenerating-serum-P296864,4.0,4.957081545064377
+99,Dark Spots,Shiseido,Future Solution LX Superior Radiance Serum,$225.00,3.5,http://www.sephora.com/future-solution-lx-superior-radiance-serum-P384790,4.0,4.956896551724138
+100,Hair Styling Products,Phyto,Phytoplage Sublime After Sun Hair & Body Oil,$40.00,4.0,http://www.sephora.com/phytoplage-sublime-after-sun-hair-body-oil-P394360,1.0,4.944444444444445
+101,Hair Styling Products,Rahua,Defining Hair Spray,$37.00,5.0,http://www.sephora.com/defining-hair-spray-P407495,1.0,4.941860465116279
+102,Hair Styling Products,SHOW BEAUTY,Lux Volume Mist,$40.00,1.0,http://www.sephora.com/lux-volume-mist-P394231,1.0,4.940476190476191
+103,Hair Styling Products,ALTERNA Haircare,CAVIAR Infinite Color Hold Vibrancy Serum,$34.00,5.0,http://www.sephora.com/caviar-infinite-color-hold-vibrancy-serum-P416598,1.0,4.9375
+104,Hair Styling Products,Rahua,Freestyle Texturizer,$34.00,5.0,http://www.sephora.com/freestyle-texturizer-P414663,1.0,4.9375
+105,Shampoo,Gloss Moderne,High-Gloss Shampoo & Conditioner Duo,$80.00,5.0,http://www.sephora.com/high-gloss-shampoo-conditioner-duo-P408962,1.0,4.97093023255814
+106,Shampoo,Lavett & Chin,Hair Wash - Light,$38.00,5.0,http://www.sephora.com/hair-wash-light-P407723,1.0,4.943181818181818
+107,Shampoo,Ouidad,Curl Immersion™ Coconut Cream Cleansing Conditioner,$36.00,1.0,http://www.sephora.com/curl-immersion-coconut-cream-cleansing-conditioner-P409547,1.0,4.934210526315789
+108,Shampoo,Sachajuan,Normal Hair Shampoo,$26.00,4.0,http://www.sephora.com/normal-hair-shampoo-P410218,1.0,4.919354838709677
+109,Shampoo,Sachajuan,Volume Shampoo,$26.00,4.0,http://www.sephora.com/volume-shampoo-P410223,1.0,4.919354838709677
+110,Face Oils,VERSO SKINCARE,Super Facial Oil Set,$195.00,4.0,http://www.sephora.com/super-facial-oil-set-P394849,1.0,4.9875
+111,Face Oils,KORRES,Precious Oils Collection,$135.00,5.0,http://www.sephora.com/precious-oils-collection-P396247,2.0,4.964788732394366
+112,Face Oils,Origins,Plantscription™ Powerful Lifting Concentrate,$62.00,5.0,http://www.sephora.com/plantscription-tm-powerful-lifting-concentrate-P416814,1.0,4.963235294117647
+113,Face Oils,Shiseido,Future Solution LX Replenishing Treatment Oil,$175.00,5.0,http://www.sephora.com/future-solution-lx-replenishing-treatment-oil-P405402,3.0,4.959016393442623
+114,Face Oils,Estée Lauder,Advanced Night Repair Intensive Recovery Ampoules,$110.00,4.8,http://www.sephora.com/advanced-night-repair-intensive-recovery-ampoules-P411231,5.0,4.894957983193278
+115,Face Sunscreen,Shiseido,Future Solution LX Total Protective Emulsion Broad Spectrum SPF 18 Sunscreen,$240.00,4.5,http://www.sephora.com/future-solution-lx-total-protective-emulsion-broad-spectrum-spf-18-sunscreen-P384789,2.0,4.979674796747967
+116,Face Sunscreen,Shiseido,Future Solution LX Total Protective Cream Broad Spectrum SPF 18 Sunscreen,$240.00,3.0,http://www.sephora.com/future-solution-lx-total-protective-cream-broad-spectrum-spf-18-sunscreen-P384553,4.0,4.959514170040486
+117,Face Sunscreen,Colorescience,Mattifying Perfector Broad Spectrum SPF 20,$49.00,3.0,http://www.sephora.com/mattifying-perfector-broad-spectrum-spf-20-P414615,1.0,4.952830188679245
+118,Face Sunscreen,Black Up,Primer Broad Spectrum Sunscreen SPF 25,$45.00,4.0,http://www.sephora.com/primer-broad-spectrum-sunscreen-spf-25-P409815,1.0,4.95
+119,Face Sunscreen,Dior,Capture Totale Dreamskin Perfect Skin Cushion Broad Spectrum SPF 50 Refill,$42.00,5.0,http://www.sephora.com/capture-totale-dreamskin-perfect-skin-cushion-broad-spectrum-spf-50-refill-P415684,1.0,4.947916666666667
+120,Rollerballs & Travel Size,CLEAN,Reserve Travel Spray Layering Trio,$50.00,5.0,http://www.sephora.com/reserve-travel-spray-layering-trio-P408459,1.0,4.955357142857143
+121,Rollerballs & Travel Size,NEST,Dahlia & Vines Eau de Parfum Travel Spray with Two Refills,$49.00,3.0,http://www.sephora.com/dahlia-vines-eau-de-parfum-travel-spray-with-two-refills-P415633,1.0,4.952830188679245
+122,Rollerballs & Travel Size,Eight & Bob,Egypt Travel Spray,$45.00,4.0,http://www.sephora.com/egypt-travel-spray-P416048,1.0,4.95
+123,Rollerballs & Travel Size,TOCCA,Cleopatra Travel Spray,$38.00,4.0,http://www.sephora.com/cleopatra-travel-spray-P392931,1.0,4.941860465116279
+124,Rollerballs & Travel Size,HISTOIRES DE PARFUMS,1740 Travel Spray,$35.00,5.0,http://www.sephora.com/1740-travel-spray-P409736,1.0,4.939024390243903
+125,Mists & Essences,Omorovicza,Omoressence,$120.00,4.0,http://www.sephora.com/omoressence-P407893,1.0,4.98
+126,Mists & Essences,Estée Lauder,Nutritious Rosy Prism™ Radiant Essence,$80.00,4.0,http://www.sephora.com/nutritious-rosy-prism-radiant-essence-P389239,1.0,4.970588235294118
+127,Mists & Essences,Guerlain,Abeille Royale Dark Spot Corrector Pore Minimizer Serum,$150.00,2.6667,http://www.sephora.com/abeille-royale-dark-spot-corrector-pore-minimizer-serum-P385576,3.0,4.951612903225806
+128,Mists & Essences,L’Occitane,Immortelle Divine Extract,$116.00,4.5,http://www.sephora.com/immortelle-divine-extract-P394691,4.0,4.919354838709677
+129,Mists & Essences,Fresh,Crème Ancienne® Infusion Toner,$90.00,4.0,http://www.sephora.com/creme-ancienne-r-infusion-toner-P392618,5.0,4.873737373737374
+130,Color Correct,KEVYN AUCOIN,The Gossamer Loose Powder,$72.00,3.6667,http://www.sephora.com/the-gossamer-loose-powder-P405113,6.0,4.814814814814815
+131,Color Correct,Colorescience,Mineral Corrector Palette,$54.00,4.6667,http://www.sephora.com/mineral-corrector-palette-P407193,6.0,4.765625
+132,Color Correct,trèStiQue,"Conceal, Cover & Correct Crayon",$26.00,5.0,http://www.sephora.com/conceal-cover-correct-crayon-P416376,4.0,4.714285714285714
+133,Color Correct,Algenist,REVEAL Color Correcting Eye Serum Brightener,$31.00,4.4444,http://www.sephora.com/reveal-color-correcting-eye-serum-brightener-P411930,9.0,4.488636363636363
+134,Color Correct,Cinema Secrets,Ultimate Corrector 5-in-1 Pro Palette™,$36.00,4.1667,http://www.sephora.com/ultimate-corrector-5-in-1-pro-palette-P399916,12.0,4.423076923076923
+135,Blush,trèStiQue,Color & Contour Blush Stick,$34.00,5.0,http://www.sephora.com/color-contour-blush-stick-P417137,1.0,4.9375
+136,Blush,Smashbox,Glow & Go Set,$39.00,0.0,http://www.sephora.com/glow-go-set-P415967,1.0,4.9375
+137,Blush,bareMinerals,Invisible Glow™ Powder Highlighter,$28.00,0.0,http://www.sephora.com/invisible-glow-powder-highlighter-P417647,1.0,4.913793103448276
+138,Blush,trèStiQue,Color & Contour Bronzer Stick,$34.00,4.6667,http://www.sephora.com/color-contour-bronzer-stick-P416377,2.0,4.875
+139,Blush,Too Cool For School,Dinoplatz Cinema City CC Cheek Blusher,$39.00,3.6667,http://www.sephora.com/dinoplatz-cinema-city-cc-cheek-blusher-P399209,3.0,4.833333333333333
+140,Shaving,The Art of Shaving,Lexington Collection™ Shave Set,$150.00,2.0,http://www.sephora.com/lexington-collection-shave-set-P404493,1.0,4.983660130718954
+141,Shaving,The Art of Shaving,Lexington Collection™ Razor & Cartridge,$125.00,5.0,http://www.sephora.com/lexington-collection-tm-razor-cartridge-P387951,1.0,4.980916030534351
+142,Shaving,The Art of Shaving,Fusion Chrome Collection Shaving Brush,$80.00,2.5,http://www.sephora.com/fusion-chrome-collection-shaving-brush-P225345,2.0,4.940476190476191
+143,Shaving,The Art of Shaving,7-Piece Manicure Set,$160.00,3.5,http://www.sephora.com/7-piece-manicure-set-P383219,4.0,4.940119760479042
+144,Shaving,The Art of Shaving,Fusion Chrome Collection Shaving Brush & Razor Stand,$110.00,4.0,http://www.sephora.com/fusion-chrome-collection-shaving-brush-razor-stand-P225346,3.0,4.935897435897436
+145,Frizz,Rahua,Hair Detox And Renewal Treatment Kit,$98.00,3.0,http://www.sephora.com/hair-detox-renewal-treatment-kit-P410648,2.0,4.951456310679611
+146,Frizz,SHOW BEAUTY,Sublime Repair Conditioner,$45.00,4.0,http://www.sephora.com/sublime-repair-conditioner-P411893,1.0,4.95
+147,Frizz,Rahua,Elixir,$175.00,4.8,http://www.sephora.com/elixir-P407491,5.0,4.932065217391305
+148,Frizz,IGK,Sold Out Curl Priming Basecoat,$27.00,5.0,http://www.sephora.com/sold-out-curl-priming-basecoat-P416405,1.0,4.924242424242424
+149,Frizz,Rahua,Control Cream Curl Styler,$26.00,4.0,http://www.sephora.com/control-cream-curl-styler-P412079,1.0,4.919354838709677
+150,Face Wash & Cleansers,Omorovicza,Moor Mud Set,$125.00,5.0,http://www.sephora.com/moor-mud-set-P414542,2.0,4.962121212121212
+151,Face Wash & Cleansers,Erno Laszlo,Hydra-Therapy Cleansing Oil,$58.00,5.0,http://www.sephora.com/hydra-therapy-cleansing-oil-P413431,1.0,4.9609375
+152,Face Wash & Cleansers,Kate Somerville,KateCeuticals™ Moisture Milk Cleanser,$58.00,4.0,http://www.sephora.com/kateceuticals-moisture-milk-cleanser-P409916,2.0,4.921875
+153,Face Wash & Cleansers,Skin Laundry,Acne Face Wash with Salicylic Acid,$25.00,5.0,http://www.sephora.com/acne-face-wash-with-salicylic-acid-P416600,1.0,4.919354838709677
+154,Face Wash & Cleansers,L’Occitane,Shea Comforting Foaming Cleanser,$26.00,0.0,http://www.sephora.com/shea-comforting-foaming-cleanser-P415927,1.0,4.907407407407407
+155,Spa Tools,Clarisonic,Head-to-Toe Smart Brush Head Collection,$99.00,5.0,http://www.sephora.com/head-to-toe-smart-brush-head-collection-P406252,1.0,4.976190476190476
+156,Spa Tools,CLINIQUE,Clinique for Men Sonic System Deep Cleansing Brush,$89.50,5.0,http://www.sephora.com/clinique-for-men-sonic-system-deep-cleansing-brush-P398908,1.0,4.973684210526316
+157,Spa Tools,Clarisonic,Brush Head Best Sellers,$81.00,5.0,http://www.sephora.com/brush-head-best-sellers-P416821,1.0,4.971264367816092
+158,Spa Tools,Dr. Dennis Gross Skincare,Sleeping Beauty Fix,$150.00,5.0,http://www.sephora.com/sleeping-beauty-fix-P408049,2.0,4.968152866242038
+159,Spa Tools,Tria,Hair Removal Laser 4X,$449.00,4.875,http://www.sephora.com/hair-removal-laser-4x-P409997,8.0,4.956616052060737
+160,Damaged Hair,SHOW BEAUTY,Sublime Repair Conditioner,$45.00,4.0,http://www.sephora.com/sublime-repair-conditioner-P411893,1.0,4.95
+161,Damaged Hair,Lavett & Chin,Hair Wash - Light,$38.00,5.0,http://www.sephora.com/hair-wash-light-P407723,1.0,4.943181818181818
+162,Damaged Hair,Sachajuan,Hair In The Sun,$32.00,5.0,http://www.sephora.com/hair-in-sun-P410235,1.0,4.934210526315789
+163,Damaged Hair,Rahua,Elixir,$175.00,4.8,http://www.sephora.com/elixir-P407491,5.0,4.932065217391305
+164,Damaged Hair,Sachajuan,Conditioner,$29.00,5.0,http://www.sephora.com/conditioner-P410219,1.0,4.928571428571429
+165,Cologne,Acqua Di Parma,Colonia Ambra,$295.00,4.0,http://www.sephora.com/colonia-ambra-P396296,1.0,4.991666666666666
+166,Cologne,Givenchy,L’Atelier de Givenchy Oud Flamboyant,$235.00,5.0,http://www.sephora.com/l-atelier-de-givenchy-oud-flamboyant-P415951,1.0,4.9896265560165975
+167,Cologne,Atelier Cologne,Philtre Ceylan Cologne Absolue Pure Perfume,$130.0,3.0,http://www.sephora.com/philtre-ceylan-cologne-absolue-pure-perfume-P406510,1.0,4.981343283582089
+168,Cologne,CHANEL,ALLURE HOMME SPORT Cologne,$125.00,5.0,http://www.sephora.com/allure-homme-sport-cologne-P180508,1.0,4.980916030534351
+169,Cologne,Atelier Cologne,Poivre Electrique,$250.00,3.5,http://www.sephora.com/poivre-electrique-P406511,2.0,4.980392156862745
+170,Eyeliner,Too Cool For School,Glam Rock Extreme Color Eyes Eyeliner,$22.00,3.0,http://www.sephora.com/glam-rock-extreme-color-eyes-eyeliner-P404110,1.0,4.903846153846154
+171,Eyeliner,Bobbi Brown,Line & Define Long-Wear Eye Set,$56.00,3.5,http://www.sephora.com/line-define-long-wear-eye-set-P414773,4.0,4.841269841269841
+172,Eyeliner,surratt beauty,Auto-Graphique Eyeliner Refill,$18.00,5.0,http://www.sephora.com/auto-graphique-eyeliner-refill-P394172,2.0,4.8
+173,Eyeliner,KEVYN AUCOIN,The Precision Eye Definer,$32.00,4.0,http://www.sephora.com/the-precision-eye-definer-P407713,4.0,4.75
+174,Eyeliner,Giorgio Armani Beauty,Smooth Silk Eye Pencil,$30.00,3.5,http://www.sephora.com/smooth-silk-eye-pencil-P393444,4.0,4.72972972972973
+175,Eye Brushes,surratt beauty,Artistique Concealer Brush Grande,$50.00,5.0,http://www.sephora.com/artistique-concealer-brush-grande-P394806,1.0,4.955357142857143
+176,Eye Brushes,surratt beauty,Artistique Concealer Brush Petite,$45.00,5.0,http://www.sephora.com/artistique-concealer-brush-petite-P394805,1.0,4.950980392156863
+177,Eye Brushes,KEVYN AUCOIN,The Base Eye Shadow Brush,$40.00,5.0,http://www.sephora.com/the-base-eye-shadow-brush-P393957,1.0,4.945652173913044
+178,Eye Brushes,surratt beauty,Artistique Smoky Eye Brush Grande,$75.00,3.5,http://www.sephora.com/artistique-smoky-eye-brush-grande-P394812,2.0,4.9375
+179,Eye Brushes,Black Up,Lip and Concealing Brush,$29.50,5.0,http://www.sephora.com/lip-concealing-brush-P400907,1.0,4.928571428571429
+180,Hand Cream & Foot Cream,VERSO SKINCARE,Hand Serum,$55.00,4.0,http://www.sephora.com/hand-serum-P414718,1.0,4.958333333333333
+181,Hand Cream & Foot Cream,Clarisonic,Pedi-Boost,$32.00,5.0,http://www.sephora.com/pedi-boost-P384082,1.0,4.934210526315789
+182,Hand Cream & Foot Cream,Atelier Cologne,Bergamote Soleil Hand Cream,$25.00,5.0,http://www.sephora.com/bergamote-soleil-hand-cream-P412551,1.0,4.919354838709677
+183,Hand Cream & Foot Cream,Atelier Cologne,Orange Sanguine Hand Cream,$25.00,1.0,http://www.sephora.com/orange-sanguine-hand-cream-P412548,1.0,4.907407407407407
+184,Hand Cream & Foot Cream,NEST,Cashmere Suede Hand Lotion,$24.00,1.0,http://www.sephora.com/cashmere-suede-hand-lotion-P412376,1.0,4.903846153846154
+185,Blemish & Acne Treatments,Skin Laundry,Acne Face Wash with Salicylic Acid,$25.00,5.0,http://www.sephora.com/acne-face-wash-with-salicylic-acid-P416600,1.0,4.919354838709677
+186,Blemish & Acne Treatments,Lancer,The Method: Nourish Blemish Control,$125.00,3.6,http://www.sephora.com/the-method-nourish-blemish-control-P399745,5.0,4.906015037593985
+187,Blemish & Acne Treatments,Lancer,The Method: Cleanse Blemish Control,$55.00,4.5,http://www.sephora.com/the-method-cleanse-blemish-control-P399742,4.0,4.841269841269841
+188,Blemish & Acne Treatments,Kate Somerville,EradiKate™ To-Go & Oil Free Moisturizer,$38.00,3.6667,http://www.sephora.com/eradikate-to-go-oil-free-moisturizer-P409658,3.0,4.829545454545454
+189,Blemish & Acne Treatments,Cane + Austin,Acne Retexture Pad +,$70.00,4.3333,http://www.sephora.com/acne-retexture-pad-P409543,6.0,4.8125
+190,Night Creams,Omorovicza,Instant Plumping Cream Overnight Mask,$260.00,3.5,http://www.sephora.com/instant-plumping-cream-P309213,2.0,4.981132075471698
+191,Night Creams,Clarins,Super Restorative Night Age Spot Correcting Replenishing Cream,$135.00,4.5,http://www.sephora.com/super-restorative-night-age-spot-correcting-replenishing-cream-P388544,2.0,4.964539007092198
+192,Night Creams,Origins,Plantscription™ Youth-Renewing Power Night Cream,$59.00,3.0,http://www.sephora.com/plantscription-youth-renewing-power-night-cream-P408241,1.0,4.9603174603174605
+193,Night Creams,KAPLAN MD,Night Replenishment Concentrate,$115.00,3.0,http://www.sephora.com/night-replenishment-concentrate-P392462,2.0,4.958333333333333
+194,Night Creams,CLINIQUE,Repairwear Laser Focus Night Line Smoothing Cream for Combination Oily to Oily Skin,$50.00,5.0,http://www.sephora.com/repairwear-laser-focus-night-line-smoothing-cream-for-combination-oily-to-oily-skin-P405824,1.0,4.955357142857143
+195,Highlighter,Black Up,Strobing Base - Primer,$44.00,5.0,http://www.sephora.com/strobing-base-primer-P416364,1.0,4.95
+196,Highlighter,Black Up,Strobing Highlighting Stick,$34.00,5.0,http://www.sephora.com/strobing-highlighting-stick-P416365,1.0,4.9375
+197,Highlighter,Smashbox,Glow & Go Set,$39.00,0.0,http://www.sephora.com/glow-go-set-P415967,1.0,4.9375
+198,Highlighter,Dr. Brandt Skincare,pores no more® Luminizer Primer,$38.00,0.0,http://www.sephora.com/pores-no-more-luminizer-primer-P417002,1.0,4.935897435897436
+199,Highlighter,Estée Lauder,Bronze Goddess Summer Glow Illuminator,$32.00,1.0,http://www.sephora.com/bronze-goddess-summer-glow-illuminator-P407160,1.0,4.926470588235294
+200,Concealer,Omorovicza,Mineral Touch,$65.00,4.2,http://www.sephora.com/mineral-touch-P397823,5.0,4.831081081081081
+201,Concealer,Black Up,Radiance Concealer,$29.50,4.0,http://www.sephora.com/radiance-concealer-P400921,4.0,4.72972972972973
+202,Concealer,trèStiQue,"Conceal, Cover & Correct Crayon",$26.00,5.0,http://www.sephora.com/conceal-cover-correct-crayon-P416376,4.0,4.714285714285714
+203,Concealer,BURBERRY,Sheer Luminous Concealer,$40.00,3.8333,http://www.sephora.com/sheer-luminous-concealer-P398997,6.0,4.6938775510204085
+204,Concealer,Giorgio Armani Beauty,Compact Cream Concealer,$42.00,3.8571,http://www.sephora.com/compact-cream-concealer-P411921,7.0,4.663461538461538
+205,Sheet Masks,Eve Lom,WHITE Brightening Mask,$160.00,3.5,http://www.sephora.com/white-brightening-mask-P409629,2.0,4.96969696969697
+206,Sheet Masks,Shiseido,Triple Task Masks,$38.00,5.0,http://www.sephora.com/triple-task-masks-P416142,1.0,4.943181818181818
+207,Sheet Masks,SK-II,Skin Signature 3D Redefining Mask,$150.00,4.3333,http://www.sephora.com/skin-signature-3d-redefining-mask-P375860,6.0,4.90625
+208,Sheet Masks,Karuna,Correct+ Melting Boost,$18.00,5.0,http://www.sephora.com/correct-melting-boost-P410874,1.0,4.895833333333333
+209,Sheet Masks,Karuna,Spot+ Melting Boost,$18.00,5.0,http://www.sephora.com/spot-melting-boost-P410875,1.0,4.895833333333333
+210,Bronzer,Guerlain,Bronzing Powder Kit,$53.00,0.0,http://www.sephora.com/bronzing-powder-kit-P410533,1.0,4.953703703703703
+211,Bronzer,rms beauty,Contour Bronzer,$28.00,4.0,http://www.sephora.com/contour-bronzer-P415650,1.0,4.924242424242424
+212,Bronzer,SWEAT COSMETICS,Refill: Sweat Mineral Bronzer SPF 25,$24.00,5.0,http://www.sephora.com/refill-sweat-mineral-bronzer-spf-25-P411568,1.0,4.916666666666667
+213,Bronzer,bareMinerals,Invisible Bronze™ Powder Bronzer,$28.00,0.0,http://www.sephora.com/invisible-bronze-powder-bronzer-P417646,1.0,4.913793103448276
+214,Bronzer,Tata Harper,Very Bronzing Cheek Tint,$40.00,3.0,http://www.sephora.com/very-bronzing-cheek-tint-P403320,2.0,4.888888888888889
+215,Volume,Rahua,Defining Hair Spray,$37.00,5.0,http://www.sephora.com/defining-hair-spray-P407495,1.0,4.941860465116279
+216,Volume,SHOW BEAUTY,Lux Volume Mist,$40.00,1.0,http://www.sephora.com/lux-volume-mist-P394231,1.0,4.940476190476191
+217,Volume,Ouidad,Curl Quencher® Trial Set for Tight Curls,$36.00,4.0,http://www.sephora.com/curl-quencher-trial-set-for-tight-curls-P401134,1.0,4.939024390243903
+218,Volume,Rahua,Freestyle Texturizer,$34.00,5.0,http://www.sephora.com/freestyle-texturizer-P414663,1.0,4.9375
+219,Volume,SHOW BEAUTY,Lux Volume Mousse,$35.00,3.0,http://www.sephora.com/lux-volume-mousse-P394237,1.0,4.935897435897436
+220,Face Primer,Colorescience,Mattifying Perfector Broad Spectrum SPF 20,$49.00,3.0,http://www.sephora.com/mattifying-perfector-broad-spectrum-spf-20-P414615,1.0,4.952830188679245
+221,Face Primer,Black Up,Primer Broad Spectrum Sunscreen SPF 25,$45.00,4.0,http://www.sephora.com/primer-broad-spectrum-sunscreen-spf-25-P409815,1.0,4.95
+222,Face Primer,Black Up,Strobing Base - Primer,$44.00,5.0,http://www.sephora.com/strobing-base-primer-P416364,1.0,4.95
+223,Face Primer,Smashbox,Glow & Go Set,$39.00,0.0,http://www.sephora.com/glow-go-set-P415967,1.0,4.9375
+224,Face Primer,Dr. Brandt Skincare,pores no more® Luminizer Primer,$38.00,0.0,http://www.sephora.com/pores-no-more-luminizer-primer-P417002,1.0,4.935897435897436
+225,Eye Palettes,Natasha Denona,Eyeshadow Palette 10,$95.00,5.0,http://www.sephora.com/eyeshadow-palette-10-P411827,6.0,4.8584905660377355
+226,Eye Palettes,Guerlain,Palette 5 Couleurs,$69.00,3.4,http://www.sephora.com/palette-5-couleurs-P412121,5.0,4.837662337662338
+227,Eye Palettes,Viseart,Eyeshadow & Eyebrow Palette,$80.00,4.375,http://www.sephora.com/viseart-eyeshadow-eyebrow-palette-P405604,8.0,4.782608695652174
+228,Eye Palettes,Givenchy,Nudes Nacres Shimmering Nudes Eye Palette,$66.00,3.6667,http://www.sephora.com/nudes-nacres-shimmering-nudes-eye-palette-P416201,8.0,4.740259740259741
+229,Eye Palettes,Givenchy,Le Prisme Superstellar Intense & Radiant Eyeshadow,$63.00,4.5556,http://www.sephora.com/le-prisme-superstellar-intense-radiant-eyeshadow-P410770,9.0,4.703947368421052
+230,Setting Spray & Powder,Koh Gen Do,Maifanshi Pressed Powder,$63.00,5.0,http://www.sephora.com/maifanshi-pressed-powder-P384404,1.0,4.963768115942029
+231,Setting Spray & Powder,Guerlain,Meteorites Voyage Exceptional Compact Pearls Refill,$59.00,5.0,http://www.sephora.com/meteorites-voyage-exceptional-compact-pearls-refill-P405225,1.0,4.961538461538462
+232,Setting Spray & Powder,MAKE UP FOR EVER,Long Lasting Complexion Set,$37.00,5.0,http://www.sephora.com/long-lasting-complexion-set-P416043,1.0,4.941860465116279
+233,Setting Spray & Powder,Givenchy,Prisme Libre Loose Powder- Chinese New Year Edition,$55.00,4.5,http://www.sephora.com/prisme-libre-loose-powder-chinese-new-year-edition-P415966,2.0,4.918032786885246
+234,Setting Spray & Powder,Guerlain,Meteorites Voyage Exceptional Compacted Pearls Of Powder,$179.00,3.7143,http://www.sephora.com/meteorites-voyage-exceptional-compacted-pearls-powder-P405073,7.0,4.907407407407407
+235,Under-Eye Concealer,Omorovicza,Mineral Touch,$65.00,4.2,http://www.sephora.com/mineral-touch-P397823,5.0,4.831081081081081
+236,Under-Eye Concealer,Black Up,Radiance Concealer,$29.50,4.0,http://www.sephora.com/radiance-concealer-P400921,4.0,4.72972972972973
+237,Under-Eye Concealer,trèStiQue,"Conceal, Cover & Correct Crayon",$26.00,5.0,http://www.sephora.com/conceal-cover-correct-crayon-P416376,4.0,4.714285714285714
+238,Under-Eye Concealer,BURBERRY,Sheer Luminous Concealer,$40.00,3.8333,http://www.sephora.com/sheer-luminous-concealer-P398997,6.0,4.6938775510204085
+239,Under-Eye Concealer,Giorgio Armani Beauty,Compact Cream Concealer,$42.00,3.8571,http://www.sephora.com/compact-cream-concealer-P411921,7.0,4.663461538461538
+240,Body Lotions & Body Oils,Tory Burch,Tory Burch Crème De Florale Body Crème,$82.00,5.0,http://www.sephora.com/tory-burch-creme-de-florale-body-cr-egrave-me-P404284,1.0,4.971590909090909
+241,Body Lotions & Body Oils,TOM FORD,Oud Wood Body Moisturizer,$67.00,5.0,http://www.sephora.com/oud-wood-body-moisturizer-P393173,1.0,4.965753424657534
+242,Body Lotions & Body Oils,Michael Kors,Michael Kors Body Crème,$60.00,5.0,http://www.sephora.com/michael-kors-body-creme-P395446,1.0,4.962121212121212
+243,Body Lotions & Body Oils,AERIN,Lilac Path Body Cream,$58.00,5.0,http://www.sephora.com/lilac-path-body-cream-P395770,1.0,4.9609375
+244,Body Lotions & Body Oils,AERIN,Gardenia Rattan Body Cream,$58.00,5.0,http://www.sephora.com/gardenia-rattan-body-cream-P395776,1.0,4.9609375
+245,Anti-Aging,NuFACE,Trinity Facial Toning Device + Wrinkle Reducer Attachment Bundle,$429.00,5.0,http://www.sephora.com/trinity-facial-toning-device-wrinkle-reducer-attachment-bundle-P393600,1.0,4.994252873563219
+246,Anti-Aging,NuFACE,White Rose Mini Facial Toning Device,$225.00,1.0,http://www.sephora.com/white-rose-mini-facial-toning-device-P401172,1.0,4.988986784140969
+247,Anti-Aging,NuFACE,Haute Contour Facial Toning Gift Set,$429.00,4.25,http://www.sephora.com/haute-contour-facial-toning-gift-set-P411816,4.0,4.977116704805492
+248,Anti-Aging,PMD,Personal Microderm PRO Blue Deluxe Kit,$199.00,3.0,http://www.sephora.com/personal-microderm-pro-blue-deluxe-kit-P414720,2.0,4.9754901960784315
+249,Anti-Aging,NuFACE,Mini Facial Toning Device + LIFTER Vitamin C & Hyaluronic Acid Serum,$199.00,3.5,http://www.sephora.com/mini-facial-toning-device-lifter-vitamin-c-hyaluronic-acid-serum-P391365,3.0,4.963414634146342
+250,Hair Color,SHOW BEAUTY,Sublime Repair Conditioner,$45.00,4.0,http://www.sephora.com/sublime-repair-conditioner-P411893,1.0,4.95
+251,Hair Color,Lavett & Chin,Hair Wash - Light,$38.00,5.0,http://www.sephora.com/hair-wash-light-P407723,1.0,4.943181818181818
+252,Hair Color,ALTERNA Haircare,CAVIAR Infinite Color Hold Vibrancy Serum,$34.00,5.0,http://www.sephora.com/caviar-infinite-color-hold-vibrancy-serum-P416598,1.0,4.9375
+253,Hair Color,SHOW BEAUTY,Lux Volume Mousse,$35.00,3.0,http://www.sephora.com/lux-volume-mousse-P394237,1.0,4.935897435897436
+254,Hair Color,Sachajuan,Hair In The Sun,$32.00,5.0,http://www.sephora.com/hair-in-sun-P410235,1.0,4.934210526315789
+255,Moisturizer & Treatments,HERMÈS,Voyage d’Hermès Moisturizing Face and Body Balm,$74.00,4.0,http://www.sephora.com/voyage-d-hermes-moisturizing-face-body-balm-P380628,1.0,4.968354430379747
+256,Moisturizer & Treatments,Jack Black,Dry Erase® Ultra-Calming Face Cream,$38.00,4.0,http://www.sephora.com/dry-erase-ultra-calming-face-cream-P397665,1.0,4.941860465116279
+257,Moisturizer & Treatments,The Art of Shaving,Facial Scrub - Peppermint Essential Oil,$25.00,5.0,http://www.sephora.com/facial-scrub-peppermint-essential-oil-P405189,1.0,4.919354838709677
+258,Moisturizer & Treatments,DTRT,Get Ready BB SPF 50+ PA+++,$24.00,5.0,http://www.sephora.com/get-ready-bb-spf-50-pa-P398808,1.0,4.916666666666667
+259,Moisturizer & Treatments,L’Occitane,Cade Complete Care Moisturizer,$44.00,4.0,http://www.sephora.com/cade-complete-care-moisturizer-P397451,2.0,4.9
+260,Eye Creams & Treatments,KAPLAN MD,Intensive Eye Concentrate,$85.00,2.0,http://www.sephora.com/intensive-eye-concentrate-P392463,1.0,4.971590909090909
+261,Eye Creams & Treatments,Eve Lom,Time Retreat Eye Treatment,$75.00,5.0,http://www.sephora.com/time-retreat-eye-treatment-P414077,1.0,4.969135802469136
+262,Eye Creams & Treatments,philosophy,Time In A Bottle For Eyes 100% In-Control,$65.00,5.0,http://www.sephora.com/time-in-bottle-for-eyes-100-in-control-P416399,1.0,4.964788732394366
+263,Eye Creams & Treatments,Tria,Nourishing Eye Renewal Cream,$65.00,1.0,http://www.sephora.com/nourishing-eye-renewal-cream-P398819,1.0,4.962686567164179
+264,Eye Creams & Treatments,Dior,Capture Totale 360 Light-Up Open-Up Replenishing Eye Serum,$110.00,3.5,http://www.sephora.com/capture-totale-360-light-up-open-up-replenishing-eye-serum-P405932,2.0,4.956521739130435
+265,Lip Gloss,Marc Jacobs Beauty,Enamored With a Twist - 3-piece Enamored Hi-Shine Gloss Lip Lacquer Collection,$54.00,0.0,http://www.sephora.com/enamored-with-twist-3-piece-enamored-hi-shine-gloss-lip-lacquer-collection-P417401,2.0,4.910714285714286
+266,Lip Gloss,Michael Kors,Glam Jasmine Eau de Parfum Rollerball & Lip Luster Duo,$28.00,5.0,http://www.sephora.com/glam-jasmine-eau-de-parfum-rollerball-lip-luster-duo-P408461,2.0,4.857142857142857
+267,Lip Gloss,Michael Kors,Sexy Amber Eau de Parfum Rollerball & Lip Luster Duo,$28.00,4.5,http://www.sephora.com/sexy-amber-eau-de-parfum-rollerball-lip-luster-duo-P408462,2.0,4.852941176470588
+268,Lip Gloss,NUDESTIX,Lip Pen Gloss,$24.00,3.3333,http://www.sephora.com/lip-pen-gloss-P402660,3.0,4.75
+269,Lip Gloss,rms beauty,Lip Shine,$25.00,5.0,http://www.sephora.com/lip-shine-P415648,4.0,4.705882352941177
+270,Moisturizers,Guerlain,Abeille Royale Day Cream,$154.00,5.0,http://www.sephora.com/abeille-royale-day-cream-P411024,1.0,4.984375
+271,Moisturizers,Shiseido,Future Solution LX Total Protective Emulsion Broad Spectrum SPF 18 Sunscreen,$240.00,4.5,http://www.sephora.com/future-solution-lx-total-protective-emulsion-broad-spectrum-spf-18-sunscreen-P384789,2.0,4.979674796747967
+272,Moisturizers,KENZOKI,Belle de Jour Fantastic Fluid,$107.00,5.0,http://www.sephora.com/belle-de-jour-fantastic-fluid-P399724,1.0,4.977876106194691
+273,Moisturizers,Acqua Di Parma,Blu Mediterraneo Italian Resort Moisturizing Face Lotion,$80.00,2.0,http://www.sephora.com/blu-mediterraneo-italian-resort-moisturizing-face-lotion-P408979,1.0,4.969879518072289
+274,Moisturizers,Eve Lom,WHITE Brightening Lotion,$75.00,5.0,http://www.sephora.com/white-brightening-lotion-P409627,1.0,4.969135802469136
