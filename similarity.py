@@ -4,6 +4,7 @@ import codecs
 import math
 import sys
 import time
+import glob
 
 # Get cosine similarity of two vectors
 def getCos(vec1, vec2):
@@ -23,20 +24,25 @@ def text_to_vector(text):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) != 3:
-        print('Usage: python similarity.py text.txt description.txt')
-        sys.exit(1)
+    files_des=[]
+    files_rev=[]
+    files_des = glob.glob("/Users/admin/Desktop/CS/NLPK/dataset/*_des.txt")
+    files_rev = glob.glob("/Users/admin/Desktop/CS/NLPK/dataset/*_rev.txt")
+    text1=[]
+    text2=[]
 
-    text1 = codecs.open(sys.argv[1], 'r', encoding='utf-8',
+    for i in  range (0, 5):
+        des = codecs.open(files_des[i], 'r', encoding='utf-8',
                     errors='ignore').read()
-    text2 = codecs.open(sys.argv[2], 'r', encoding='utf-8',
+        text1.append(des)
+        rev = codecs.open(files_rev[i], 'r', encoding='utf-8',
                     errors='ignore').read()
+        text2.append(rev)
+        vector1 = text_to_vector(tb(text1[i]))
+        vector2 = text_to_vector(tb(text2[i]))
+        cos = getCos(vector1, vector2)
+        print(cos)
 
-    start_time = time.time()
 
-    vector1 = text_to_vector(tb(text1))
-    vector2 = text_to_vector(tb(text2))
-    cos = getCos(vector1, vector2)
 
-    print("Cosine Similarity between %s and %s: %f" % (sys.argv[1], sys.argv[2], cos))
-    print("Running time: %s seconds" % (time.time() - start_time))
+
